@@ -1,1 +1,15 @@
+# الكتب الخام وملفات الرفع المؤقتة
+uploads/
+*.pdf
+*.epub
+
+# أداة التحويل المحلية ومجلدات العمل المؤقتة
+book-to-skill/
+book_skill_work*/
+/tmp/
+
+# ملفات النظام وبايثون
+__pycache__/
+*.py[cod]
+.DS_Store
 *.bundle
