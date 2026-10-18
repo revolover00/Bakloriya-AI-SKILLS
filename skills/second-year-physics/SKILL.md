@@ -54,6 +54,9 @@ description: "Egyptian Baccalaureate / Thanaweyya Amma Grade 11 (2nd Secondary /
 
 ## فهرس الفصول التفصيلية (تُحمَّل عند الطلب)
 
+> **للوصول المباشر عبر الويب (`Raw URL`):** أضف المسار أدناه إلى الرابط الأساسي:
+> `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/`
+
 | الفصل | الموضوع | الملف التفصيلي | المفاهيم والقوانين المحورية |
 |---|---|---|---|
 | **ch00** | الكميات والوحدات والمتجهات | [ch00-intro-quantities-units-vectors.md](chapters/ch00-intro-quantities-units-vectors.md) | قياسية/متجهة، أساسية/مشتقة، بادئات SI، الصيغة المعيارية، المسافة والإزاحة، تحليل المتجهات |
