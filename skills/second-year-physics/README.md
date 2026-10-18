@@ -2,7 +2,7 @@
 
 **[⬅️ العودة إلى الصفحة الرئيسية للمستودع (`Bakloriya-AI-SKILLS`)](../../README.md)**
 
-مرجع تعليمي مهيكل بالكامل لمنهج **الفيزياء للصف الثاني بكالوريا (الصف الثاني الثانوي — المنهج المصري)**، مستخرج بدقة من الكتاب المدرسي الرسمي (269 صفحة، 14 فصلًا). يضم جميع التعريفات الرسمية («المصطلح العلمي»)، القوانين والعلاقات الرياضية بوحداتها، الأمثلة المحلولة خطوة بخطوة، أنماط الاختيار من متعدد (النسب والتناسبات)، وأسئلة «فسّر / ماذا يحدث / قارن».
+مهارة تعليمية ومرجعية مهيكلة بالكامل لمنهج **الفيزياء للصف الثاني بكالوريا (الصف الثاني الثانوي — المنهج المصري)** تغطي الـ 14 فصلًا المقررة. تضم جميع التعريفات العلمية («المصطلح العلمي»)، القوانين والعلاقات الرياضية بوحداتها، الأمثلة المحلولة خطوة بخطوة، أنماط الاختيار من متعدد (النسب والتناسبات)، وأسئلة «فسّر / ماذا يحدث / قارن».
 
 ---
 
@@ -15,11 +15,9 @@
 اقرأ أولًا فهرس الفصول وبروتوكول الحل من هذا الرابط النصي المباشر (Raw):
 https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/SKILL.md
 
-عندما أسألك عن أي درس أو مسألة، افتح رابط الـ Raw الخاص بالفصل المطلوب (من ch00 إلى ch13) أو ملف الأنماط (patterns.md) أو الملخص (cheatsheet.md)، والتزم حرفيًا برموز وقوانين الكتاب المدرسي المصري والخطوات السبع لحل المسائل دون تقريب مبكر.
+عندما أسألك عن أي درس أو مسألة، افتح رابط الـ Raw الخاص بالفصل المطلوب (من ch00 إلى ch13) أو ملف الأنماط (patterns.md) أو الملخص (cheatsheet.md)، والتزم برموز وقوانين المنهج المصري والخطوات السبع لحل المسائل دون تقريب مبكر.
 رحّب بي الآن واسألني: أي فصل أو مسألة فيزياء نبدأ بها اليوم؟
 ```
-
-> **ملاحظة:** في حال استخدام نموذج لا يدعم فتح الروابط الخارجية، يمكنك تحميل ملفات هذا المجلد ورفعها مباشرةً في المحادثة أو داخل **Claude Projects / ChatGPT Projects / Google NotebookLM** مع نفس البرومبت.
 
 ---
 
@@ -28,7 +26,7 @@ https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/se
 | الملف | الوظيفة والمحتوى | تصفح الملف | رابط `Raw` المباشر للذكاء الاصطناعي |
 |---|---|---|---|
 | **`SKILL.md`** | الفهرس الرئيسي + بروتوكول الحل (الخطوات السبع) + الأخطاء الشائعة + توجيه المسائل | [`SKILL.md`](SKILL.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/SKILL.md) |
-| **`glossary.md`** | قاموس المصطلحات العلمية الحرفية كما وردت في الكتاب المدرسي مرتبًا أبجديًا | [`glossary.md`](glossary.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/glossary.md) |
+| **`glossary.md`** | قاموس المصطلحات العلمية مرتبًا أبجديًا | [`glossary.md`](glossary.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/glossary.md) |
 | **`patterns.md`** | 12 قالبًا قياسيًا لحل جميع أنماط مسائل المنهج خطوة بخطوة | [`patterns.md`](patterns.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/patterns.md) |
 | **`cheatsheet.md`** | الملخص السريع، قواعد الإشارات والزوايا، وجداول النسب والتناسبات لأسئلة `MCQ` | [`cheatsheet.md`](cheatsheet.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/cheatsheet.md) |
 
@@ -57,8 +55,8 @@ https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/se
 
 ## 🧠 منهجية حل مسائل الفيزياء المعتمدة في المرجع (الخطوات السبع)
 
-يلتزم المعلم الذكي عند حل أي مسألة بالخطوات السبع القياسية للكتاب المدرسي:
-1. **استخراج المعطيات والمطلوب** برموز الكتاب الرسمية.
+يلتزم المعلم الذكي عند حل أي مسألة بالخطوات السبع القياسية للمنهج:
+1. **استخراج المعطيات والمطلوب** بالرموز المعتمدة.
 2. **توحيد الوحدات إلى النظام الدولي (`SI`)** قبل التعويض ($\text{km/h} \div 3.6 \to \text{m/s}$، $\text{rpm} \times \frac{2\pi}{60} \to \text{rad/s}$).
 3. **تحديد المحاور والإشارات** (خاصة في السقوط الحر، القذف الرأسي، والارتداد في كمية التحرك).
 4. **رسم المخطط الحر (`Free-Body Diagram`)** لعزل الجسم وتحديد القوى المؤثرة عليه.

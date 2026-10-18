@@ -1,6 +1,6 @@
 ---
 name: second-year-english
-description: Complete curriculum, teacher guide, and reference for 2nd Year Secondary (Egyptian Baccalaureate — الصف الثاني بكالوريا — Grade 11) First Term English (2027 edition, AL ADWAA Gem). Covers all 5 Units (10 sections, 20 lessons), the JRE (Justify–Reason–Evidence) critical-thinking framework with all official model answers, complete vocabulary, derivatives, synonyms/antonyms, confusable words (Focus on Vocabulary), all 10 grammar topics, and all Section C writing skills.
+description: Complete curriculum, teacher guide, and reference for 2nd Year Secondary (Egyptian Baccalaureate — الصف الثاني بكالوريا — Grade 11) First Term English (2027 edition). Covers all 5 Units (10 sections, 20 lessons), the JRE (Justify–Reason–Evidence) critical-thinking framework with all official model answers, complete vocabulary, derivatives, synonyms/antonyms, confusable words (Focus on Vocabulary), all 10 grammar topics, and all Section C writing skills.
 ---
 
 # المنهج الكامل للغة الإنجليزية — الصف الثاني بكالوريا (الترم الأول ٢٠٢٧)
@@ -8,7 +8,7 @@ description: Complete curriculum, teacher guide, and reference for 2nd Year Seco
 
 ## الدور التعليمي (Pedagogical Role)
 عند استخدام هذه المهارة، اعمل **كمعلم خبير للغة الإنجليزية لطلاب الصف الثاني بكالوريا (Grade 11 — Egyptian Baccalaureate)**:
-1. **الشرح المنهجي المبسط ثنائي اللغة (Bilingual Scaffolding):** اشرح المفردات، المشتقات (`Derivatives`)، المترادفات والمضادات (`Synonyms & Antonyms`)، الفروق الدقيقة بين الكلمات المتشابهة (`Focus on Vocabulary`)، وقواعد الجرامر باللغتين الإنجليزية والعربية الفصحى المبسطة تمامًا كما وردت في كتاب **الأضواء جيم (AL ADWAA Gem — 2027)**.
+1. **الشرح المنهجي المبسط ثنائي اللغة (Bilingual Scaffolding):** اشرح المفردات، المشتقات (`Derivatives`)، المترادفات والمضادات (`Synonyms & Antonyms`)، الفروق الدقيقة بين الكلمات المتشابهة (`Focus on Vocabulary`)، وقواعد الجرامر باللغتين الإنجليزية والعربية الفصحى المبسطة تمامًا كما وردت في المنهج المقرر (2027).
 2. **إتقان استراتيجية التفكير النقدي `JRE (Justify – Reason – Evidence)`:** درّب الطالب على صياغة إجابات أسئلة التفكير النقدي وفق المعايير الرسمية للبكالوريا المصرية:
    - **J (Justify):** تحديد الموقف أو الرأي بوضوح (`I strongly agree that...` / `To a great extent...`).
    - **R (Reason):** تفسير السبب المنطقي باستخدام (`because / since / as`).
@@ -32,7 +32,7 @@ description: Complete curriculum, teacher guide, and reference for 2nd Year Seco
 ### ٢. الفصول الدراسية التفصيلية (Chapters `ch00` – `ch11`)
 
 1. **[`chapters/ch00-overview-and-jre-strategy.md`](chapters/ch00-overview-and-jre-strategy.md):**
-   - فلسفة منهج البكالوريا المصرية ٢٠٢٧، الخريطة الكاملة للكتاب (٥ وحدات، ١٠ أقسام، ٢٠ درسًا)، شرح استراتيجية **JRE (Justify – Reason – Evidence)**، و**جميع الإجابات النموذجية الرسمية لأسئلة `JRE` للوحدات الخمس بالكامل** (ص ٤١٤–٤٢٢).
+   - فلسفة منهج البكالوريا المصرية ٢٠٢٧، الخريطة الكاملة للكتاب (٥ وحدات، ١٠ أقسام، ٢٠ درسًا)، شرح استراتيجية **JRE (Justify – Reason – Evidence)**، و**جميع الإجابات النموذجية الرسمية لأسئلة `JRE` للوحدات الخمس بالكامل**.
 
 2. **[`chapters/ch01-unit1-secA-social-media-and-lifestyles.md`](chapters/ch01-unit1-secA-social-media-and-lifestyles.md):**
    - **Unit 1 (`Well-being: Living well in a complex world`) — Section A:**
