@@ -1,8 +1,8 @@
-# 🌐 اللغة الإنجليزية — الصف الثاني بكالوريا (الترم الأول 2027 — جيم الأضواء) — المعلم الذكي
+# 🌐 اللغة الإنجليزية — الصف الثاني بكالوريا (الترم الأول 2027) — المعلم الذكي
 
 **[⬅️ العودة إلى الصفحة الرئيسية للمستودع (`Bakloriya-AI-SKILLS`)](../../README.md)**
 
-مرجع تعليمي ثنائي اللغة مهيكل بالكامل لمنهج **اللغة الإنجليزية للصف الثاني بكالوريا (Grade 11 — الفصل الدراسي الأول 2027)**، مستخرج بدقة من كتاب **الأضواء — جيم (`AL ADWAA Gem — English — Part One 2027`، 426 صفحة)**. يغطي المفاهيم الخمسة (`5 Concepts`)، الوحدات الخمس (`Units 1–5`)، الأقسام العشرة (`Sections A & B`)، الدروس العشرين (`20 Lessons`)، القواعد النحوية العشر (`10 Grammar Topics`)، مهارات الكتابة في `Section C`، واستراتيجية التفكير النقدي الرسمية **`JRE (Justify – Reason – Evidence)`** مع جميع الإجابات النموذجية الرسمية بالكتاب.
+مهارة تعليمية ثنائية اللغة مهيكلة بالكامل لمنهج **اللغة الإنجليزية للصف الثاني بكالوريا (Grade 11 — الفصل الدراسي الأول 2027)**. تغطي المفاهيم الخمسة (`5 Concepts`)، الوحدات الخمس (`Units 1–5`)، الأقسام العشرة (`Sections A & B`)، الدروس العشرين (`20 Lessons`)، القواعد النحوية العشر (`10 Grammar Topics`)، مهارات الكتابة في `Section C`، واستراتيجية التفكير النقدي الرسمية **`JRE (Justify – Reason – Evidence)`** مع جميع الإجابات النموذجية.
 
 ---
 
@@ -11,15 +11,13 @@
 إذا كنت تريد مذاكرة **اللغة الإنجليزية فقط** مع أي ذكاء اصطناعي (ChatGPT، Claude، Gemini، Grok، Perplexity، DeepSeek)، انسخ هذا البرومبت القصير والصقه في المحادثة:
 
 ```text
-أنت معلمي الخصوصي لمادة اللغة الإنجليزية للصف الثاني بكالوريا (Grade 11 - المنهج المصري 2027 - كتاب جيم الأضواء).
+أنت معلمي الخصوصي لمادة اللغة الإنجليزية للصف الثاني بكالوريا (Grade 11 - المنهج المصري 2027).
 اقرأ أولًا فهرس الوحدات ومنهجية الشرح من هذا الرابط النصي المباشر (Raw):
 https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/SKILL.md
 
-عندما أسألك عن أي وحدة أو قاعدة جرامر أو سؤال تفكير نقدي (JRE) أو كتابة مقال، افتح رابط الـ Raw الخاص بالفصل المطلوب (من ch00 إلى ch11) أو القاموس (glossary.md) أو أنماط التحويل (patterns.md)، واشرح لي باللغتين الإنجليزية والعربية المبسطة بدقة الكتاب، واختبرني بسؤال تطبيقي.
+عندما أسألك عن أي وحدة أو قاعدة جرامر أو سؤال تفكير نقدي (JRE) أو كتابة مقال، افتح رابط الـ Raw الخاص بالفصل المطلوب (من ch00 إلى ch11) أو القاموس (glossary.md) أو أنماط التحويل (patterns.md)، واشرح لي باللغتين الإنجليزية والعربية المبسطة بدقة المنهج، واختبرني بسؤال تطبيقي.
 رحّب بي الآن واسألني: أي وحدة (Unit 1–5) أو مهارة نبدأ بها اليوم؟
 ```
-
-> **ملاحظة:** في حال استخدام نموذج لا يدعم فتح الروابط الخارجية، يمكنك تحميل ملفات هذا المجلد ورفعها مباشرةً في المحادثة أو داخل **Claude Projects / ChatGPT Projects / Google NotebookLM** مع نفس البرومبت.
 
 ---
 
@@ -38,7 +36,7 @@ https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/se
 
 | الكود | المفهوم والوحدة والقسم | الدروس (`Lessons`) | القواعد النحوية (`Grammar`) والمهارات (`Skills`) | تصفح الفصل | رابط `Raw` للـ AI |
 |---|---|---|---|---|---|
-| **`ch00`** | **مدخل المنهج واستراتيجية `JRE`** | خريطة الـ 5 وحدات والـ 20 درسًا | شرح استراتيجية **`JRE (Justify – Reason – Evidence)`** + جميع الإجابات النموذجية الرسمية لأسئلة القراءة والاستماع بالكتاب (ص 414–422) | [`ch00`](chapters/ch00-overview-and-jre-strategy.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/chapters/ch00-overview-and-jre-strategy.md) |
+| **`ch00`** | **مدخل المنهج واستراتيجية `JRE`** | خريطة الـ 5 وحدات والـ 20 درسًا | شرح استراتيجية **`JRE (Justify – Reason – Evidence)`** + جميع الإجابات النموذجية الرسمية لأسئلة القراءة والاستماع | [`ch00`](chapters/ch00-overview-and-jre-strategy.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/chapters/ch00-overview-and-jre-strategy.md) |
 | **`ch01`** | **Concept 1 (*Well-being*)**<br>**Unit 1 — Section A:** *Living well in a complex world* | • `1.1` *How Social Media Shapes Teen Life*<br>• `1.2` *Healthy Lifestyles for Teenagers* | • **Participial Phrases** (`V-ing`, `P.P.`, `Having + P.P.`)<br>• **Relative Clauses** (`who, whom, which, that, whose, where, when, what` + قواعد الحذف وحروف الجر) | [`ch01`](chapters/ch01-unit1-secA-social-media-and-lifestyles.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/chapters/ch01-unit1-secA-social-media-and-lifestyles.md) |
 | **`ch02`** | **Unit 1 — Section B:**<br>*Responsibility & Mental Health* | • `1.3` *Taking Responsibility for Own Well-Being*<br>• `1.4` *Teen Mental Health* (الخط الساخن `16328` و`PFA`) | • **Hedging (`التحوط اللغوي`)**<br>• **Conditionals (`Zero, 1st, 2nd, 3rd`)** وبدائل `If` (`Unless, Provided that, In case, Without, But for`) وحالات الحذف (`Should / Were / Had`) | [`ch02`](chapters/ch02-unit1-secB-responsibility-and-mental-health.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/chapters/ch02-unit1-secB-responsibility-and-mental-health.md) |
 | **`ch03`** | **Unit 1 — Section C (Skills):**<br>*Analytical & Persuasive Skills* | مهارات الوحدة الأولى المتكاملة | • **Biased vs. Neutral Sentences**<br>• **Persuasive Writing Techniques**<br>• **Analytical Paragraph (`PEEL` Structure)** + قواعد الترجمة والفهم القرائي | [`ch03`](chapters/ch03-unit1-secC-skills.md) | [`Raw`](https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/chapters/ch03-unit1-secC-skills.md) |
