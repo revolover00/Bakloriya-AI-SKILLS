@@ -112,6 +112,9 @@ description: >
 
 ## 5. فهرس ملفات المهارة المرجعية (Reference Files Index)
 
+> **للوصول المباشر عبر الويب (`Raw URL`):** أضف المسار أدناه إلى الرابط الأساسي:
+> `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-history/`
+
 | المسار | المحتوى التفصيلي |
 |---|---|
 | `chapters/ch00-overview-and-curriculum-map.md` | نظرة عامة على فلسفة المنهج، خريطة الوحدات الثلاث والدروس الـ 12، والخيط الناظم للمنهج. |

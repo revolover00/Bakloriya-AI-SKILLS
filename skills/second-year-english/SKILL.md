@@ -19,6 +19,9 @@ description: Complete curriculum, teacher guide, and reference for 2nd Year Seco
 
 ## خريطة ملفات المهارة (Skill Structure & Navigation)
 
+> **للوصول المباشر عبر الويب (`Raw URL`):** أضف المسار أدناه إلى الرابط الأساسي:
+> `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/`
+
 ### ١. المرجعيات السريعة (Core Reference Files)
 - **[`glossary.md`](glossary.md):** القاموس الشامل لجميع المفردات الرئيسية (`Key Vocabulary`) والمفاهيم الأساسية (`Key Concepts`) في الوحدات الخمس مع تعريفاتها الإنجليزية الرسمية ومعانيها بالعربية.
 - **[`patterns.md`](patterns.md):** أنماط الحل خطوة بخطوة لجميع قواعد الجرامر، وتحويلات الـ `Rewrite`، والفروق الدلالية.
