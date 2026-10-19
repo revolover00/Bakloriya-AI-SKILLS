@@ -1,9 +1,9 @@
-# Chapter 9 (Unit 4 — Section B & Section C): Online Consumption, Present Perfect Continuous & Fronting — Lessons 4.3, 4.4 & Skills (pp. 283–318)
+# Chapter 9 (Unit 4 — Section B & Section C): Online Consumption, Present Perfect Continuous & Fronting — Lessons 4.3, 4.4 & Skills
 
-## Part 1: Lesson `4.3` — Digital Consumption (pp. 283–296)
+## Part 1: Lesson `4.3` — Digital Consumption
 
 ### 1. Key & Main Vocabulary (`4.3`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **access (information)** | `(v) (ed) (n)` | يصل إلى (المعلومات) / مدخل | to be able to retrieve, read, or obtain knowledge or data |
 | **app (application)** | `(n)` | تطبيق إلكتروني | a software program designed to perform a specific function on a smartphone or computer |
@@ -60,10 +60,10 @@
 
 ---
 
-## Part 2: Lesson `4.4` — Black Friday and Sales Culture (pp. 298–308)
+## Part 2: Lesson `4.4` — Black Friday and Sales Culture
 
 ### 1. Key & Main Vocabulary (`4.4`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **countdown** | `(n)` | عدّ تنازلي | a timer showing how much time is left |
 | **fall for** | `(phr. v)` | ينخدع بـ / يقع في فخ | to be tricked into believing something |
@@ -106,7 +106,7 @@
 
 ---
 
-## Part 3: Section B Grammar Focus — The Present Perfect Continuous Tense & Tense Comparisons (pp. 293–294 & 307–308)
+## Part 3: Section B Grammar Focus — The Present Perfect Continuous Tense & Tense Comparisons
 
 ### 1. The Present Perfect Continuous Tense (`have / has + been + V-ing`)
 - **Core Usages:**
@@ -123,13 +123,13 @@
 | **2. Stative Verbs (`أفعال الحالة والملكية والإدراك والمشاعر`):** `know, own, have (possess), love, hate, believe, understand, be` | $\times$ *Mona has been owning / knowing...* | $\checkmark$ ***Mona has owned** a car for 5 years.*<br>$\checkmark$ ***I have known** him for 10 years.* |
 | **3. Instantaneous / Completed Result Focus** (`finish, break, lose, arrive, stop`) | $\times$ *Someone has been dropping the vase (it's broken).* | $\checkmark$ ***Someone has dropped** the vase.* |
 
-### 3. Present Perfect (`have/has + P.P.`) vs. Past Simple (`Past Verb`) (p. 307)
+### 3. Present Perfect (`have/has + P.P.`) vs. Past Simple (`Past Verb`)
 - **Present Perfect:** Connected to the present (effect still holds, or time period is unfinished like `today / this morning` before noon, or person still works there): *Mona **has worked** at this company for three years (She still works there).*
 - **Past Simple:** Finished in the past with no link to the present (or with `yesterday, last..., in 2018, when I was in Luxor`): *Mona **worked** at that company for three years (She doesn't work there now).*
 
 ---
 
-## Part 4: Section C Writing Skills — Fronting (`التقديم للتوكيد`) & Opinion Article (pp. 313–314)
+## Part 4: Section C Writing Skills — Fronting (`التقديم للتوكيد`) & Opinion Article
 
 ### 1. Fronting (`التقديم في الجمل الرسمية`, pp. 313–314)
 - **Rule:** Instead of starting with `Subject + Verb`, move a **Time/Place, Result/Cause, or Contrast phrase** to the **very beginning of the sentence**, followed immediately by a **comma (`,`)** before the subject:
@@ -146,3 +146,203 @@
 4. **Body Paragraph 2:** Second reason + example/evidence.
 5. **Concession:** Mention one point from the other side and refute/balance it (`Some people argue that... / While it is true that... / However, ...`).
 6. **Conclusion:** Restate your opinion in new words and end with a strong final sentence (`In conclusion, / To sum up, / All in all,`).
+
+---
+
+## Part 5: Organized Question Bank — Unit 4 Section B, Section C & General Exam (Ordered by Difficulty with Full Solutions & Step-by-Step Explanations)
+
+### المستوى الأول: سهل / مباشر (Level 1: Easy — Direct Vocabulary & Core Present Perfect Continuous)
+
+#### 1. Turning off social media ............... is a practical strategy to have deep mental focus while studying.
+- a) notifications
+- b) organizations
+- c) participations
+- d) classifications
+- **الإجابة الصحيحة:** **a) notifications**
+- **التفسير وسبب صحة الإجابة:** **`notifications`** هي «الإشعارات/التنبيهات الرقمية» التي ترسلها التطبيقات وتشتت التركيز أثناء المذاكرة.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) organizations / c) participations / d) classifications:** منظمات / مشاركات / تصنيفات.
+
+#### 2. If you activate ..............., the next video will start running immediately without your permission.
+- a) display
+- b) gameplay
+- c) automation
+- d) autoplay
+- **الإجابة الصحيحة:** **d) autoplay**
+- **التفسير وسبب صحة الإجابة:** **`autoplay`** هي خاصية «التشغيل التلقائي» التي تجعل الفيديو التالي يبدأ فورًا دون إذن المستخدم لإبقائه متصلاً لأطول فترة ممكنة.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) display / b) gameplay / c) automation:** عرض / أسلوب اللعب / أتمتة صناعية.
+
+#### 3. My smart grandfather warned me not to fall ............... those fake online messages that promise free money.
+- a) out
+- b) off
+- c) for
+- d) down
+- **الإجابة الصحيحة:** **c) for**
+- **التفسير وسبب صحة الإجابة:** الفعل الاصطلاحي المقرر هو **`fall for`** بمعنى «ينخدع بـ / يقع في فخ» (`fall for fake online messages / sales tricks`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) fall out:** يتخاصم مع.
+  - **b) fall off:** يسقط من فوق شيء أو ينخفض.
+  - **d) fall down:** يسقط أرضًا.
+
+#### 4. Her hands are covered in flour because she ............... bread all morning.
+- a) has been baking
+- b) has baked
+- c) has been backed
+- d) baked
+- **الإجابة الصحيحة:** **a) has been baking**
+- **التفسير وسبب صحة الإجابة:** وجود أثر واضح في المضارع (`Her hands are covered in flour`) مع تعبير الاستمرار الزمني (**`all morning`**) يوجب استخدام **المضارع التام المستمر (`Present Perfect Continuous: has been baking`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) has baked:** يركز على اكتمال النتيجة دون إبراز استمرار الحدث طوال الصباح (`all morning`).
+  - **c) has been backed:** مبني للمجهول ومن الفعل الخاطئ `back`.
+  - **d) baked:** ماضٍ بسيط منفصل عن الحاضر، بينما الأثر مضارع (`are covered`).
+
+#### 5. Look! Someone ............... the vase on the floor, and it is completely broken now.
+- a) has been dropping
+- b) has dropped
+- c) dropped
+- d) has been dropped
+- **الإجابة الصحيحة:** **b) has dropped**
+- **التفسير وسبب صحة الإجابة:** الفعل `drop` (يسقط شيئًا فينكسر) هنا **حدث لحظي مكتمل النتيجة في الحاضر** (`it is completely broken now`) ولا يستغرق فترة استمرار، لذا نستخدم **المضارع التام البسيط (`has dropped`)** وليس المستمر.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) has been dropping:** المضارع التام المستمر لا يُستخدم مع الأفعال اللحظية المكتملة (`drop / break / lose`).
+  - **c) dropped:** ماضٍ بسيط لا يرتبط بـ `Look! ... now`.
+  - **d) has been dropped:** مبني للمجهول رغم وجود الفاعل `Someone` ومفعول به `the vase`.
+
+---
+
+### المستوى الثاني: متوسط (Level 2: Intermediate — Confusable Words, Stative & Quantity Restrictions, & Psychological Concepts)
+
+#### 6. Which of the following best defines the psychological concept of *"loss aversion"*?
+- a) The deep desire to spend all your monthly salary on buying modern software.
+- b) The tendency to care more about avoiding a loss than acquiring an equal gain.
+- c) The ability to remember all your forgotten digital passwords easily under stress.
+- d) The natural feeling of happiness when a close friend wins a wonderful prize.
+- **الإجابة الصحيحة:** **b) The tendency to care more about avoiding a loss than acquiring an equal gain.**
+- **التفسير وسبب صحة الإجابة:** مفهوم **`loss aversion`** (النفور من الخسارة / كراهية الخسارة) في علم النفس الاستهلاكي يعني أن العقل البشري يخشى فقدان فرصة أو خسارة مبلغ أكثر مما يفرح بمكسب مساوٍ له.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & c & d:** لا تمت بصلة لمفهوم كراهية الخسارة.
+
+#### 7. The strict referee gave the football player a red card because he tried to ............... by touching the ball with his hand.
+- a) trick
+- b) cheat
+- c) deceive
+- d) mislead
+- **الإجابة الصحيحة:** **b) cheat**
+- **التفسير وسبب صحة الإجابة:** وفق جدول الفروق اللغوية (`FOCUS on Vocabulary`)، الفعل **`cheat`** يُستخدم تحديدًا بمعنى «يغش أو يخالف القواعد في مباراة رياضية أو امتحان لكسب ميزة غير عادلة»، وهو فعل لازم هنا لا يحتاج إلى مفعول بعده.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) trick / c) deceive / d) mislead:** أفعال متعدية تحتاج إلى مفعول به بعدها (`deceive buyers / mislead readers`)، ولا تعني الغش في قوانين اللعب أو الامتحان.
+
+#### 8. I ............... my classmates for many years now, and we still keep in touch regularly.
+- a) have been knowing
+- b) had known
+- c) have known
+- d) had been knowing
+- **الإجابة الصحيحة:** **c) have known**
+- **التفسير وسبب صحة الإجابة:** على الرغم من وجود `for many years now`، فإن الفعل **`know`** (يعرف) من **أفعال الحالة والإدراك (`Stative Verbs`) التي لا توضع في الأزمنة المستمرة أبدًا**! لذلك يجب استخدام **المضارع التام البسيط (`have known`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) have been knowing / d) had been knowing:** خطأ نحوي جسيم؛ لا يوجد `knowing` في الأزمنة المستمرة بمعنى المعرفة.
+  - **b) had known:** ماضٍ تام، بينما الجملة في المضارع (`now, and we still keep`).
+
+#### 9. I ............... seven emails this morning, and I'm still replying to more.
+- a) received
+- b) have received
+- c) have been receiving
+- d) receive
+- **الإجابة الصحيحة:** **b) have received**
+- **التفسير وسبب صحة الإجابة:** القاعدة الذهبية: عند **تحديد عدد المرات أو الكمية بدقة (`seven emails` / `three cups of coffee`)**، يمتنع استخدام المضارع التام المستمر ويجب استخدام **المضارع التام البسيط (`have received`)**!
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **c) have been receiving:** لا يُستخدم المضارع التام المستمر مع ذكر العدد (`seven emails`).
+  - **a) received:** الصباح لم ينتهِ بعد بدليل `and I'm still replying to more`.
+
+#### 10. My brother ............... that laptop since he was at university.
+- a) had owned
+- b) has owned
+- c) has been owning
+- d) owns
+- **الإجابة الصحيحة:** **b) has owned**
+- **التفسير وسبب صحة الإجابة:** الفعل **`own`** (يمتلك) من **أفعال الملكية والحالة (`Stative Verbs`)**، فلا يوضع في المضارع التام المستمر مع `since`، بل نستخدم **المضارع التام البسيط (`has owned`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **c) has been owning:** لا يُوضع فعل الملكية `own` في الاستمرار.
+  - **a) had owned / d) owns:** لا يتفقان مع قاعدة `Present Perfect + since + Past Simple`.
+
+---
+
+### المستوى الثالث: متقدم / مستويات عليا (Level 3: Advanced — Meaning Deduction, Fronting Punctuation & Opinion/Review Writing)
+
+#### 11. Compare the meaning of these two sentences (p. 310 & p. 323):
+1) *"Mona has worked at this school for ten years."* This means that Mona ............... .
+2) *"They have been building the bridge for two years."* This means that ............... .
+- a) left the school ten years ago / the bridge was completed
+- b) still works at the school / the work has continued for two years (and is not finished yet)
+- c) will work at the school next year / they started building yesterday
+- d) has never worked at the school / they have never built bridges
+- **الإجابة الصحيحة:** **b) still works at the school / the work has continued for two years (and is not finished yet)**
+- **التفسير وسبب صحة الإجابة:**
+  - المضارع التام مع `for ten years` (`has worked`) يدل على أن الحدث بدأ في الماضي **وما زال قائمًا حتى الآن** (`still works at the school` — بخلاف الماضي البسيط `Mona worked` الذي يعني أنها تركت المدرسة).
+  - المضارع التام المستمر (`have been building`) يركز على **استمرار العمل طوال العامين وعدم انتهائه بعد**.
+
+#### 12. Which of the following sentences uses **Fronting** with correct punctuation?
+- a) As a result of constant digital notifications. Teenagers lose their academic concentration.
+- b) As a result of constant digital notifications, teenagers lose their academic concentration?
+- c) As a result of constant digital notifications, teenagers lose their academic concentration.
+- d) As a result of constant digital notifications teenagers lose their academic concentration.
+- **الإجابة الصحيحة:** **c) As a result of constant digital notifications, teenagers lose their academic concentration.**
+- **التفسير وسبب صحة الإجابة:** عند تطبيق قاعدة **التقديم (`Fronting`)** بنقل شبه الجملة السببية (`As a result of...`) أو المكانية (`In Egypt,`) أو التباينية (`Unlike my brother,`) إلى بداية الجملة، **يجب وضع فاصلة (`,`) بعدها مباشرةً قبل الفاعل**، وتنتهي الجملة الخبرية بنقطة (`.`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a):** وضعت نقطة بعد شبه الجملة غير التامة!
+  - **b):** وضعت علامة استفهام في نهاية جملة خبرية.
+  - **d):** أغفلت الفاصلة الواجبة بعد عبارة التقديم.
+
+#### 13. Read the following carefully and identify its correct function in an opinion article:
+*"Of course, some people argue that online shopping websites save time and effort during busy weeks. However, the risk of falling for misleading advertisements and impulse spending heavily outweighs this minor benefit."*
+- a) It is a concession because it mentions an opposing view and then weakens it.
+- b) It is a strong introduction that presents the general topic for the first time.
+- c) It is a catchy headline because it clearly shows the writer's final decision.
+- d) It is a final conclusion because it gives a five-star rating and a personal recommendation.
+- **الإجابة الصحيحة:** **a) It is a concession because it mentions an opposing view and then weakens it.**
+- **التفسير وسبب صحة الإجابة:** فقرة أو جملة **الاستدراك/الاعتراف بالرأي الآخر (`Concession`)** في مقال الرأي تبدأ بذكر حجة منطقية للطرف المعارض (`Of course, some people argue that...`) ثم تردّ عليها وتُضعفها بـ **`However, ...`** لإثبات أن رأي الكاتب هو الأقوى.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b & c & d:** ليست مقدمة ولا عنوانًا ولا خاتمة تقييم.
+
+---
+
+### الأسئلة التطبيقية والمقالية: Rewrite & Complete the Text (Step-by-Step Solutions)
+
+#### أولاً: أسئلة `Rewrite using the word(s) in brackets` (بخطوات الحل المبسطة — ص 294 و307)
+
+1. **He joined university on his 18th birthday and he is still studying there.** *(Use: **since**)*
+   - **خطوات الحل ببساطة:**
+     1. الحدث بدأ في الماضي (`joined`) وما زال مستمرًا الآن (`is still studying`) $\rightarrow$ نستخدم **المضارع التام المستمر (`has been studying`)**.
+     2. نستبدل `on his 18th birthday` بـ **`since his 18th birthday`**.
+   - **الحل النهائي:** **`He has been studying at university since his 18th birthday.`**
+
+2. **Nabil started playing computer games at 2 p.m. It is 5 p.m. now.** *(Use: **for**)*
+   - **خطوات الحل ببساطة:**
+     1. نحسب فرق التوقيت بين الساعة ٢ والساعة ٥ = **`three hours`**.
+     2. نضع الفعل في المضارع التام المستمر (`has been playing`) متبوعًا بـ **`for three hours`**.
+   - **الحل النهائي:** **`Nabil has been playing computer games for three hours.`**
+
+3. **They are still watching the final match.** *(Use: **yet**)*
+   - **خطوات الحل ببساطة:**
+     1. طبقًا للقانون الثالث من قوانين التحويل: `am/is/are + still + V-ing` تتحول إلى **`haven't/hasn't + finished (or stopped) + V-ing + yet`**.
+   - **الحل النهائي:** **`They haven't finished watching the final match yet.`**
+
+4. **Ramy has lived in Luxor for 10 years.** *(Use: **started**)*
+   - **خطوات الحل ببساطة:**
+     1. طبقًا للقانون الرابع من قوانين التحويل: مع الفعل `started` نحول الجملة إلى **الماضي البسيط** ونستبدل `for 10 years` بـ **`10 years ago`**.
+   - **الحل النهائي:** **`Ramy started to live (or started living) in Luxor 10 years ago.`**
+
+---
+
+#### ثانيًا: أسئلة تصحيح التراكيب في السياق (`Complete the text with the appropriate structure` — ص 294 و312)
+
+**النص التطبيقي (من تدريبات المنهج المقررة):**
+> *"Karim is preparing for an important swimming competition. He (1).................... **(train)** intensively for three months now, and his performance has improved considerably. Today, he looks exhausted because he (2).................... **(swim)** all morning. Despite his demanding schedule, he (3).................... **(not/miss)** a single training session so far. In fact, he (4).................... **(complete)** five kilometers in the pool today."*
+
+- **خطوات الحل ببساطة لكل فراغ:**
+  1. **`(1) has been training`:** وجود `for three months now` مع حدث مستمر $\rightarrow$ مضارع تام مستمر **`has been training`**.
+  2. **`(2) has been swimming`:** تفسير سبب الإرهاق الحالي (`looks exhausted`) مع `all morning` $\rightarrow$ مضارع تام مستمر **`has been swimming`**.
+  3. **`(3) hasn't missed`:** جملة منفية مع `so far` وحدث غير ممتد (`miss a single session`) $\rightarrow$ مضارع تام بسيط **`hasn't missed`**.
+  4. **`(4) has completed`:** ذكر **الكمية/المسافة المنجزة بالرقم (`five kilometers`)** يمنع الاستمرار ويوجب المضارع التام البسيط $\rightarrow$ **`has completed`**.
+

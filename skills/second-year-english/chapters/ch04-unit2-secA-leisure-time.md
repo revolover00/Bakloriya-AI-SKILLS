@@ -1,4 +1,4 @@
-# Chapter 4 (Unit 2 — Section A): Leisure Time — Lessons 2.1 & 2.2 (pp. 92–123)
+# Chapter 4 (Unit 2 — Section A): Leisure Time — Lessons 2.1 & 2.2
 
 ## Unit 2 Overview: Concept (2) Experiences — Leisure Time
 - **Theme:** How young people choose to spend their leisure time across four domains (**screen-based activities, creative arts, sport, and outdoor adventurous experiences**), balancing passive and active leisure.
@@ -7,10 +7,10 @@
 
 ---
 
-## Part 1: Lesson `2.1` — Screen Time and Young People (pp. 93–106)
+## Part 1: Lesson `2.1` — Screen Time and Young People
 
 ### 1. Key & Main Vocabulary (`2.1`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **addictive** | `(adj)` | مُسبِّب للإدمان / ميال إلى الإدمان | causing a very strong need or desire to keep doing or using something |
 | **anxiety** | `(n)` | قلق | an uncomfortable feeling of nervousness or worry about something that is happening |
@@ -72,10 +72,10 @@
 
 ---
 
-## Part 2: Lesson `2.2` — Creative Arts as Leisure Activities (pp. 107–119)
+## Part 2: Lesson `2.2` — Creative Arts as Leisure Activities
 
 ### 1. Key & Main Vocabulary (`2.2`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **arena** | `(n)` | ساحة / مضمار / ميدان | a place or situation where a particular activity happens |
 | **authentic** | `(adj)` | أصلي / حقيقي / صادق | real and genuine, not false or copied |
@@ -127,7 +127,7 @@
 
 ---
 
-## Part 3: Section A Grammar Focus — Gerunds (`V + ing`) & Infinitives (`to + inf.`) (pp. 102–104 & 116–118)
+## Part 3: Section A Grammar Focus — Gerunds (`V + ing`) & Infinitives (`to + inf.`)
 
 ### 1. Verbs Followed by `Gerund (V + ing)` vs. `to + Infinitive`
 | Category | Verbs / Expressions | Important Rules & Examples |
@@ -160,3 +160,265 @@ When `to` is a **preposition** (part of a phrasal verb/expression), it is follow
 | **`forget`** | **Did the action in the past, then forgot (or never forgot) the memory:**<br>*She will never **forget meeting** the President.* | **Forgot the duty, so the action did NOT happen:**<br>*She **forgot to meet** the client at the airport, so he took a taxi.* |
 | **`regret`** | **Did something in the past and feel sorry about it now:**<br>*I **regret selling** my old car; the new one breaks down constantly.* | **Feel sorry that you have to announce bad news now:**<br>*We **regret to inform** you that your application has been rejected.* |
 | **`try`** | **Experiment with an easy method to see if it works (يجرّب ليرى النتيجة):**<br>*If you have a headache, **try drinking** more water.* | **Make a hard effort to do something difficult (يحاول ببذل مجهود، وغالبًا يفشل):**<br>*The doctor **tried to save** the patient, but the injury was fatal.* |
+
+---
+
+## Part 4: Organized Question Bank — Unit 2 Section A (Ordered by Difficulty with Full Solutions & Step-by-Step Explanations)
+
+### المستوى الأول: سهل / مباشر (Level 1: Easy — Direct Vocabulary & Basic Gerund/Infinitive)
+
+#### 1. Setting healthy personal ............... allows you to protect your time, family life, and energy.
+- a) arguments
+- b) excuses
+- c) secrets
+- d) boundaries
+- **الإجابة الصحيحة:** **d) boundaries**
+- **التفسير وسبب صحة الإجابة:** المتلازمة اللفظية المقررة هي **`set clear / healthy boundaries`** (يضع حدودًا أو ضوابط صحية لحماية وقته وحياته الأسرية وطاقته).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) arguments:** جدالات/مشادات.
+  - **b) excuses:** أعذار.
+  - **c) secrets:** أسرار.
+
+#### 2. Volunteering at the local hospital was a highly ............... experience that gave her a sense of purpose.
+- a) fulfilling
+- b) harmful
+- c) ordinary
+- d) temporary
+- **الإجابة الصحيحة:** **a) fulfilling**
+- **التفسير وسبب صحة الإجابة:** الصفة **`fulfilling`** تعني «مُرضٍ / مُجزٍ نفسيًا ومعنويًا»، وتتوافق مع منحها شعورًا بالهدف (`gave her a sense of purpose`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) harmful:** ضار.
+  - **c) ordinary:** عادي.
+  - **d) temporary:** مؤقت.
+
+#### 3. Scientists discovered that lack of sleep seriously damages ............... performance and concentration.
+- a) cognitive
+- b) athletic
+- c) genuine
+- d) cultural
+- **الإجابة الصحيحة:** **a) cognitive**
+- **التفسير وسبب صحة الإجابة:** الصفة **`cognitive`** تعني «معرفي / إدراكي» (مرتبط بعمليات التفكير والفهم والذاكرة والتركيز في المخ).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) athletic:** رياضي/بدني (بينما السياق يربطها بالتركيز `concentration`).
+  - **c) genuine:** أصيل/صادق.
+  - **d) cultural:** ثقافي.
+
+#### 4. Islamic ............... has decorated mosques and manuscripts across the Arab world for centuries.
+- a) calligraphy
+- b) photography
+- c) excavation
+- d) filming
+- **الإجابة الصحيحة:** **a) calligraphy**
+- **التفسير وسبب صحة الإجابة:** **`calligraphy`** هو «فن الخط العربي الجميل» الذي زُيِّنت به المساجد والمخطوطات لقرون.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) photography / d) filming:** التصوير الفوتوغرافي والسينمائي لم يكونا موجودين منذ قرون.
+  - **c) excavation:** التنقيب عن الآثار.
+
+#### 5. The manager suggested ............... the meeting until next Monday because of the storm.
+- a) postpone
+- b) postponed
+- c) postponing
+- d) to postpone
+- **الإجابة الصحيحة:** **c) postponing**
+- **التفسير وسبب صحة الإجابة:** الفعل **`suggest`** (عندما لا يتبعه فاعل) يأتي بعده دائمًا **`Gerund (V + ing)`**: **`postponing`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **d) to postpone:** خطأ شائع جدًا؛ الفعل `suggest` لا يأخذ `to + inf.` أبدًا!
+  - **a) postpone:** يُستخدم المصدر فقط لو جاء بعد `suggest` جملة كاملة (`suggested that we postpone`).
+  - **b) postponed:** ماضٍ/تصريف ثالث.
+
+#### 6. Our team managed ............... the match yesterday.
+- a) win
+- b) winning
+- c) to win
+- d) won
+- **الإجابة الصحيحة:** **c) to win**
+- **التفسير وسبب صحة الإجابة:** الفعل **`manage`** بمعنى «يتمكن من» يتبعه دائمًا **`to + inf.`** (`managed to win`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) win / b) winning / d) won:** لا تتبع الفعل `manage`. (`succeed in + V-ing` هي التي تأخذ `V-ing`).
+
+---
+
+### المستوى الثاني: متوسط (Level 2: Intermediate — Confusable Words, Vocabulary in Context & Prepositional `to + V-ing`)
+
+#### 7. The security guard caught a stranger trying to ............... into the store through a broken back window.
+- a) interfere
+- b) introduce
+- c) intrude
+- d) expand
+- **الإجابة الصحيحة:** **c) intrude**
+- **التفسير وسبب صحة الإجابة:** وفق جدول الفروق اللغوية (`FOCUS on Vocabulary`)، الفعل **`intrude`** (`into / on`) يعني «يقتحم مكانًا خاصًا أو يتطفل بلا إذن»، بينما الحارس أمسك بغريب يحاول اقتحام المتجر عبر نافذة مكسورة.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) interfere:** يتدخل في شئون غيره (`interfere in`) أو يعرقل شيئًا (`interfere with`)، ولا تعني الاقتحام المادي لمبنى (`intrude into`).
+  - **b) introduce:** يقدّم.
+  - **d) expand:** يوسّع.
+
+#### 8. The orchestra scheduled an extra ............... to prepare for the important music festival.
+- a) practice
+- b) training
+- c) rehearsal
+- d) race
+- **الإجابة الصحيحة:** **c) rehearsal**
+- **التفسير وسبب صحة الإجابة:** **`rehearsal`** هي «البروفة التحضيرية» الخاصة بالموسيقيين أو الممثلين استعدادًا لحفل أو عرض فني محدد (`music festival`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) practice:** ممارسة عامة يومية لتطوير المهارة (اسم لا يُعد في هذا السياق).
+  - **b) training:** تدريب رياضي أو مهني.
+  - **d) race:** سباق.
+
+#### 9. After living in London for a year, he got used to ............... on the left.
+- a) be driven
+- b) being driven
+- c) driving
+- d) drive
+- **الإجابة الصحيحة:** **c) driving**
+- **التفسير وسبب صحة الإجابة:** التعبير **`get used to`** (أو `be used to`) ينتهي بحرف الجر `to`، فيتبعه دائمًا **`V + ing` (`driving`)** وليس المصدر!
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **d) drive:** خطأ شائع للخلط بينها وبين `used to + inf.` (بدون `be/get`).
+  - **a & b:** صيغ مبنية للمجهول لا تناسب معنى قيادته للسيارة بنفسه على الجانب الأيسر.
+
+#### 10. Honest citizens object to ............... unfairly by anyone.
+- a) treating
+- b) being treated
+- c) be treated
+- d) treat
+- **الإجابة الصحيحة:** **b) being treated**
+- **التفسير وسبب صحة الإجابة:** الفعل **`object to`** (يعترض على) يتبعه **`V + ing`** لأن `to` حرف جر؛ وبما أن الجملة **مبنية للمجهول** (لوجود `by anyone` — أي يعترضون على «مُعاملتهم»)، نستخدم صيغة الـ Gerund المبني للمجهول: **`being + P.P.` (`being treated`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) treating:** مبني للمعلوم يوحي بأن المواطنين هم الذين يعاملون غيرهم بظلم.
+  - **c) be treated / d) treat:** لا يصح وضع مصدر بعد حرف الجر `to` في `object to`.
+
+#### 11. Doctors dedicate their lives to ............... sick people.
+- a) be helped
+- b) help
+- c) helping
+- d) being helped
+- **الإجابة الصحيحة:** **c) helping**
+- **التفسير وسبب صحة الإجابة:** التعبير **`dedicate ... to`** (يكرس ... لـ) ينتهي بحرف الجر `to`، فيتبعه **`V + ing` (`helping`)** في المبني للمعلوم.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) help:** مصدر، ولا يأتي بعد `dedicate ... to`.
+  - **a & d:** مبني للمجهول، بينما الأطباء هم الذين يساعدون المرضى.
+
+#### 12. With a view to ............... high marks, you should study daily.
+- a) get
+- b) have got
+- c) being getting
+- d) getting
+- **الإجابة الصحيحة:** **d) getting**
+- **التفسير وسبب صحة الإجابة:** التعبير **`with a view to`** (بهدف / على أمل) ينتهي بحرف الجر `to` ويتبعه دائمًا **`V + ing` (`getting`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) get:** مصدر مجرد.
+  - **b & c:** تراكيب خاطئة نحويًا.
+
+---
+
+### المستوى الثالث: متقدم / مستويات عليا (Level 3: Advanced — Verbs Changing Meaning with `V-ing` vs. `to + inf.` & Sentence Selection)
+
+#### 13. I distinctly remember ............... the windows before I left, so how are they open now?
+- a) closed
+- b) close
+- c) closing
+- d) to close
+- **الإجابة الصحيحة:** **c) closing**
+- **التفسير وسبب صحة الإجابة:** عندما يقع الحدث **أولاً في الماضي** ثم يتذكر الشخص القيام به لاحقًا (`I remember doing it before I left`)، نستخدم **`remember + V-ing` (`closing`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **d) to close:** `remember + to + inf.` تعني «يتذكر الواجب أولاً ثم يذهب ليغلقها»، بينما الجملة تقول إنه أغلقها بالفعل قبل المغادرة ويتعجب كيف فُتحت الآن!
+  - **a & b:** لا يتبعان الفعل `remember`.
+
+#### 14. We regret ............... you that the train to Aswan has been delayed.
+- a) informing
+- b) inform
+- c) to inform
+- d) informed
+- **الإجابة الصحيحة:** **c) to inform**
+- **التفسير وسبب صحة الإجابة:** عند التعبير عن الأسف الحالي لاضطرار المتحدث إلى **إبلاغ خبر سيئ الآن** (`inform / tell / say / announce`)، نستخدم **`regret + to + inf.` (`to inform`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) informing:** تعني الندم على فعل شيء حدث في الماضي وانتهى.
+  - **b & d:** لا يتبعان `regret`.
+
+#### 15. After finishing the lesson, the teacher went on ............... the homework.
+- a) to explain
+- b) explaining
+- c) explain
+- d) being explained
+- **الإجابة الصحيحة:** **a) to explain**
+- **التفسير وسبب صحة الإجابة:** انتبه للفرق الدقيق:
+  - `go on + V-ing` = يستمر في فعل **نفس الشيء**.
+  - **`go on + to + inf.`** = ينتهي من عمل شيء (`After finishing the lesson`) **وينتقل لبدء فعل شيء جديد مختلف** (`went on to explain the homework`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) explaining:** كانت ستعني أنه استمر في نفس النشاط دون انتقال بعد إنهاء الدرس.
+  - **c & d:** خطأ نحوي.
+
+#### 16. Your shoes are very dirty; they need ............... right now.
+- a) to be cleaning
+- b) clean
+- c) to clean
+- d) cleaning
+- **الإجابة الصحيحة:** **d) cleaning**
+- **التفسير وسبب صحة الإجابة:** عندما يكون فاعل الجملة غير عاقل (`Your shoes`) ويقع عليه الفعل (مبني للمجهول في المعنى)، فإن الفعل **`need`** يأخذ **`V + ing` (`need cleaning`)** أو **`to be + P.P.` (`need to be cleaned`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) to be cleaning / c) to clean:** مبني للمعلوم، والحذاء لا ينظف نفسه! (الصحيح لو بـ `to` هو `to be cleaned`).
+  - **b) clean:** مصدر مجرد.
+
+#### 17. Only one sentence in each group is grammatically correct. Choose the correct answer:
+- a) She suggested to take a short break from the screen.
+- b) She suggested taking a short break from the screen.
+- c) She suggested take a short break from the screen.
+- d) She suggested took a short break from the screen.
+- **الإجابة الصحيحة:** **b) She suggested taking a short break from the screen.**
+- **التفسير وسبب صحة الإجابة:** الفعل `suggest` يتبعه مباشرةً **`V + ing` (`taking`)** عندما لا يفصل بينهما فاعل.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a):** استخدمت `to take` بعد `suggested` (وهو خطأ).
+  - **c & d):** استخدمتا المصدر أو الماضي بدون `that + Subject`.
+
+---
+
+### الأسئلة التطبيقية والمقالية: Rewrite & Complete the Text (Step-by-Step Solutions)
+
+#### أولاً: أسئلة `Rewrite using the word(s) in brackets` (بخطوات الحل المبسطة)
+
+1. **I dislike when people interrupt me while I am speaking.** *(Use: **being**)*
+   - **خطوات الحل ببساطة:**
+     1. الفعل `dislike` يتبعه `V + ing`.
+     2. الجملة الأصلية تعني «أكره أن يقاطعني الناس» (أي أكره «مُقاطعتي» — مبني للمجهول لأن `people interrupt me`).
+     3. نحول `when people interrupt me` إلى صيغة الـ Gerund المبني للمجهول **`being + P.P.` (`being interrupted`)**.
+   - **الحل النهائي:** **`I dislike being interrupted while I am speaking.`**
+
+2. **He stole the money and then he said that he didn't.** *(Use: **denied**)*
+   - **خطوات الحل ببساطة:**
+     1. عبارة `said that he didn't` تعني «أنكر» (`denied`).
+     2. الفعل `deny` يتبعه **`V + ing`** (`stealing`) أو `having + P.P.` (`having stolen`).
+   - **الحل النهائي:** **`He denied stealing (or having stolen) the money.`**
+
+3. **Regular reading helps children develop their language skills.** *(Use: **encourage**)*
+   - **خطوات الحل ببساطة:**
+     1. الفعل `encourage` عندما يليه مفعول (`children`) يأخذ **`to + inf.`** (`to develop`).
+     2. نراعي مفرد الفاعل `Regular reading` فنضيف `s` للفعل ليصبح `encourages`.
+   - **الحل النهائي:** **`Regular reading encourages children to develop their language skills.`**
+
+4. **The doctor told him about the dangers of smoking.** *(Use: **warned**)*
+   - **خطوات الحل ببساطة:**
+     1. الفعل `warn + object` في التحذير من فعل شيء يأخذ **`not to + inf.`** أو **`against + V-ing`**.
+   - **الحل النهائي:** **`The doctor warned him not to smoke (or warned him against smoking).`**
+
+5. **She works full-time, and she also takes care of her old mother.** *(Use: **In addition to**)*
+   - **خطوات الحل ببساطة:**
+     1. التعبير `In addition to` ينتهي بحرف الجر `to`، فيجب أن يتبعه **`V + ing` (`working`)**.
+   - **الحل النهائي:** **`In addition to working full-time, she takes care of her old mother.`**
+
+6. **He drove for three hours, and then he made a pause because he wanted to get something to eat.** *(Use: **stopped**)*
+   - **خطوات الحل ببساطة:**
+     1. عبارة `made a pause because he wanted to get` تعني «توقف لكي يحصل على» = **`stopped + to + inf.` (`stopped to get`)**.
+   - **الحل النهائي:** **`After driving for three hours, he stopped to get something to eat.`**
+
+---
+
+#### ثانيًا: أسئلة تصحيح التراكيب في السياق (`Complete the text with the appropriate structure`)
+
+**النص التطبيقي (من تدريبات المنهج المقررة):**
+> *"Mona decided to change some of her daily habits after noticing that she was wasting too much time online. She stopped (1).................... **(use)** her phone during study hours. At first, she found it difficult to get used to (2).................... **(study)** without checking social media. However, she soon realized that studying regularly meant (3).................... **(have)** more free time later. She now remembers (4).................... **(finish)** her homework before using her phone."*
+
+- **خطوات الحل ببساطة لكل فراغ:**
+  1. **`(1) using`:** توقفت/أقلعت عن عادة استخدام الهاتف أثناء ساعات المذاكرة $\rightarrow$ `stop + V-ing` = **`using`**.
+  2. **`(2) studying`:** بعد التعبير `get used to` تكون `to` حرف جر، فيتبعها `V + ing` = **`studying`**.
+  3. **`(3) having`:** الفعل `mean` بمعنى «يتضمن / يترتب عليه كنتيجة» يأخذ `V + ing` = **`having`**.
+  4. **`(4) to finish`:** تتذكر القيام بواجبها أولاً قبل استخدام الهاتف $\rightarrow$ `remember + to + inf.` = **`to finish`**.
+
