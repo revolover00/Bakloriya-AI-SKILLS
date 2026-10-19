@@ -1,4 +1,4 @@
-# Chapter 10 (Unit 5 — Section A): Sharing the Planet — The Greenhouse Effect: Lessons 5.1 & 5.2 (pp. 334–367)
+# Chapter 10 (Unit 5 — Section A): Sharing the Planet — The Greenhouse Effect: Lessons 5.1 & 5.2
 
 ## Unit 5 Overview: Concept (5) Sharing the Planet — The Greenhouse Effect
 - **Theme:** Environmental responsibility in response to the climate crisis — examining causes and consequences of global warming (`5.1`), renewable energy solutions (`5.2`), real green initiatives in Egypt (`5.3`), and youth environmental leadership (`5.4`).
@@ -7,10 +7,10 @@
 
 ---
 
-## Part 1: Lesson `5.1` — The Climate Crisis (pp. 335–349)
+## Part 1: Lesson `5.1` — The Climate Crisis
 
 ### 1. Key & Main Vocabulary (`5.1`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **acidification** | `(n)` | تحمُّض (المحيطات/التربة) | the process of becoming more acidic |
 | **alarming (rate)** | `(adj)` | مثير للقلق / ينذر بالخطر | a speed or level that causes worry because it is increasing quickly |
@@ -77,10 +77,10 @@
 
 ---
 
-## Part 2: Lesson `5.2` — Renewable Energy: Powering a Sustainable Future (pp. 350–363)
+## Part 2: Lesson `5.2` — Renewable Energy: Powering a Sustainable Future
 
 ### 1. Key & Main Vocabulary (`5.2`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **achievable** | `(adj)` | قابل للتحقيق / ممكن إنجازه | capable of being achieved |
 | **battery** | `(n)` | بطارية | an object that provides a supply of electricity for something such as a radio, car, or toy |
@@ -121,7 +121,7 @@
 ---
 
 ### 3. Listening Text & Energy Sources Summary (`5.2`: Podcast with Dr. Layla Hussein, pp. 353–354)
-- **Four Main Renewable Energy Sources (p. 353):**
+- **Four Main Renewable Energy Sources:**
   1. **Solar:** Photovoltaic panels convert sunlight into electricity (**90% cost drop** in the last decade; fastest-growing worldwide; **Benban Solar Park** is Egypt's **flagship** clean energy project).
   2. **Wind:** Turbines **harness kinetic wind energy** (**Denmark** generates over **60%** of its electricity from wind, creating thousands of jobs).
   3. **Hydro:** Moving water drives turbines (reliable baseload power regardless of weather).
@@ -130,7 +130,7 @@
 
 ---
 
-## Part 3: Section A Grammar Focus — Cause & Effect Connectors + Modal Verbs (pp. 345–347 & 359–361)
+## Part 3: Section A Grammar Focus — Cause & Effect Connectors + Modal Verbs
 
 ### 1. Cause and Effect Connectors (`روابط السبب والنتيجة`, pp. 345–347)
 
@@ -143,7 +143,7 @@
 
 ---
 
-### 2. Modal Verbs of Necessity, Prohibition, Advice, Ability & Possibility (pp. 359–361 & 392–393)
+### 2. Modal Verbs of Necessity, Prohibition, Advice, Ability & Possibility
 
 | Function | Modals & Equivalents | Key Rules & Distinctions |
 |---|---|---|
@@ -152,3 +152,227 @@
 | **3. Advice (`النصيحة`)** | **`should / ought to / had better (not) + inf.`** | `= I advise you (not) to... / It is (in)advisable to... / If I were you, I would(n't)...` (*Note: `had better` is strong advice for a specific immediate situation, e.g., Your car is making a strange noise; you **had better** see your mechanic*). |
 | **4. Ability (`القدرة والاستطاعة`)** | • **Present:** `can + inf.` `= am/is/are able to + inf.` `= am/is/are capable of + V-ing` `= have/has the ability to + inf.` `= enable + obj + to + inf.`<br>• **Past General Ability:** **`could + inf.`** (*My grandfather **could** swim long distances when he was young*).<br>• **Managed Specific Past Situation:** **`was / were able to + inf.`** (*My rival was strong, but I **was able to** beat him*).<br>• **Unfulfilled Past Ability:** **`could have + P.P.`** (*كان بإمكانه أن يفعل شيئًا في الماضي لكنه لم يفعله: I went on foot, but I **could have gone** by bus*). |
 | **5. Possibility (`الاحتمال`)** | • **Present/Future:** `may / might / could + inf.` (`might/could` = weaker chance than `may`; `It is possible that + Subj + will/may` $\neq$ `It is possible for + obj + to + inf.` which means `can`!).<br>• **General/Scientific Fact Possibility:** **`can + inf.`** (*Smoking **can** cause cancer / Computers **can** crash sometimes*).<br>• **Past Possibility:** **`may / might / could + have + P.P.`** (*Perhaps they won = They **may/might have won***).<br>• **Passive Modals:** Present/Future `modal + be + P.P.`; Past `modal + have been + P.P.`. |
+
+---
+
+## Part 4: Organized Question Bank — Unit 5 Section A (Ordered by Difficulty with Full Solutions & Step-by-Step Explanations)
+
+### المستوى الأول: سهل / مباشر (Level 1: Easy — Direct Vocabulary & Basic Cause/Effect & Modals)
+
+#### 1. Rising carbon dioxide levels are causing ............... of the oceans, harming coral reefs.
+- a) purification
+- b) acidification
+- c) evaporation
+- d) circulation
+- **الإجابة الصحيحة:** **b) acidification**
+- **التفسير وسبب صحة الإجابة:** **`acidification`** هي «عملية تحمُّض المحيطات» الناتجة عن امتصاص مياه البحر لغاز ثاني أكسيد الكربون، مما يدمر الشعاب المرجانية.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) purification:** تنقية/تطهير.
+  - **c) evaporation:** تبخر.
+  - **d) circulation:** دوران.
+
+#### 2. Coral reef ............... happens when it loses its color or becomes white.
+- a) bleaching
+- b) feeding
+- c) cloning
+- d) spreading
+- **الإجابة الصحيحة:** **a) bleaching**
+- **التفسير وسبب صحة الإجابة:** **`coral reef bleaching`** (ابيضاض الشعاب المرجانية) هو فقدان الشعاب المرجانية لألوانها وتحولها إلى اللون الأبيض بسبب ارتفاع حرارة المحيطات وتحمضها.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) feeding / c) cloning / d) spreading:** تغذية / استنساخ / انتشار.
+
+#### 3. After hours of debate, the committee finally reached a ............... on the new policy.
+- a) deadline
+- b) complaint
+- c) conflict
+- d) consensus
+- **الإجابة الصحيحة:** **d) consensus**
+- **التفسير وسبب صحة الإجابة:** المتلازمة المقررة هي **`reach a consensus`** بمعنى «يتوصل إلى إجماع أو اتفاق عام بين أعضاء المجموعة».
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) deadline / b) complaint / c) conflict:** موعد نهائي / شكوى / صراع.
+
+#### 4. The factory experienced ............... in its power supply, causing delays in production.
+- a) integrity
+- b) continuity
+- c) interval
+- d) intermittency
+- **الإجابة الصحيحة:** **d) intermittency**
+- **التفسير وسبب صحة الإجابة:** **`intermittency`** تعني «التقطُّع / عدم الانتظام أو الانقطاع المتكرر»، وهو ما يفسر حدوث تأخيرات في الإنتاج (`causing delays in production`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) integrity:** نزاهة/سلامة.
+  - **b) continuity:** استمرارية (عكس المعنى).
+  - **c) interval:** فترة فاصلة (مفرد معدود يحتاج إلى `an`).
+
+#### 5. ............... it was raining heavily, we decided to take a taxi to the stadium.
+- a) Because of
+- b) Due to
+- c) For
+- d) Since
+- **الإجابة الصحيحة:** **d) Since**
+- **التفسير وسبب صحة الإجابة:** جاء بعد النقط **جملة كاملة (`it was raining heavily`)** في **أول الجملة**، والرابط السببي الذي يأتي في أول الجملة ويتبعه `Subject + Verb` هو **`Since`** (أو `As / Because`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) Because of / b) Due to:** يتبعهما اسم (`Noun / V-ing`) وليس جملة كاملة.
+  - **c) For:** كرابط سببي (`، for`) لا يأتي في أول الجملة أبدًا، بل يأتي في منتصف الجملة فقط بعد فاصلة!
+
+#### 6. You ............... leave your luggage unattended at the airport; it's strictly forbidden.
+- a) don't have to
+- b) ought not
+- c) can
+- d) mustn't
+- **الإجابة الصحيحة:** **d) mustn't**
+- **التفسير وسبب صحة الإجابة:** عبارة **`it's strictly forbidden`** (ممنوع منعًا باتًّا) تدل على **الحظر والتحريم القانوني (`Prohibition`)**، ونعبّر عنه بـ **`mustn't + inf.`** (`mustn't leave`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) don't have to:** تعني «ليس ضروريًا (اختياري)»، ولا تُستخدم مع الممنوعات القانونية!
+  - **b) ought not:** ينقصها `to` (`ought not to`)، كما أنها للنصيحة لا للحظر الصارم.
+  - **c) can:** تفيد الإباحة.
+
+---
+
+### المستوى الثاني: متوسط (Level 2: Intermediate — `rise/raise/arise/arouse`, Cause/Result Connectors, & `must` vs. `have to`)
+
+#### 7. Compare the four confusable verbs in these curriculum sentences:
+1) *"We should ............... more money to help the poor."*
+2) *"Problems are likely to ............... among friends when they don't understand each other."*
+- a) rise / arise
+- b) raise / arise
+- c) arise / arouse
+- d) raise / arouse
+- **الإجابة الصحيحة:** **b) raise / arise**
+- **التفسير وسبب صحة الإجابة:**
+  - في الجملة الأولى: جاء بعد النقط مفعول به (`more money`) بمعنى «يجمع مالاً»، فنستخدم الفعل المتعدي **`raise`**.
+  - في الجملة الثانية: الفاعل هو `Problems` (المشكلات) والفعل لازم بمعنى «تنشأ / تظهر»، فنستخدم **`arise`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - `rise` لازم بمعنى يرتفع أو تشرق الشمس، و`arouse` متعدٍّ بمعنى يثير المشاعر أو الشكوك (`arouse suspicions`).
+
+#### 8. Through ..............., few species survived changing weather patterns.
+- a) adaptation
+- b) promotion
+- c) adoption
+- d) occurrence
+- **الإجابة الصحيحة:** **a) adaptation**
+- **التفسير وسبب صحة الإجابة:** **`adaptation`** تعني «التكيف / التأقلم البيولوجي مع ظروف البيئة والمناخ المتغيرة».
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **c) adoption:** تعني «تبنّي طفل أو اعتماد فكرة/تقنية جديدة» (`adoption of electric vehicles`).
+  - **b) promotion / d) occurrence:** ترويج / حدوث.
+
+#### 9. His failure in the final exam was ............... his total lack of preparation.
+- a) due to
+- b) because
+- c) through
+- d) owing to
+- **الإجابة الصحيحة:** **a) due to**
+- **التفسير وسبب صحة الإجابة:** جاء قبل النقط **`verb to be` (`was`)** وجاء بعدها عبارة اسمية (`his total lack of preparation`)؛ ووفق قاعدة المنهج المقررة تُعامل **`due to`** كصفة وتأتي بعد `verb to be` لتفسير الاسم السابق (`His absence/failure was due to...`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) because:** تتبعها جملة كاملة.
+  - **c) through:** تعني «من خلال / بفضل».
+  - **d) owing to:** تُعامل كظرف وتأتي في بداية الجملة أو بعد فعل أساسي وليس بعد `was` كخبر.
+
+#### 10. ............... very tired after a long day at work, Ahmed went straight to bed.
+- a) Be
+- b) Been
+- c) Was
+- d) Being
+- **الإجابة الصحيحة:** **d) Being**
+- **التفسير وسبب صحة الإجابة:** أصل الجملة `Because Ahmed was very tired..., he went straight to bed`؛ وبما أن الفاعل في الجملتين واحد (`Ahmed`)، نحذف الرابط `Because` والفاعل ونحول `was` إلى **`Being`** في أول الجملة.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b & c:** لا تصلح لبدء عبارة اسم الفاعل المختصرة عن جملة السبب.
+
+#### 11. Compare internal vs. external obligation in these two sentences:
+1) *"I promised my mother to call her before midnight, so I ............... remember to do it."*
+2) *"You ............... wear a tie at this bank; it's part of the strict corporate dress code."*
+- a) have to / must
+- b) must / have to
+- c) needn't / must
+- d) ought / had better
+- **الإجابة الصحيحة:** **b) must / have to**
+- **التفسير وسبب صحة الإجابة:**
+  - في الجملة الأولى: التزام شخصي نابع من وعد داخلي للأم (`I promised my mother`) $\rightarrow$ نستخدم **`must`**.
+  - في الجملة الثانية: التزام خارجي مفروض بقواعد العمل الصارمة للبنك (`strict corporate dress code`) لا اختيار للشخص فيه $\rightarrow$ نستخدم **`have to`**.
+
+---
+
+### المستوى الثالث: متقدم / مستويات عليا (Level 3: Advanced — `can` vs. `could` vs. `could have + P.P.`, `, for`, & Passive Modals)
+
+#### 12. Smoking ............... cause severe respiratory diseases and heart failure.
+- a) could
+- b) can
+- c) ought to
+- d) might
+- **الإجابة الصحيحة:** **b) can**
+- **التفسير وسبب صحة الإجابة:** القاعدة الدقيقة في المنهج المقرر: عندما نتحدث عن **احتمال عام أو حقيقة علمية/طبية مؤكدة ومعروفة (`Smoking ... cause cancer/diseases` / `Computers ... crash sometimes`)** وليس موقفًا فرديًا مؤقتًا في المستقبل، نستخدم **`can + inf.`**!
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) could / d) might:** تستخدمان لاحتمال ضعيف أو غير مؤكد في موقف معين، بينما أضرار التدخين حقيقة طبية ثابتة.
+  - **c) ought to:** للنصيحة.
+
+#### 13. He ............... been a doctor, but he chose to become a professional writer instead.
+- a) was able to
+- b) can have
+- c) could have
+- d) had ability
+- **الإجابة الصحيحة:** **c) could have**
+- **التفسير وسبب صحة الإجابة:** جاء بعد النقط التصريف الثالث **`been`** تليه جملة `but he chose to become a writer instead` (أي **كان بإمكانه أن يصبح طبيبًا في الماضي، لكنه لم يفعل ذلك باختياره**)، والصيغة المقررة للاستطاعة غير المتحققة في الماضي هي **`could have + P.P.` (`could have been`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) was able to:** يتبعها مصدر (`be`) وليس تصريفًا ثالثًا (`been`)، كما أنها تعني أنه أصبح طبيبًا بالفعل!
+  - **b) can have:** لا تُستخدم في الإثبات للماضي.
+  - **d) had ability:** ينقصها `the` و`to be`.
+
+#### 14. The manager trusted Omar, ............... he had always been honest and responsible at work.
+- a) owing to
+- b) for
+- c) because of
+- d) despite
+- **الإجابة الصحيحة:** **b) for**
+- **التفسير وسبب صحة الإجابة:** جاء قبل النقط **فاصلة (`,`) في منتصف الجملة** وجاء بعدها **جملة كاملة (`he had always been honest`)** توضح سبب ثقة المدير في عمر؛ والرابط السببي الفصيح الذي يأتي في منتصف الجملة بعد فاصلة ويتبعه `Subject + Verb` هو **`for`** بمعنى «لأن».
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) owing to / c) because of:** يتبعهما اسم وليس جملة كاملة.
+  - **d) despite:** للتناقض ويتبعها اسم.
+
+---
+
+### الأسئلة التطبيقية والمقالية: Rewrite & Complete the Text (Step-by-Step Solutions)
+
+#### أولاً: أسئلة `Rewrite using the word(s) in brackets` (بخطوات الحل المبسطة — ص 346، 347، 361، 367)
+
+1. **The teacher punished the student because he had made many mistakes.** *(Use: **because of**)*
+   - **خطوات الحل ببساطة:**
+     1. نحذف الرابط `because` الذي يتبعه جملة كاملة (`he had made many mistakes`).
+     2. نضع **`because of`** متبوعة بعبارة اسمية (`making many mistakes` أو `his many mistakes`).
+   - **الحل النهائي:** **`The teacher punished the student because of making many mistakes (or because of his many mistakes).`**
+
+2. **He lost his job because of his carelessness.** *(Use: **careless**)*
+   - **خطوات الحل ببساطة:**
+     1. الكلمة المطلوبة `careless` هي **الصفة** من الاسم `carelessness`.
+     2. نحول شبه الجملة `because of his carelessness` إلى جملة كاملة بـ `because + he was careless` (أو عبارة اسم فاعل `Being careless, he lost his job`).
+   - **الحل النهائي:** **`He lost his job because he was careless.`** *(أو: `Being careless, he lost his job.`)*
+
+3. **Because the traffic was heavy, we arrived late to the wedding.** *(Use: **consequently**)*
+   - **خطوات الحل ببساطة:**
+     1. نحذف `Because` من أول الجملة ونكتب جملة السبب أولاً (`The traffic was heavy`).
+     2. نضع فاصلة منقوطة ثم **`consequently,`** (أو نقطة ثم `Consequently,`) ثم جملة النتيجة.
+   - **الحل النهائي:** **`The traffic was heavy; consequently, we arrived late to the wedding.`**
+
+4. **It is possible for experienced drivers to navigate through thick fog.** *(Use: **can**)*
+   - **خطوات الحل ببساطة:**
+     1. انتبه للفرق المهم: `It is possible FOR + object + to + inf.` تعبر عن **القدرة والاستطاعة (`can / be able to`)** (بينما `It is possible THAT + Subj + will` تعبر عن الاحتمال `may`).
+     2. نجعل `Experienced drivers` فاعلاً ونضع **`can navigate`**.
+   - **الحل النهائي:** **`Experienced drivers can navigate through thick fog.`**
+
+5. **Perhaps she left her mobile phone on the desk in the office.** *(Use: **might have**)*
+   - **خطوات الحل ببساطة:**
+     1. كلمة `Perhaps` مع فعل في الماضي البسيط (`left`) تعبر عن **احتمال في الماضي**.
+     2. نحذف `Perhaps` ونضع بعد الفاعل `She` صيغة **`might have + P.P.` (`might have left`)**.
+   - **الحل النهائي:** **`She might have left her mobile phone on the desk in the office.`**
+
+---
+
+#### ثانيًا: أسئلة تصحيح التراكيب في السياق (`Complete the text with the appropriate structure` — ص 363 و367)
+
+**النص التطبيقي (من تدريبات المنهج المقررة):**
+> *"Our teacher gave us some advice before the exam. She said we should (1).................... **(studying)** every day instead of waiting until the last minute. We have (2).................... **(bring)** our student IDs to enter the exam hall. During the exam, we (3).................... **(not/use)** mobile phones. If we finish early, we (4).................... **(can't to)** leave only after asking the supervisor."*
+
+- **خطوات الحل ببساطة لكل فراغ:**
+  1. **`(1) study`:** بعد الفعل الناقص `should` يأتي المصدر المجرد بدون `ing` = **`study`**.
+  2. **`(2) to bring`:** الفعل `have` للإلزام الخارجي يحتاج إلى `to + inf.` = **`to bring`**.
+  3. **`(3) mustn't use`:** استخدام الهواتف أثناء الامتحان ممنوع بالقانون (`Prohibition`) = **`mustn't use`**.
+  4. **`(4) can`:** الجملة مثبتة المعنى بوجود `only after asking the supervisor` («يمكننا المغادرة فقط بعد استئذان المراقب»)، وبعد `can` يأتي المصدر المجرد بدون `to` = **`can`**.
+

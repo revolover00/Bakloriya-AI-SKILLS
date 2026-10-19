@@ -1,9 +1,9 @@
-# Chapter 2 (Unit 1 — Section B): Shared Responsibility & Mental Health — Lessons 1.3 & 1.4 (pp. 47–79)
+# Chapter 2 (Unit 1 — Section B): Shared Responsibility & Mental Health — Lessons 1.3 & 1.4
 
-## Part 1: Lesson `1.3` — Whose Responsibility Is It? (pp. 47–63)
+## Part 1: Lesson `1.3` — Whose Responsibility Is It?
 
 ### 1. Key & Main Vocabulary (`1.3`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **agency** | `(n)` | القدرة على اتخاذ القرار والتصرف باستقلالية | the power to make choices and take independent action |
 | **disempowering** | `(adj)` | مُضعِف للقدرة أو الثقة بالنفس | making someone feel less capable or in control |
@@ -72,7 +72,7 @@ The article compares **three perspectives** on who is responsible for healthy li
 
 ---
 
-## Part 2: Lesson `1.4` — Understanding Mental Health (pp. 64–79)
+## Part 2: Lesson `1.4` — Understanding Mental Health
 
 ### 1. Main Vocabulary, Phrases, Prepositions, Derivatives & Confusable Words (`1.4`)
 - **Main Vocabulary (`1.4`):** `academic` (أكاديمي/دراسي), `aspects` (جوانب), `availability` (توافر/إتاحة), `collectivist` (جماعي/قائم على الجماعة) vs. `individualistic` (فردي/قائم على الفرد), `conclude` (يخلص إلى/يستنتج), `consistent` (ثابت/متسق), `coping strategies` (استراتيجيات التكيف/التعامل مع الضغوط), `data` (بيانات), `decisive` (حاسم), `demands` (متطلبات/مطالب), `digital media` (وسائل الإعلام الرقمية), `exposure` (تعرض/اطلاع), `findings` (نتائج/استنتاجات دراسة), `gather` (يجمع), `governorates` (محافظات), `household` (أسرة/منزل), `identify` (يحدد/يتعرف على), `institutions` (مؤسسات), `interact` (يتفاعل), `moderate` (معتدل/متوسط), `nationwide` (على مستوى الدولة), `participants` (مشاركون), `peers` (أقران من نفس العمر), `rural` (ريفي) vs. `urban` (حضري), `school counseling services` (خدمات الإرشاد المدرسي), `seek emotional support` (يطلب دعمًا معنويًا), `siblings` (إخوة وأخوات), `significant` (مهم/ملحوظ), `survey` (استطلاع/مسح), `targeted` (مستهدف), `variables` (متغيرات).
@@ -118,7 +118,7 @@ The article compares **three perspectives** on who is responsible for healthy li
 
 ---
 
-## Part 3: Section B Grammar Focus — Hedging, Conditionals & `If` Alternatives (pp. 58–61 & 72–73)
+## Part 3: Section B Grammar Focus — Hedging, Conditionals & `If` Alternatives
 
 ### 1. Why Use Conditionals & Modals in Academic Writing? (**Hedging / التحوط اللغوي**)
 In academic writing, you should not sound 100% certain unless you have unquestionable proof. **Hedging** uses cautious language (`may, might, could, tend to` and `If` conditional structures) to avoid overgeneralizations:
@@ -147,3 +147,270 @@ In academic writing, you should not sound 100% certain unless you have unquestio
 | **Inversion 2: `Were`** | **`Were + Subject + noun/adj`** OR **`Were + Subject + to + inf.`** | Replaces `If` in **2nd Conditional ONLY**:<br>***Were** she my sister, I would help her.* / ***Were** the company **to reduce** prices, sales would increase.* |
 | **Inversion 3: `Had`** | **`Had + Subject + P.P.`** (Negative: `Had + Subject + not + P.P.`) | Replaces `If` in **3rd Conditional**:<br>***Had** they **informed** us earlier, we would have attended.* |
 | **`Suppose / Supposing (that) / Imagine (that)`** | `+ Clause, Question Main Clause?` | Used to introduce hypothetical questions (1st, 2nd, or 3rd Cond.):<br>***Imagine that** you won a million pounds, what would you spend it on?* |
+
+---
+
+## Part 4: Organized Question Bank — Unit 1 Section B (Ordered by Difficulty with Full Solutions & Step-by-Step Explanations)
+
+### المستوى الأول: سهل / مباشر (Level 1: Easy — Direct Vocabulary & Conditional Types)
+
+#### 1. Living in poverty is a ............... experience that makes people feel completely helpless.
+- a) disempowering
+- b) rewarding
+- c) cheerful
+- d) local
+- **الإجابة الصحيحة:** **a) disempowering**
+- **التفسير وسبب صحة الإجابة:** الصفة **`disempowering`** تعني «مُضعِف للقدرة أو الثقة بالنفس ويجعل الشخص يشعر بالعجز»، وهو ما يفسره الجزء الثاني من الجملة (`makes people feel completely helpless`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) rewarding:** مُجزٍ/مُرضٍ (صفة إيجابية).
+  - **c) cheerful:** مبهج/مفرح.
+  - **d) local:** محلي.
+
+#### 2. Giving workers more ............... over their schedules increases productivity and overall happiness.
+- a) obstacles
+- b) anger
+- c) agency
+- d) pleasure
+- **الإجابة الصحيحة:** **c) agency**
+- **التفسير وسبب صحة الإجابة:** **`agency`** تعني «القدرة على اتخاذ القرار والتصرف باستقلالية»، ومنح العمال استقلالية أكبر في تنظيم جداولهم يرفع الإنتاجية والسعادة.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) obstacles:** عقبات/عوائق.
+  - **b) anger:** غضب.
+  - **d) pleasure:** متعة (لا تأتي مع حرف الجر `over their schedules` بمعنى التحكم والاستقلالية).
+
+#### 3. Historians ............... the invention of the compass to the ancient Chinese sailors and scientists.
+- a) damage
+- b) avoid
+- c) attribute
+- d) contribute
+- **الإجابة الصحيحة:** **c) attribute**
+- **التفسير وسبب صحة الإجابة:** المتلازمة المقررة هي **`attribute ... to`** بمعنى «ينسب / يعزو الفضل أو السبب في شيء إلى»، فالمؤرخون ينسبون اختراع البوصلة إلى البحارة والعلماء الصينيين القدماء.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **d) contribute:** تعني «يسهم في» (`contribute to`)، ولا تأتي بمعنى «ينسب اختراعًا إلى شخص».
+  - **a) damage / b) avoid:** يتلف / يتجنب.
+
+#### 4. The survey was conducted ..............., with students from different parts of the country taking part.
+- a) separately
+- b) lonely
+- c) globally
+- d) nationwide
+- **الإجابة الصحيحة:** **d) nationwide**
+- **التفسير وسبب صحة الإجابة:** **`nationwide`** تعني «على مستوى الدولة كلها»، بدليل عبارة `from different parts of the country` (من مختلف أنحاء البلاد).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) separately:** بشكل منفصل.
+  - **b) lonely:** وحيد.
+  - **c) globally:** عالميًا (بين دول العالم، بينما الجملة تتحدث عن `the country` دولة واحدة).
+
+#### 5. If water temperature ............... below $0^\circ\text{C}$, it turns into ice.
+- a) falls
+- b) will fall
+- c) fell
+- d) had fallen
+- **الإجابة الصحيحة:** **a) falls**
+- **التفسير وسبب صحة الإجابة:** الجملة تعبر عن **حقيقة علمية ثابتة**، وجواب الشرط في المضارع البسيط (`turns into ice`)، لذا نستخدم **الحالة الصفرية (`Zero Conditional`)**: `If + Present Simple (falls) -> Present Simple (turns)`.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) will fall:** لا نضع `will` في جملة فعل الشرط بعد `If`.
+  - **c) fell / d) had fallen:** ماضٍ بسيط وماضٍ تام، بينما الجملة حقيقة عامة غير مقيدة بوقت ماضٍ.
+
+#### 6. If Ahmed calls you tonight, ............... him to phone me.
+- a) telling
+- b) tells
+- c) tell
+- d) told
+- **الإجابة الصحيحة:** **c) tell**
+- **التفسير وسبب صحة الإجابة:** في **الحالة الشرطية الأولى (`First Conditional`)**، عندما يخلو جواب الشرط من فاعل، فإنه يبدأ بـ **فعل أمر في المصدر (`Imperative: inf.`)** وهو **`tell`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) telling / b) tells / d) told:** لا تصلح لبداية جملة الأمر في جواب الشرط.
+
+#### 7. ............... a medical emergency, call this number immediately.
+- a) In case
+- b) In case of
+- c) Unless
+- d) Providing
+- **الإجابة الصحيحة:** **b) In case of**
+- **التفسير وسبب صحة الإجابة:** جاء بعد النقط **شبه جملة اسمية (`a medical emergency`)** وليس جملة كاملة (`Subject + Verb`)، والبديل الذي يتبعه اسم (`Noun / V-ing`) بمعنى «في حالة حدوث» هو **`In case of`** (أو `In the event of`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) In case / c) Unless / d) Providing:** كلها روابط يجب أن تتبعها جملة كاملة (`Subject + Verb`).
+
+---
+
+### المستوى الثاني: متوسط (Level 2: Intermediate — Vocabulary in Context, Confusable Words & Mixed Conditionals)
+
+#### 8. Which person below best shows an *"internal locus of control"*?
+- a) Mona fails her exam and says, "The teacher made the test too difficult. There was nothing I could do."
+- b) Eslam loses his job and says, "The economy is terrible right now. I'll never find work again."
+- c) Eman gets a low grade on her project and says, "I didn't plan my time well. Next time, I'll start earlier and ask for feedback."
+- d) Jana misses the bus and says, "The bus always comes late. I'm just unlucky."
+- **الإجابة الصحيحة:** **c) Eman gets a low grade on her project and says, "I didn't plan my time well. Next time, I'll start earlier and ask for feedback."**
+- **التفسير وسبب صحة الإجابة:** أصحاب **مركز التحكم الداخلي (`internal locus of control`)** يؤمنون بأن أفعالهم وقراراتهم الشخصية هي التي تحدد نتائجهم، فيتحملون المسئولية عن أخطائهم ويعدّلون خططهم للنجاح.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b & d:** كلها أمثلة على **مركز التحكم الخارجي (`external locus of control`)** حيث يلوم الشخص الظروف الخارجية (المعلم، الاقتصاد، الحظ) ويشعر بالعجز.
+
+#### 9. The government's report on childhood obesity included *findings* that linked sugary snacks to a rise in health issues. Which situation best reflects the idea of "findings"?
+- a) A journalist writes an opinion piece without consulting any experts.
+- b) A research team analyzes data and publishes evidence that sugar increases diabetes risk.
+- c) A principal bans sugary snacks because she personally dislikes them.
+- d) A parent tells her child to stop eating candy based on an unverified headline.
+- **الإجابة الصحيحة:** **b) A research team analyzes data and publishes evidence that sugar increases diabetes risk.**
+- **التفسير وسبب صحة الإجابة:** وفق جدول الفروق اللغوية (`FOCUS on Vocabulary`)، كلمة **`findings`** تعني «النتائج والاستنتاجات العلمية التي يتوصل إليها الباحثون بعد جمع البيانات وتحليلها».
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & c & d:** تعبر عن آراء شخصية أو تفضيلات فردية أو عناوين غير موثقة بلا بحث ولا تحليل بيانات.
+
+#### 10. A/An ............... person often believes that cooperation and group success are more important than personal achievement.
+- a) individualistic
+- b) collectivist
+- c) independent
+- d) consistent
+- **الإجابة الصحيحة:** **b) collectivist**
+- **التفسير وسبب صحة الإجابة:** الثقافة أو الشخصية الجماعية (**`collectivist`**) تعطي الأولوية للتعاون والأسرة ونجاح الجماعة على حساب الإنجاز الفردي.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) individualistic / c) independent:** تركزان على الاستقلالية والأهداف الفردية الشخصية.
+  - **d) consistent:** ثابت/متسق.
+
+#### 11. If we leave this milk outside tonight, it ............... bad.
+- a) goes
+- b) went
+- c) will go
+- d) would go
+- **الإجابة الصحيحة:** **c) will go**
+- **التفسير وسبب صحة الإجابة:** انتبه للفخ الامتحاني المهم! رغم أن فساد الحليب حقيقة علمية، إلا أن الجملة هنا **محددة بوقت معين (`tonight`) وبحليب محدد (`this milk`)**، وتحديد الوقت أو التخصيص يحول الجملة من الحالة الصفرية إلى **الحالة الشرطية الأولى (`First Conditional`)**: **`will go`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) goes:** تُستخدم في الحالة الصفرية فقط عند التعميم المطلق بدون تحديد زمن مثل `tonight`.
+  - **b) went / d) would go:** للماضي أو للحالة الثانية، بينما فعل الشرط مضارع بسيط (`leave`) مع `tonight`.
+
+#### 12. If Yousif read many books, he ............... knowledgeable.
+- a) may be
+- b) will be
+- c) would be
+- d) would have been
+- **الإجابة الصحيحة:** **c) would be**
+- **التفسير وسبب صحة الإجابة:** لاحظ أن الفاعل `Yousif` مفرد غائب، ومع ذلك جاء الفعل **`read`** بدون حرف `s`! هذا يثبت أن `read` هنا في زمن **الماضي البسيط** (تُنطق `/red/`) وليست مضارعًا بسيطًا، وبالتالي فالجملة في **الحالة الشرطية الثانية (`Second Conditional`)** وجواب شرطها **`would be`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) may be / b) will be:** للحالة الأولى (التي كانت تتطلب `If Yousif reads` بإضافة `s`).
+  - **d) would have been:** للحالة الثالثة (التي تتطلب `If Yousif had read`).
+
+#### 13. Save your work frequently ............... the computer suddenly shuts down.
+- a) but for
+- b) unless
+- c) in case
+- d) provided
+- **الإجابة الصحيحة:** **c) in case**
+- **التفسير وسبب صحة الإجابة:** نستخدم الرابط **`in case`** بمعنى «تحسبًا لـ / خشية أن» عندما نقوم بإجراء احترازي مقدمًا (`Save your work frequently`) لتجنب مشكلة محتملة في المستقبل (`the computer suddenly shuts down`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) but for:** تعني «لولا» ويتبعها اسم وليس جملة كاملة.
+  - **b) unless / d) provided:** يفسدان المعنى (لأنك تحفظ عملك خشية أن ينطفئ الجهاز، لا بشرط أن ينطفئ!).
+
+---
+
+### المستوى الثالث: متقدم / مستويات عليا (Level 3: Advanced — Conditional Inversions & Meaning Deduction)
+
+#### 14. ............... the company to reduce prices, sales would increase significantly.
+- a) Had
+- b) Were
+- c) Should
+- d) If
+- **الإجابة الصحيحة:** **b) Were**
+- **التفسير وسبب صحة الإجابة:** وجود **`to + inf.` (`to reduce`)** بعد الفاعل مع جواب شرط في الحالة الثانية (`would increase`) هو الصيغة القياسية لحذف `If` باستخدام **`Were`** في الحالة الشرطية الثانية:
+  $$\text{Were} + \text{Subject} + \text{to} + \text{inf.}, \quad \text{Subject} + \text{would} + \text{inf.}$$
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) Had:** يتبعها الفاعل ثم التصريف الثالث (`P.P.`) أو اسم مملوك.
+  - **c) Should:** يتبعها الفاعل ثم **المصدر بدون `to`** (`Should the company reduce...`).
+  - **d) If:** تتطلب فعلاً مصرفًا (`If the company reduced...`).
+
+#### 15. ............... the internet connection fail, the presentation will be postponed.
+- a) Had
+- b) Were
+- c) Should
+- d) Unless
+- **الإجابة الصحيحة:** **c) Should**
+- **التفسير وسبب صحة الإجابة:** الفاعل `the internet connection` مفرد، ومع ذلك جاء بعده الفعل في **المصدر المجرد (`fail`)** بدون `s`، وجواب الشرط في الحالة الأولى (`will be postponed`). الأداة الوحيدة التي تحل محل `If` في الحالة الأولى (والثانية) ويتبعها `Subject + bare inf.` هي **`Should`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) Had:** تتطلب تصريفًا ثالثًا والحالة الثالثة.
+  - **b) Were:** تتطلب `to fail` والحالة الثانية (`would be postponed`).
+  - **d) Unless:** تتطلب فعلاً مضارعًا مصرفًا بمفرده (`Unless the internet connection fails`).
+
+#### 16. ............... he not warned us, we would have invested all our money in this company.
+- a) Were
+- b) Had
+- c) Should
+- d) Unless
+- **الإجابة الصحيحة:** **b) Had**
+- **التفسير وسبب صحة الإجابة:** الجملة في **الحالة الشرطية الثالثة المنفية** (لوجود التصريف الثالث `warned` وجواب الشرط `would have invested`). عند حذف `If` في الحالة الثالثة المنفية نستخدم الصيغة:
+  $$\text{Had} + \text{Subject} + \text{not} + \text{P.P.}$$
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) Were / c) Should:** لا يأتي بعدهما تصريف ثالث (`warned`) ولا تستخدمان في الحالة الثالثة.
+  - **d) Unless:** لا يأتي بعدها نفي ولا تصريف ثالث بلا فعل مساعد.
+
+#### 17. If I hadn't been ill, I'd have worked harder. This means that I ............... harder because I ............... ill.
+- a) hadn't worked / was
+- b) didn't work / was
+- c) didn't work / am
+- d) had worked / had been
+- **الإجابة الصحيحة:** **b) didn't work / was**
+- **التفسير وسبب صحة الإجابة:** الحالة الشرطية الثالثة (`If + Past Perfect, would have + P.P.`) تعبر عن **عكس ما حدث فعلاً في الماضي البسيط**:
+  - `If I hadn't been ill` (شرط ماضٍ تام منفي) $\rightarrow$ الواقع الفعلي في الماضي البسيط مثبت: **`I was ill`**.
+  - `I would have worked harder` (جواب شرط مثبت) $\rightarrow$ الواقع الفعلي في الماضي البسيط منفي: **`I didn't work harder`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & d:** استخدما الماضي التام بدلاً من الماضي البسيط للتعبير عن الحدث الواقعي.
+  - **c):** استخدم المضارع `am` رغم أن الحالة الثالثة تتحدث عن الماضي.
+
+---
+
+### الأسئلة التطبيقية والمقالية: Rewrite & Complete the Text (Step-by-Step Solutions)
+
+#### أولاً: أسئلة `Rewrite using the word(s) in brackets` (بخطوات الحل المبسطة)
+
+1. **Teenagers exercise regularly. As a result, they improve their physical fitness.** *(Use hedging language with: **If**)*
+   - **خطوات الحل ببساطة:**
+     1. نضع `If` قبل جملة السبب في المضارع البسيط (`If teenagers exercise regularly,`).
+     2. نحذف `As a result` ونستخدم فعل ناقص يدل على التحوط اللغوي (`Hedging`: `may / might / can`) قبل المصدر `improve`.
+   - **الحل النهائي:** **`If teenagers exercise regularly, they may (or can/might) improve their physical fitness.`**
+
+2. **Schools did not offer health support earlier, so more students suffered from stress.** *(Use: **had**)*
+   - **خطوات الحل ببساطة:**
+     1. الجملتان في الماضي البسيط (`did not offer` / `suffered`)، فنحولهما إلى **الحالة الشرطية الثالثة** مع عكس الإثبات والنفي.
+     2. ولأن المطلوب البدء بـ `Had` (أو استخدام `had` بعد `If`): `If schools had offered health support earlier, fewer students would have suffered (or: more students wouldn't have suffered) from stress`، أو بتقديم `Had`:
+   - **الحل النهائي:** **`Had schools offered health support earlier, more students wouldn't have suffered from stress.`** *(أو: `If schools had offered health support earlier, more students wouldn't have suffered from stress.`)*
+
+3. **Salma didn't catch the train because she arrived late.** *(Use: **If**)*
+   - **خطوات الحل ببساطة:**
+     1. نبدأ بجملة السبب (`because she arrived late`) بعد `If`.
+     2. الزمن ماضٍ بسيط مثبت (`arrived`) $\rightarrow$ نحوله إلى ماضٍ تام منفي (`hadn't arrived late`).
+     3. نحول النتيجة المنفية (`didn't catch`) إلى مثبتة في الحالة الثالثة (`would have caught`).
+   - **الحل النهائي:** **`If Salma hadn't arrived late, she would have caught the train.`**
+
+4. **Kareem is very busy, so he can't join us.** *(Use: **If**)*
+   - **خطوات الحل ببساطة:**
+     1. الجملة في المضارع (`is / can't`) $\rightarrow$ نستخدم **الحالة الشرطية الثانية** مع عكس الإثبات والنفي.
+     2. `is very busy` تصبح `weren't (or wasn't) very busy`، و`can't join` تصبح `could (or would) join`.
+   - **الحل النهائي:** **`If Kareem weren't very busy, he could (or would) join us.`**
+
+5. **If the rescue team hadn't arrived quickly, many people would have died.** *(Use: **But for**)*
+   - **خطوات الحل ببساطة:**
+     1. نحذف `If ... hadn't arrived quickly` ونستبدلها بـ **`But for + Noun Phrase`**.
+     2. نحول الفعل `the rescue team arrived quickly` إلى عبارة اسمية: `the rescue team's quick arrival`.
+   - **الحل النهائي:** **`But for the rescue team's quick arrival, many people would have died.`**
+
+6. **We saved a copy of the report because the computer might crash.** *(Use: **in case**)*
+   - **خطوات الحل ببساطة:**
+     1. للتعبير عن إجراء احترازي تحسبًا لحدث مستقبلي (`because ... might`)، نحذف `because` و`might` ونضع **`in case`** متبوعة بالمضارع البسيط (`crashes`) أو الماضي البسيط (`crashed`).
+   - **الحل النهائي:** **`We saved a copy of the report in case the computer crashed (or crashes).`**
+
+7. **If I were in your position, I would refuse the offer.** *(Use: **Were**)*
+   - **خطوات الحل ببساطة:**
+     1. نحذف `If` ونقدم **`Were`** على الفاعل `I` في بداية الجملة.
+   - **الحل النهائي:** **`Were I in your position, I would refuse the offer.`**
+
+---
+
+#### ثانيًا: أسئلة تصحيح التراكيب في السياق (`Complete the text with the appropriate structure`)
+
+**النص التطبيقي (من تدريبات المنهج المقررة):**
+> *"As a young student, balancing studies, social life, and personal health can be overwhelming. Were you (1).................... **(feel)** stressed, you would recognize the signs early and take action. You can improve your mental health significantly on condition that you (2).................... **(dedicates)** at least 30 minutes each day to physical activity or mindfulness practices. But for (3).................... **(get)** enough sleep, your concentration and memory will suffer, making it harder to perform well in exams. Unless your friends (4).................... **(to support)** you during difficult times, you may feel isolated, so make sure to build a strong social network that you can rely on."*
+
+- **خطوات الحل ببساطة لكل فراغ:**
+  1. **`(1) to feel`:** بدأت الجملة بـ **`Were you ...`** في الحالة الشرطية الثانية مع فعل أساسي (`feel`)، والقاعدة هي `Were + Subject + to + inf.`، فتصبح **`to feel`**.
+  2. **`(2) dedicate`:** بعد الرابط `on condition that` والفاعل `you` في الحالة الأولى نستخدم المضارع البسيط بدون `s` مع الضمير `you`، فتصبح **`dedicate`**.
+  3. **`(3) getting`:** بعد **`But for`** يجب أن يأتي اسم أو **`V + ing`**، فتصبح **`getting`**.
+  4. **`(4) support`:** بعد **`Unless`** والفاعل الجمع `your friends` نستخدم فعلاً مضارعًا بسيطًا مثبتًا، فتصبح **`support`**.
+
