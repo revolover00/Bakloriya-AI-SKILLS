@@ -17,12 +17,12 @@ Under the new **Egyptian Baccalaureate System (نظام البكالوريا ا�
 
 | Concept & Unit | Title & Theme | Sections & Lessons | Reference Files |
 |---|---|---|---|
-| **Overview & JRE** | Teaching Strategy & **JRE (Justify – Reason – Evidence)** | Introduction (pp. 5–9) & Official JRE Model Answers (pp. 414–422) | `ch00-overview-and-jre-strategy.md` |
+| **Overview & JRE** | Teaching Strategy & **JRE (Justify – Reason – Evidence)** | Introduction & Official JRE Model Answers | `ch00-overview-and-jre-strategy.md` |
 | **CONCEPT 1: Well-being**<br>**Unit 1** | **Living well in a complex world** | • **Sec A:** `1.1` Social Media & Self-image; `1.2` Exploring Modern Lifestyles<br>• **Sec B:** `1.3` Whose Responsibility Is It?; `1.4` Understanding Mental Health<br>• **Sec C:** Skills (Reading, Hedging, Rhetorical Questions, Reflective Writing) | `ch01-unit1-secA-social-media-and-lifestyles.md`<br>`ch02-unit1-secB-responsibility-and-mental-health.md`<br>`ch03-unit1-secC-skills.md` |
-| **CONCEPT 2: Experiences**<br>**Unit 2** | **Leisure Time** | • **Sec A:** `2.1` & `2.2` (pp. 93–123)<br>• **Sec B:** `2.3` & `2.4` (pp. 124–154)<br>• **Sec C:** Skills (pp. 155–162) | `ch04-unit2-secA-leisure-time.md`<br>`ch05-unit2-secB-and-skills.md` |
-| **CONCEPT 3: Identity**<br>**Unit 3** | **Echoes of the Past** | • **Sec A:** `3.1` & `3.2` (pp. 174–204)<br>• **Sec B:** `3.3` & `3.4` (pp. 205–237)<br>• **Sec C:** Skills (pp. 238–244) | `ch06-unit3-secA-echoes-of-the-past.md`<br>`ch07-unit3-secB-and-skills.md` |
-| **CONCEPT 4: Consumption & Choice**<br>**Unit 4** | **The Power of Choice** | • **Sec A:** `4.1` & `4.2` (pp. 251–282)<br>• **Sec B:** `4.3` & `4.4` (pp. 283–312)<br>• **Sec C:** Skills (pp. 313–322) | `ch08-unit4-secA-power-of-choice.md`<br>`ch09-unit4-secB-and-skills.md` |
-| **CONCEPT 5: Sharing the Planet**<br>**Unit 5** | **The Greenhouse Effect** | • **Sec A:** `5.1` & `5.2` (pp. 335–367)<br>• **Sec B:** `5.3` & `5.4` (pp. 368–399)<br>• **Sec C:** Skills (pp. 400–407) | `ch10-unit5-secA-greenhouse-effect.md`<br>`ch11-unit5-secB-and-skills.md` |
+| **CONCEPT 2: Experiences**<br>**Unit 2** | **Leisure Time** | • **Sec A:** `2.1` & `2.2`<br>• **Sec B:** `2.3` & `2.4`<br>• **Sec C:** Skills | `ch04-unit2-secA-leisure-time.md`<br>`ch05-unit2-secB-and-skills.md` |
+| **CONCEPT 3: Identity**<br>**Unit 3** | **Echoes of the Past** | • **Sec A:** `3.1` & `3.2`<br>• **Sec B:** `3.3` & `3.4`<br>• **Sec C:** Skills | `ch06-unit3-secA-echoes-of-the-past.md`<br>`ch07-unit3-secB-and-skills.md` |
+| **CONCEPT 4: Consumption & Choice**<br>**Unit 4** | **The Power of Choice** | • **Sec A:** `4.1` & `4.2`<br>• **Sec B:** `4.3` & `4.4`<br>• **Sec C:** Skills | `ch08-unit4-secA-power-of-choice.md`<br>`ch09-unit4-secB-and-skills.md` |
+| **CONCEPT 5: Sharing the Planet**<br>**Unit 5** | **The Greenhouse Effect** | • **Sec A:** `5.1` & `5.2`<br>• **Sec B:** `5.3` & `5.4`<br>• **Sec C:** Skills | `ch10-unit5-secA-greenhouse-effect.md`<br>`ch11-unit5-secB-and-skills.md` |
 
 ---
 
@@ -36,7 +36,7 @@ A central pillar of the 2nd-Year Baccalaureate reading, listening, and writing c
 | **R — Reason**<br>*(السبب / التحليل المنطقي)* | **The Analysis / Connection:** The logical explanation of **how or why** your justification works, connecting your claim to cause-and-effect, theme, tone, or structure. | • *Why is this answer true based on context?*<br>• *How does the author's comparison/word choice work?* |
 | **E — Evidence**<br>*(الدليل النصي)* | **The Textual Proof:** Direct quotes, specific statistics/numbers, or accurate paraphrases pulled directly from the reading or listening passage. | • *Extract the exact proof from the text.*<br>• *What example/data from the text proves this?* |
 
-### Worked Model Example from the Textbook (`The Global Water Crisis`, pp. 8–9)
+### Worked Model Example (`The Global Water Crisis`)
 - **Prompt:** *Should governments take immediate action to solve the global water crisis today? State your position (Justify), explain why (Reason), and support your answer using specific data from the passage (Evidence).*
   - **Justify (Claim):** Yes, governments must act immediately rather than waiting.
   - **Reason (Logic):** Acting now prevents far more costly and dangerous disasters in the future, such as food shortages, widespread illness, and violent conflicts over shared water.
@@ -44,7 +44,7 @@ A central pillar of the 2nd-Year Baccalaureate reading, listening, and writing c
 
 ---
 
-## 4. Complete Official JRE Suggested Answers Across All 5 Units (Textbook pp. 414–422)
+## 4. Complete Official JRE Suggested Answers Across All 5 Units
 
 ### Unit 1: Living well in a complex world
 - **Section A `1.1` (p. 15 — Social Media & Self-Image):**
@@ -87,16 +87,16 @@ A central pillar of the 2nd-Year Baccalaureate reading, listening, and writing c
 ---
 
 ### Unit 2: Leisure Time
-- **Section A `2.1` (p. 97):**
+- **Section A `2.1`:**
   - **Q1:** **J:** Social media can have a negative impact on teenagers' self-image. **R:** Teenagers may compare their lives and appearance with others online, making them feel that they are not good enough. **E:** The text states that constant comparison can create a wrong sense of self-worth and appearance.
   - **Q2:** **J:** Gaming can be useful when it is controlled. **R:** Moderate gaming can develop useful skills. **E:** The text says gaming can develop problem-solving skills, hand-eye coordination, and teamwork.
   - **Q3:** **J:** Balance is more effective than completely restricting screen use. **R:** Young people need clear boundaries and regular offline activities. **E:** The text explains that young people who avoid phones before sleep feel less anxious.
-- **Section A `2.2` (p. 111):**
+- **Section A `2.2`:**
   - **Q1:** **J:** Failure is important because it can help people learn and improve. **R:** Mistakes show us what needs to be changed and can provide valuable experience. **E:** The text explains that a musician who plays a wrong note can learn more from that moment than from a perfect rehearsal.
   - **Q2–Q4 (Creative arts & brain):** **J:** Creative hobbies and group arts improve brain function and collaboration. **R:** Making art activates several brain regions and teaches communication toward a shared goal. **E:** Neuroscientists found that drawing and writing improve cognitive flexibility, and school orchestras/street art groups help youth acquire skills employers value.
-- **Section B `2.3` (p. 128):**
+- **Section B `2.3`:**
   - **Q1–Q2 (Team sports):** **J:** Mental and social benefits of sport are as important as physical benefits, helping youth succeed in academic and professional life. **R:** Sport improves physical health and develops perseverance, teamwork, emotional control, and dealing with failure. **E:** The text states that team-sport participants show higher self-esteem and that these life skills *"transfer directly into academic and professional contexts."*
-- **Section B `2.4` (p. 143):**
+- **Section B `2.4`:**
   - **Q1–Q2 (Cycling & difficult experiences):** **J:** The friend plays a vital role, and difficult experiences help people discover hidden abilities. **R:** Facing challenges builds determination. **E:** The friend insisted that the narrator continue when he considered giving up, and the narrator discovered he was *"more capable than"* he had thought.
 
 ---
@@ -109,9 +109,9 @@ A central pillar of the 2nd-Year Baccalaureate reading, listening, and writing c
   - **Q1–Q2:** **J:** The GEM is not only a museum for displaying artifacts but also an educational and scientific center. **R:** It lets students study and learn about ancient objects in a practical way. **E:** The article says that school trips, workshops, and special programs give young people the opportunity to connect with their heritage in a *"hands-on and memorable way."*
 - **Section B `3.3` (p. 209 — Viral Historical Posts & Media Literacy):**
   - **Q1–Q3:** **J:** People should not trust viral historical posts without media literacy, though social media is valuable when combined with academic preservation. **R:** The number of views does not prove accuracy, and strong emotions (surprise, pride, nostalgia) make false claims spread faster. **E:** The text states that scale and speed have no real relationship to truth, and media literacy involves questioning sources, checking dates, and consulting multiple perspectives.
-- **Section B `3.4` (pp. 223–224 — Returning Artifacts & Digital Preservation):**
-  - **Q1–Q2 (p. 223):** **J:** Historical artifacts should be returned to their countries of origin. **R:** Returning them helps countries preserve their heritage and tell their own history from their own perspective. **E:** The British Museum displays artifacts such as the Rosetta Stone and Parthenon sculptures, while the post questions *"who wrote that story?"* and *"who is left out?"*
-  - **Q1–Q2 (p. 224):** **J:** Social media has transformed the speed of sharing discoveries, but deleted posts and short videos threaten preservation. **R:** Digital content can disappear quickly unlike stone inscriptions. **E:** An Instagram story expires after 24 hours, while posts can be deleted or removed by platforms.
+- **Section B `3.4` (Returning Artifacts & Digital Preservation):**
+  - **Q1–Q2:** **J:** Historical artifacts should be returned to their countries of origin. **R:** Returning them helps countries preserve their heritage and tell their own history from their own perspective. **E:** The British Museum displays artifacts such as the Rosetta Stone and Parthenon sculptures, while the post questions *"who wrote that story?"* and *"who is left out?"*
+  - **Q1–Q2:** **J:** Social media has transformed the speed of sharing discoveries, but deleted posts and short videos threaten preservation. **R:** Digital content can disappear quickly unlike stone inscriptions. **E:** An Instagram story expires after 24 hours, while posts can be deleted or removed by platforms.
 
 ---
 

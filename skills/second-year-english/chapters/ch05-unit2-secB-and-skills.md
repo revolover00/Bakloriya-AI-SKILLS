@@ -1,9 +1,9 @@
-# Chapter 5 (Unit 2 — Section B & Section C): Lifelong Activity, Personal Narrative & Writing Skills — Lessons 2.3, 2.4 & Skills (pp. 124–162)
+# Chapter 5 (Unit 2 — Section B & Section C): Lifelong Activity, Personal Narrative & Writing Skills — Lessons 2.3, 2.4 & Skills
 
-## Part 1: Lesson `2.3` — Sport and Physical Activity as Leisure (pp. 124–138)
+## Part 1: Lesson `2.3` — Sport and Physical Activity as Leisure
 
 ### 1. Key & Main Vocabulary (`2.3`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **cardiovascular** | `(adj)` | خاص بالقلب والأوعية الدموية | relating to the heart and blood vessels/tubes through which blood flows around your body |
 | **competence** | `(n)` | كفاءة / إتقان / جدارة | the ability to do something well |
@@ -58,10 +58,10 @@
 
 ---
 
-## Part 2: Lesson `2.4` — Not Exactly a Relaxing Day (pp. 139–150)
+## Part 2: Lesson `2.4` — Not Exactly a Relaxing Day
 
 ### 1. Key & Main Vocabulary (`2.4`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **insist (insisted)** | `(v) (ed)` | يُصرّ | demanded firmly and repeatedly that someone do something |
 | **pedal stroke** | `(n)` | ضغطة على الدواسة / البدال | a single push of the pedal when cycling |
@@ -106,7 +106,7 @@
 
 ---
 
-## Part 3: Section B Grammar Focus — Advanced Gerund & Infinitive Rules (pp. 133–135 & 148–149)
+## Part 3: Section B Grammar Focus — Advanced Gerund & Infinitive Rules
 
 ### 1. Additional Uses of `Gerund (V + ing)`
 1. **As a Subject at the start of a sentence (treated as SINGULAR!):**
@@ -153,7 +153,7 @@
 
 ---
 
-## Part 4: Section C Writing Skills — Opinion Paragraph & Diary Entry (pp. 155–156)
+## Part 4: Section C Writing Skills — Opinion Paragraph & Diary Entry
 
 ### 1. Structure of an Opinion Paragraph (`فقرة إبداء الرأي`)
 1. **Opinion (Claim):** State your stance on the topic clearly in the opening sentence.
@@ -169,3 +169,234 @@ A diary entry records daily experiences, reflections, and emotions in an honest,
 4. **Reflection:** Describe how it felt when you finally stopped (using vivid detail or a simile for exhaustion and satisfaction).
 5. **The Ending (The Message):** State what this experience taught you about yourself or life.
 6. **Final Sentence:** End with a memorable philosophical or personal line (*"I am ending this day feeling happy, grateful, and refreshed."*).
+
+---
+
+## Part 5: Organized Question Bank — Unit 2 Section B, Section C & General Exam (Ordered by Difficulty with Full Solutions & Step-by-Step Explanations)
+
+### المستوى الأول: سهل / مباشر (Level 1: Easy — Direct Vocabulary & Core Grammar)
+
+#### 1. Running and swimming are excellent forms of ............... exercise that strengthen the heart and lungs.
+- a) cardiovascular
+- b) useless
+- c) elaborate
+- d) muscular
+- **الإجابة الصحيحة:** **a) cardiovascular**
+- **التفسير وسبب صحة الإجابة:** الصفة **`cardiovascular`** تعني «خاص بالقلب والأوعية الدموية»، ويدل عليها صراحةً في الجملة قوله `strengthen the heart and lungs`.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) useless:** عديم الفائدة.
+  - **c) elaborate:** معقد/مفصَّل.
+  - **d) muscular:** عضلي فقط (بينما القلب والرئتان والأوعية الدموية هي الجهاز القلبي الوعائي `cardiovascular`).
+
+#### 2. My grandmother always ............... on cooking dinner herself, even when guests offer to help.
+- a) permits
+- b) doubts
+- c) glances
+- d) insists
+- **الإجابة الصحيحة:** **d) insists**
+- **التفسير وسبب صحة الإجابة:** الفعل **`insist`** يرتبط بحرف الجر **`on` + `V-ing`** (`insists on cooking`) بمعنى «يُصرّ على».
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) permits / b) doubts:** لا يأخذان حرف الجر `on` ولا يناسبان المعنى.
+  - **c) glances:** يلقي نظرة سريعة (`glance at`).
+
+#### 3. As summer ..............., the days became hotter and the rivers began to dry up.
+- a) fell through
+- b) looked into
+- c) wore on
+- d) ran out
+- **الإجابة الصحيحة:** **c) wore on**
+- **التفسير وسبب صحة الإجابة:** الفعل الاصطلاحي **`wear on` (الماضي: `wore on`)** يُستخدم مع الوقت والفصول بمعنى «يمر تدريجيًا أو ببطء» (`As summer wore on` / `As the morning wore on`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) fell through:** فشل/لم يتم (لمشروع أو خطة).
+  - **b) looked into:** حقق في/فحص.
+  - **d) ran out:** نفد/انتهى تمامًا (بينما الجملة تتحدث عن اشتداد الحر أثناء مرور الصيف).
+
+#### 4. ............... novels and playing chess are my favorite hobbies during the lockdown.
+- a) Read
+- b) To read
+- c) Reading
+- d) Being read
+- **الإجابة الصحيحة:** **c) Reading**
+- **التفسير وسبب صحة الإجابة:** نستخدم **`Gerund (V + ing)` (`Reading`)** كاسم (فاعل) في بداية الجملة، ويؤكده العطف عليه بـ `and playing chess`.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) Read:** فعل أمر.
+  - **b) To read:** غير متوازية مع المعطوف `and playing chess`.
+  - **d) Being read:** مبني للمجهول.
+
+#### 5. You had better ............... a coat; it is very cold outside.
+- a) wearing
+- b) to wear
+- c) wear
+- d) to wearing
+- **الإجابة الصحيحة:** **c) wear**
+- **التفسير وسبب صحة الإجابة:** التعبير **`had better`** (ينبغي/من الأفضل) يتبعه دائمًا **المصدر المجرد بدون `to` (`bare infinitive`)**: **`wear`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b & d:** تضع `ing` أو `to` بعد `had better`، وهو خطأ نحوي.
+
+---
+
+### المستوى الثاني: متوسط (Level 2: Intermediate — Confusable Words, Vocabulary in Context & Special Structures)
+
+#### 6. The company uses large trucks to ............... goods from the factory to stores across the country.
+- a) transfer
+- b) transport
+- c) translate
+- d) transmit
+- **الإجابة الصحيحة:** **b) transport**
+- **التفسير وسبب صحة الإجابة:** وفق جدول الفروق اللغوية (`FOCUS on Vocabulary`)، الفعل **`transport`** يعني «ينقل البضائع أو الركاب من مكان لآخر بواسطة المركبات/وسائل المواصلات» (`large trucks`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) transfer:** ينقل موظفًا أو طالبًا لفرع آخر، أو يحول أموالاً أو مهارات.
+  - **c) translate:** يترجم لغة.
+  - **d) transmit:** يبث إشارات إذاعية أو ينقل أمراضًا وعدوى.
+
+#### 7. The man felt a sudden sharp ............... in his chest, so he was taken to hospital.
+- a) pain
+- b) ache
+- c) suffering
+- d) relief
+- **الإجابة الصحيحة:** **a) pain**
+- **التفسير وسبب صحة الإجابة:** مع الصفتين **`sudden sharp`** (مفاجئ وحاد) نستخدم كلمة **`pain`** (`a sudden sharp pain in his chest`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) ache:** ألم مستمر خفيف أو متوسط غير حاد (`dull ache / headache / backache`).
+  - **c) suffering:** معاناة عامة (اسم لا يُعد في هذا السياق).
+  - **d) relief:** راحة/فرج.
+
+#### 8. They don't allow ............... inside the library; you must go outside if you want to eat.
+- a) to eat
+- b) eating
+- c) eat
+- d) for eating
+- **الإجابة الصحيحة:** **b) eating**
+- **التفسير وسبب صحة الإجابة:** الأفعال **`allow / permit / advise / encourage / forbid`** إذا **لم يأتِ بعدها مفعول به** يتبعها مباشرةً **`V + ing` (`eating`)**، أما لو جاء بعدها مفعول فيتبعها `to + inf.` (`allow students to eat`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) to eat:** تُستخدم فقط عند وجود مفعول بعد `allow` أو في المبني للمجهول (`are not allowed to eat`).
+  - **c & d:** خطأ نحوي.
+
+#### 9. Neil Armstrong was the first man ............... on the surface of the moon.
+- a) to walk
+- b) walks
+- c) walking
+- d) walked
+- **الإجابة الصحيحة:** **a) to walk**
+- **التفسير وسبب صحة الإجابة:** بعد الأعداد الترتيبية (`the first, the second, the last, the next`) وصيغ التفضيل (`the best`)، نستخدم **`to + inf.` (`to walk`)** لتحل محل جملة الوصل (`who walked`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b & c & d:** لا تُستخدم بعد `the first + noun` في هذا التركيب القياسي.
+
+#### 10. The doctor recommended that the patient ............... some rest.
+- a) to take
+- b) taking
+- c) takes
+- d) take
+- **الإجابة الصحيحة:** **d) take**
+- **التفسير وسبب صحة الإجابة:** انتبه لقاعدة الصيغة الشرطية المصدرية (`Subjunctive`): عندما يأتي بعد الفعلين **`suggest / recommend`** الرابط **`that` + فاعل (`the patient`)**، يجب أن يكون الفعل بعد الفاعل في **المصدر المجرد بدون `to` وبدون `s` (`take`)** (أو `should take`) مهما كان الفاعل مفردًا أوالزمن ماضيًا!
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) to take / b) taking:** لا يصح وضعهما كفعل للفاعل `the patient` بعد `that`.
+  - **c) takes:** فخ شائع! لا نضيف `s` للفعل بعد `recommend/suggest that + singular subject`.
+
+#### 11. Do you mind my ............... the door for some fresh air?
+- a) open
+- b) opened
+- c) to open
+- d) opening
+- **الإجابة الصحيحة:** **d) opening**
+- **التفسير وسبب صحة الإجابة:** بعد الفعل `mind` وبعد صفات الملكية (`my, your, his, her, our, their`) نستخدم دائمًا **`Gerund (V + ing)` (`opening`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b & c:** لا تتبع الفعل `mind` ولا صفة الملكية `my`.
+
+---
+
+### المستوى الثالث: متقدم / مستويات عليا (Level 3: Advanced — Perception Verbs, `would rather`, `busy` vs. `too busy`, & Skills)
+
+#### 12. We watched the athlete ............... the race from start to finish.
+- a) running
+- b) to run
+- c) ran
+- d) run
+- **الإجابة الصحيحة:** **d) run**
+- **التفسير وسبب صحة الإجابة:** أفعال الحواس (`watch, see, hear, listen to`) عندما يتبعها مفعول (`the athlete`):
+  - إذا شاهدنا **الحدث كاملاً من بدايته إلى نهايته** (بدليل عبارة **`from start to finish`**)، نستخدم **المصدر المجرد بدون `to` (`run`)**.
+  - أما إذا شاهدنا جزءًا من الحدث أثناء استمراره فنستخدم `V + ing` (`running`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) running:** تدل على رؤية جزء من الحدث فقط، وهو ما يتعارض مع `from start to finish`.
+  - **b) to run:** أفعال الحواس في المبني للمعلوم لا تأخذ `to + inf.`.
+  - **c) ran:** فعل ماضٍ.
+
+#### 13. I'd rather Ali ............... his homework before dinner.
+- a) does
+- b) do
+- c) has done
+- d) did
+- **الإجابة الصحيحة:** **d) did**
+- **التفسير وسبب صحة الإجابة:** القاعدة الدقيقة لـ **`would rather`**:
+  - إذا لم يأتِ بعدها فاعل جديد $\rightarrow$ نستخدم المصدر المجرد (`I'd rather do`).
+  - أما إذا جاء بعدها **فاعل جديد مختلف (`Ali`)** وكان الكلام في الحاضر أو المستقبل (`before dinner`) $\rightarrow$ نستخدم **الماضي البسيط (`Past Simple: did`)**! (ولو كان في الماضي مع `yesterday` نستخدم الماضي التام `had done`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) does / b) do / c) has done:** لا تُستخدم بعد `would rather + different subject`.
+
+#### 14. Compare the following two sentences from the unit grammar:
+1) *"He's too busy ............... the meetings."* (He is currently inside the meetings).
+2) *"He's too busy ............... us at the conference tomorrow."* (He cannot join us).
+- a) attending / to join
+- b) to attend / joining
+- c) attend / to join
+- d) attending / joining
+- **الإجابة الصحيحة:** **a) attending / to join**
+- **التفسير وسبب صحة الإجابة:**
+  - في الجملة الأولى: هو مشغول **بحضور** الاجتماعات فعليًا الآن $\rightarrow$ نستخدم قاعدة `busy + V-ing` (**`attending`**).
+  - في الجملة الثانية: هو مشغول جدًا بأشياء أخرى **لدرجة أنه لا يستطيع أن ينضم** إلينا غدًا $\rightarrow$ نستخدم قاعدة النفي `too + adj + to + inf.` (**`to join`**).
+
+#### 15. A diary entry is usually written in ............... and its best opening is "...............".
+- a) third person and formal voice / To whom it may concern,
+- b) passive voice and formal tone / In conclusion,
+- c) first person and personal voice / Dear Diary,
+- d) technical and complex style / Once upon a time,
+- **الإجابة الصحيحة:** **c) first person and personal voice / Dear Diary,**
+- **التفسير وسبب صحة الإجابة:** المذكرة اليومية (`Diary Entry`) تُكتب بضمير المتكلم (`first person: I / my`) وبأسلوب شخصي صادق وتأملي (`personal and narrative style`)، وتبدأ بالتاريخ والتحية القياسية **`Dear Diary,`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b & d:** تخص الخطابات الرسمية أو التقارير العلمية أو القصص الخيالية.
+
+---
+
+### الأسئلة التطبيقية والمقالية: Rewrite & Complete the Text (Step-by-Step Solutions)
+
+#### أولاً: أسئلة `Rewrite using the word(s) in brackets` (بخطوات الحل المبسطة)
+
+1. **The lecture was so difficult that I couldn't understand some of its important points.** *(Use: **too**)*
+   - **خطوات الحل ببساطة:**
+     1. نحول `so + adj + that + Subject + couldn't + inf.` إلى صيغة **`too + adj + (for + object) + to + inf.`**.
+     2. نحذف الضمير المفعول العائد إذا كان هو نفس مبتدأ الجملة، أو نبقيه مع `some of its important points`.
+   - **الحل النهائي:** **`The lecture was too difficult for me to understand some of its important points.`**
+
+2. **Although she was exhausted, she completed all her assigned tasks successfully.** *(Use: **Being**)*
+   - **خطوات الحل ببساطة:**
+     1. لعبارة اسم الفاعل مع التناقض أو السبب، نضع `Being exhausted` (أو `Despite being exhausted`) في أول الجملة.
+   - **الحل النهائي:** **`Despite being exhausted, she completed all her assigned tasks successfully.`**
+
+3. **The teacher advised us to revise vocabulary every day.** *(Use: **advised** without `us`)*
+   - **خطوات الحل ببساطة:**
+     1. عند حذف المفعول `us` بعد الفعل `advised`، يتحول `to revise` إلى **`V + ing` (`revising`)**.
+   - **الحل النهائي:** **`The teacher advised revising vocabulary every day.`**
+
+4. **I am eager to start my new job next week.** *(Use: **look forward to**)*
+   - **خطوات الحل ببساطة:**
+     1. نستبدل `am eager to` بـ `look forward to`، ونحول المصدر `start` إلى **`V + ing` (`starting`)** لأن `to` هنا حرف جر.
+   - **الحل النهائي:** **`I look forward to starting my new job next week.`**
+
+5. **Would you like to go to the cinema with us tonight?** *(Use: **fancy**)*
+   - **خطوات الحل ببساطة:**
+     1. الفعل `fancy` يعني «يرغب في» ويتبعه دائمًا **`V + ing` (`going`)**.
+   - **الحل النهائي:** **`Do you fancy going to the cinema with us tonight?`**
+
+---
+
+#### ثانيًا: أسئلة تصحيح التراكيب في السياق (`Complete the text with the appropriate structure` — ص 151)
+
+**النص التطبيقي:**
+> *"Samy's old car made a strange noise for weeks. He knew that it badly needed to (1).................... **(fix)** before it got any worse. Samy let his father (2).................... **(watch)** when he opened the bonnet and examined the problem. After a long look, his father said, 'You had better (3).................... **(take)** this to a garage today, as driving it any longer could mean (4).................... **(damage)** the engine completely.'"*
+
+- **خطوات الحل ببساطة لكل فراغ:**
+  1. **`(1) be fixed`:** الفاعل `it` (السيارة) غير عاقل مبني للمجهول، وجاء بعد `needed` حرف الجر **`to`**، لذا نكمل بصيغة المصدر المبني للمجهول `to + be + P.P.` = **`be fixed`**.
+  2. **`(2) watch`:** بعد الفعل **`let` + مفعول (`his father`)** نستخدم المصدر المجرد بدون `to` = **`watch`**.
+  3. **`(3) take`:** بعد **`had better`** نستخدم المصدر المجرد بدون `to` = **`take`**.
+  4. **`(4) damaging`:** الفعل **`mean`** هنا بمعنى «يترتب عليه / يؤدي إلى» فيأخذ `V + ing` = **`damaging`**.
+
