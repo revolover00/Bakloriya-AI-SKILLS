@@ -1,9 +1,9 @@
-# Chapter 11 (Unit 5 — Section B & Section C): Egypt's Green Change Makers, Adverbials & Environmental Writing — Lessons 5.3, 5.4 & Skills (pp. 368–406)
+# Chapter 11 (Unit 5 — Section B & Section C): Egypt's Green Change Makers, Adverbials & Environmental Writing — Lessons 5.3, 5.4 & Skills
 
-## Part 1: Lesson `5.3` — Greening Projects in Egypt (pp. 368–380)
+## Part 1: Lesson `5.3` — Greening Projects in Egypt
 
 ### 1. Key & Main Vocabulary (`5.3`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **awareness** | `(n)` | وعي / إدراك | the state of knowing about and understanding a particular issue |
 | **efficiency** | `(n)` | كفاءة | the ability to perform a task with minimum waste of time and resources |
@@ -53,10 +53,10 @@
 
 ---
 
-## Part 2: Lesson `5.4` — Individual and Collective Actions (pp. 381–393)
+## Part 2: Lesson `5.4` — Individual and Collective Actions
 
 ### 1. Key & Main Vocabulary (`5.4`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **affordable** | `(adj)` | بأسعار معقولة / في المتناول | cheap enough for most people to afford |
 | **determination** | `(n)` | إصرار / تصميم / عزم | the quality of trying to do something even when it is difficult |
@@ -102,7 +102,7 @@
 
 ---
 
-## Part 3: Section B Grammar Focus — Adverbials of Degree, Frequency, and Certainty/Stance (pp. 376–379)
+## Part 3: Section B Grammar Focus — Adverbials of Degree, Frequency, and Certainty/Stance
 
 | Category | Key Adverbials | Word-Order Rules & Exam Traps |
 |---|---|---|
@@ -112,7 +112,7 @@
 
 ---
 
-## Part 4: Section C Writing Skills — Argumentative Paragraph & Informational Leaflet (pp. 400–401)
+## Part 4: Section C Writing Skills — Argumentative Paragraph & Informational Leaflet
 
 ### 1. Structure of an Argumentative Paragraph (`الفقرة الجدلية`, p. 400)
 1. **Topic Sentence:** State your opinion clearly (the main idea of the paragraph).
@@ -127,3 +127,217 @@ A compact, single-page or folded printed document designed to educate readers ab
 3. **Bullet points:** Present key facts concisely and accessibly.
 4. **Call to action (`دعوة للعمل`):** Encourage the reader to do something specific (*"Switch to solar today!" / "Start small: solar-powered chargers are a great first step."*).
 5. **Tone & Register + Visuals:** Match the target audience (friendly yet informative for youth) and support text with images/diagrams.
+
+---
+
+## Part 5: Organized Question Bank — Unit 5 Section B, Section C & General Exam (Ordered by Difficulty with Full Solutions & Step-by-Step Explanations)
+
+### المستوى الأول: سهل / مباشر (Level 1: Easy — Direct Vocabulary & Core Adverbials)
+
+#### 1. The new machine increased the factory's ............... by producing more goods in less time.
+- a) frequency
+- b) efficiency
+- c) conspiracy
+- d) barrier
+- **الإجابة الصحيحة:** **b) efficiency**
+- **التفسير وسبب صحة الإجابة:** **`efficiency`** (الكفاءة) تُعرَّف في المنهج بأنها القدرة على إنجاز المهمة بأقل إهدار للوقت والموارد (`producing more goods in less time`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) frequency / c) conspiracy / d) barrier:** تكرار / مؤامرة / حاجز.
+
+#### 2. The brand promotes ............... by using recycled materials in its packaging.
+- a) possibility
+- b) sustainability
+- c) ability
+- d) reality
+- **الإجابة الصحيحة:** **b) sustainability**
+- **التفسير وسبب صحة الإجابة:** **`sustainability`** (الاستدامة) هي تلبية احتياجات الحاضر دون الإضرار بالأجيال القادمة من خلال إعادة التدوير والحفاظ على الموارد.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & c & d:** كلمات عامة لا تعبر عن مفهوم الاستدامة البيئية.
+
+#### 3. Many shoppers now buy ............... bags instead of using plastic ones.
+- a) emitted
+- b) initiative
+- c) reusable
+- d) processed
+- **الإجابة الصحيحة:** **c) reusable**
+- **التفسير وسبب صحة الإجابة:** **`reusable bags`** هي «الأكياس القابلة لإعادة الاستخدام» الصديقة للبيئة كبديل للأكياس البلاستيكية.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) emitted / b) initiative / d) processed:** منبعثة / مبادرة / مصنعة.
+
+#### 4. The government is building more ............... houses for people with low incomes.
+- a) rare
+- b) luxurious
+- c) affordable
+- d) costly
+- **الإجابة الصحيحة:** **c) affordable**
+- **التفسير وسبب صحة الإجابة:** الصفة **`affordable`** تعني «بأسعار معقولة / في متناول ذوي الدخل المنخفض» (`for people with low incomes`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) luxurious / d) costly:** فاخرة / باهظة التكلفة (عكس ما يناسب ذوي الدخل المحدود).
+  - **a) rare:** نادرة.
+
+#### 5. The text was very easy, so I ............... understood the whole lesson.
+- a) slightly
+- b) marginally
+- c) scarcely
+- d) fully
+- **الإجابة الصحيحة:** **d) fully**
+- **التفسير وسبب صحة الإجابة:** بما أن النص كان سهلاً جدًا (`very easy`)، فقد فهمتُ الدرس **بالكامل (`fully`)** — وهو ظرف درجة (`Adverb of Degree`) يوضع قبل الفعل الأساسي `understood`.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) slightly / b) marginally / c) scarcely:** تعني «قليلاً / بشكل هامشي / بالكاد»، وهي تتناقض مع كون النص سهلاً جدًا!
+
+#### 6. ..............., no one was hurt in the dangerous car accident yesterday.
+- a) Scarcely
+- b) Inevitably
+- c) Fortunately
+- d) Unfortunately
+- **الإجابة الصحيحة:** **c) Fortunately**
+- **التفسير وسبب صحة الإجابة:** عدم إصابة أي شخص في حادث سيارة خطير هو أمر يدعو للارتياح، فنبدأ الجملة بظرف الموقف الإيجابي **`Fortunately,`** (لحسن الحظ،).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **d) Unfortunately:** تعني «لسوء الحظ»، وتُستخدم مع الأخبار السيئة.
+  - **a) Scarcely / b) Inevitably:** بالكاد / حتمًا.
+
+---
+
+### المستوى الثاني: متوسط (Level 2: Intermediate — Confusable Words, Adverbial Word Order & Integrated Modals)
+
+#### 7. Compare the confusable words in these curriculum sentences:
+1) *"The teacher asked the students to ............... the length of the playground without using a ruler."*
+2) *"Cairo Airport is an important transportation ............... connecting flights from around the world."*
+- a) evaluate / network
+- b) estimate / hub
+- c) evaluate / hub
+- d) count / grid
+- **الإجابة الصحيحة:** **b) estimate / hub**
+- **التفسير وسبب صحة الإجابة:**
+  - في الجملة الأولى: تقدير المسافة أو الطول **تقريبيًا بدون أداة قياس (`without using a ruler`)** يُسمى **`estimate`** (بينما `evaluate` تعني تقييم مستوى أو جودة).
+  - في الجملة الثانية: المركز المحوري الذي تلتقي فيه خطوط الطيران والمواصلات العالمية يُسمى **`transportation hub`**.
+
+#### 8. Choose the sentence that has the **INCORRECT** word order:
+- a) The job is totally new.
+- b) She loves her new job totally.
+- c) She totally loves her new job.
+- d) She loves totally her new job.
+- **الإجابة الصحيحة (الجملة ذات الترتيب الخاطئ):** **d) She loves totally her new job.**
+- **التفسير وسبب الاختيار:** القاعدة الذهبية لظروف الدرجة (`Adverbs of Degree` مثل `totally, completely, significantly`): **يُمنع منعًا باتًّا وضع الظرف بين الفعل المتعدي (`loves`) ومفعوله المباشر (`her new job`)**!
+- **لماذا الاختيارات الأخرى صحيحة؟**
+  - **a):** الظرف قبل الصفة (`totally new`).
+  - **b):** الظرف في نهاية الجملة بعد المفعول (`loves her new job totally`).
+  - **c):** الظرف قبل الفعل الأساسي (`totally loves`).
+
+#### 9. The factory is ............... powered by renewable energy.
+- a) usually
+- b) often
+- c) completely
+- d) perhaps
+- **الإجابة الصحيحة:** **c) completely**
+- **التفسير وسبب صحة الإجابة:** بين الفعل المساعد (`is`) والتصريف الثالث (`powered`) نضع ظرف الدرجة **`completely`** لتوضيح مدى اعتماد المصنع على الطاقة المتجددة («يعمل بالكامل بالطاقة المتجددة»).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) usually / b) often:** ظروف تكرار لا تناسب معنى التصميم الثابت لمصدر طاقة المصنع.
+  - **d) perhaps:** ظرف احتمالي يأتي غالبًا في بداية الجملة.
+
+#### 10. Huda isn't answering her messages because she ............... be taking her final examination now.
+- a) can't
+- b) must
+- c) should
+- d) needn't
+- **الإجابة الصحيحة:** **b) must**
+- **التفسير وسبب صحة الإجابة:** هنا استنتاج شبه مؤكد في المضارع (`must be + V-ing`) لتفسير سبب عدم ردّ هدى على رسائلها الآن («لا بد أنها تؤدي امتحانها النهائي الآن»).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) can't:** تفيد استحالة الحدث، فلا تفسر لماذا لا ترد على الرسائل.
+  - **c) should / d) needn't:** للنصيحة أو عدم الضرورة.
+
+#### 11. As the population grows, traffic problems are becoming ............... serious in big cities.
+- a) scarcely
+- b) increasingly
+- c) seldom
+- d) increasing
+- **الإجابة الصحيحة:** **b) increasingly**
+- **التفسير وسبب صحة الإجابة:** قبل الصفة **`serious`** نحتاج إلى **ظرف (`Adverb`)** يبين تزايد الدرجة بمرور الوقت («تزداد خطورةً بشكل متزايد»)، وهو الظرف **`increasingly`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **d) increasing:** صفة/اسم فاعل، ولا نضع صفة لتعديل صفة أخرى (`serious`).
+  - **a) scarcely / c) seldom:** تعنيان «بالكاد / نادرًا»، وهو عكس ما يحدث مع نمو السكان.
+
+---
+
+### المستوى الثالث: متقدم / مستويات عليا (Level 3: Advanced — Sentence Structure Selection, Argumentative Paragraph & Leaflet Skills)
+
+#### 12. Only one sentence in each group is grammatically correct. Choose the correct answer:
+- a) The exam was difficulty quite, but everyone managed to finish it on time.
+- b) The exam was quite difficulty, but everyone managed to finish it on time.
+- c) The exam was quite difficult, but everyone managed to finish it on time.
+- d) The exam quite was difficult, but everyone managed to finish it on time.
+- **الإجابة الصحيحة:** **c) The exam was quite difficult, but everyone managed to finish it on time.**
+- **التفسير وسبب صحة الإجابة:** بعد `was` نضع ظرف الدرجة **`quite`** متبوعًا بـ **الصفة (`difficult`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b):** استخدمتا الاسم `difficulty` بدلاً من الصفة `difficult`.
+  - **d):** وضعت `quite` قبل `was`.
+
+#### 13. Which of the following is part of an **argumentative paragraph** on the negative impact of the news on social media?
+- a) To start with, we should consider the possible benefits of the current news we follow all over the world.
+- b) Moreover, the constant cycle of news, which is mostly bad, can make people stressed and worried.
+- c) On the other hand, we can't ignore that a lot of people aren't keen on following current events.
+- d) In summary, social media plays an important role in spreading public awareness concerning the challenges we face.
+- **الإجابة الصحيحة:** **b) Moreover, the constant cycle of news, which is mostly bad, can make people stressed and worried.**
+- **التفسير وسبب صحة الإجابة:** المطلوب جملة تدعم فقرة جدلية حول **التأثير السلبي (`negative impact`)** للأخبار على وسائل التواصل الاجتماعي؛ والجملة (b) تقدم سببًا داعمًا (`Supporting Sentence` تبدأ بـ `Moreover,`) يوضح كيف تسبب الأخبار السلبية المستمرة التوتر والقلق.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & d):** تتحدثان عن الفوائد الإيجابية (`benefits / spreading public awareness`).
+  - **c):** تتحدث عن عدم اهتمام بعض الناس بمتابعة الأحداث الجارية، وليس عن التأثير السلبي للأخبار.
+
+#### 14. A good informational leaflet should use ..............., and end with ............... .
+- a) long, heavy paragraphs / a personal memory
+- b) rhyming poetic lines / a new unrelated topic
+- c) headings and bullet points / a clear call to action
+- d) angry and harsh tone / an unfinished sentence
+- **الإجابة الصحيحة:** **c) headings and bullet points / a clear call to action**
+- **التفسير وسبب صحة الإجابة:** النشرة التثقيفية (**`Informational Leaflet`**) تعتمد على **العناوين الفرعية والنقاط المختصرة (`headings and bullet points`)** لتسهيل القراءة السريعة، وتُختتم بـ **دعوة واضحة للعمل (`a clear call to action`)** مثل *"Switch to solar today!"*.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b & d:** تخالف قواعد تصميم النشرات الإعلامية التثقيفية.
+
+---
+
+### الأسئلة التطبيقية والمقالية: Rewrite & Complete the Text (Step-by-Step Solutions)
+
+#### أولاً: أسئلة `Rewrite using the word(s) in brackets` (بخطوات الحل المبسطة — ص 377، 379، 391، 399)
+
+1. **I could not hear the whisper because it was very quiet.** *(Use: **scarcely**)*
+   - **خطوات الحل ببساطة:**
+     1. الظرف **`scarcely`** (بالكاد) يحمل معنى النفي في ذاته، لذا **نحذف أداة النفي `not`** من `could not`!
+     2. نضع `scarcely` بين الفعل الناقص `could` والفعل الأساسي `hear`.
+   - **الحل النهائي:** **`I could scarcely hear the whisper because it was very quiet.`**
+
+2. **Ali is a very careful driver.** *(Use: **always**)*
+   - **خطوات الحل ببساطة:**
+     1. نحول الاسم `a careful driver` إلى فعل مضارع (`drives`) وظرف (`carefully`).
+     2. نضع ظرف التكرار **`always`** قبل الفعل الأساسي `drives` (أو بعد `is`: `Ali is always a very careful driver`).
+   - **الحل النهائي:** **`Ali always drives very carefully.`** *(أو: `Ali is always a very careful driver.`)*
+
+3. **To my surprise, the weak team won the final match.** *(Use: **Surprisingly**)*
+   - **خطوات الحل ببساطة:**
+     1. نحذف شبه الجملة `To my surprise` في بداية الجملة ونستبدلها بظرف الموقف **`Surprisingly,`** متبوعًا بفاصلة.
+   - **الحل النهائي:** **`Surprisingly, the weak team won the final match.`**
+
+4. **The engineer succeeded because he planned carefully.** *(Use: **through**)*
+   - **خطوات الحل ببساطة:**
+     1. حرف الجر السببي **`through`** (من خلال / بفضل) يتبعه **عبارة اسمية (`Noun / V-ing`)**.
+     2. نحول الجملة `he planned carefully` إلى عبارة اسمية: `careful planning`.
+   - **الحل النهائي:** **`The engineer succeeded through careful planning.`**
+
+5. **The factory has reduced waste to a great extent.** *(Use: **considerably**)*
+   - **خطوات الحل ببساطة:**
+     1. عبارة `to a great extent` (بدرجة كبيرة) تساوي الظرف **`considerably`**.
+     2. نضع `considerably` بين الفعل المساعد `has` والتصريف الثالث `reduced` (أو في نهاية الجملة بعد `waste`).
+   - **الحل النهائي:** **`The factory has considerably reduced waste (or has reduced waste considerably).`**
+
+---
+
+#### ثانيًا: أسئلة تصحيح التراكيب في السياق (`Complete the text with the appropriate structure` — ص 396 و399)
+
+**النص التطبيقي (من تدريبات المنهج المقررة):**
+> *"Successful athletes need to develop good habits both on and off the field. When they (1).................... **(train regular)**, they can improve their strength, speed, and endurance. Athletes should (2).................... **(following always)** a balanced training schedule and get enough rest between sessions. They (3).................... **(should to ignore)** pain or signs of serious injury because continuing to train can make an injury much worse. (4).................... **(A result)**, athletes should be much more prepared for important competitions."*
+
+- **خطوات الحل ببساطة لكل فراغ:**
+  1. **`(1) train regularly`:** بعد الفعل اللازم `train` نحتاج إلى **حال/ظرف (`Adverb`)** وليس صفة، فنحول `regular` إلى **`regularly`**.
+  2. **`(2) always follow`:** بعد الفعل الناقص `should` يأتي ظرف التكرار **`always`** أولاً ثم الفعل الأساسي في **المصدر المجرد (`follow`)** بدون `ing`.
+  3. **`(3) shouldn't ignore` (أو `mustn't ignore`):** المعنى يوجب النهي عن تجاهل الألم (`because continuing to train can make an injury much worse`)، وبعد `shouldn't` يأتي المصدر بدون `to` = **`shouldn't ignore`**.
+  4. **`(4) As a result`:** الرابط الانتقالي للنتيجة في بداية الجملة قبل الفاصلة هو **`As a result`** (وليس `A result` فقط).
+

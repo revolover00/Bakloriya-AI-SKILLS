@@ -1,4 +1,4 @@
-# Chapter 1 (Unit 1 — Section A): Living Well in a Complex World — Lessons 1.1 & 1.2 (pp. 10–46)
+# Chapter 1 (Unit 1 — Section A): Living Well in a Complex World — Lessons 1.1 & 1.2
 
 ## Unit 1 Overview: Concept (1) Well-being
 - **Theme:** How "well-being" is shaped by personal choices, social media, lifestyle habits, and cultural contexts.
@@ -7,10 +7,10 @@
 
 ---
 
-## Part 1: Lesson `1.1` — Social Media and Self-Image (pp. 11–25)
+## Part 1: Lesson `1.1` — Social Media and Self-Image
 
 ### 1. Key & Main Vocabulary (`1.1`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **bias** | `(n)` | تحيز / انحياز | an unfair preference for one person, group, or idea over another |
 | **biased** | `(adj)` | متحيز / غير موضوعي | showing an unreasonable preference or prejudice |
@@ -93,10 +93,10 @@
 
 ---
 
-## Part 2: Lesson `1.2` — Exploring Modern Lifestyles (pp. 26–46)
+## Part 2: Lesson `1.2` — Exploring Modern Lifestyles
 
 ### 1. Key & Main Vocabulary (`1.2`)
-| Word / Term | Part of Speech | Arabic Meaning | Official Textbook Definition |
+| Word / Term | Part of Speech | Arabic Meaning | Official Curriculum Definition |
 |---|---|---|---|
 | **measurable** | `(adj)` | ملموس / قابل للقياس | noticeable or able to be tracked, counted, or seen |
 | **mindfulness** | `(n)` | اليقظة الذهنية / الوعي التام | paying careful, non-judgmental attention to the present moment |
@@ -168,7 +168,7 @@
 
 ---
 
-## Part 3: Section A Grammar Focus (pp. 21–23 & 36–39)
+## Part 3: Section A Grammar Focus
 
 ### Grammar 1: Participial Phrases (`العبارات الوصفية باستخدام اسم الفاعل أو المفعول`)
 Participial phrases begin with a participle (`V-ing`, `P.P.`, or `Having + P.P.`) to pack more information into a single sentence concisely.
@@ -228,3 +228,297 @@ Used instead of `after` or `because` when **Action 1 finished completely before 
   - `who's + V-ing / noun / adj` = `who is` (*The boy who's running*).
   - `who's + P.P.` = `who has` (*The boy who's finished his homework*).
   - `whose + Noun` = possession (*The boy whose phone was stolen*).
+
+---
+
+## Part 4: Organized Question Bank — Unit 1 Section A (Ordered by Difficulty with Full Solutions & Step-by-Step Explanations)
+
+### المستوى الأول: سهل / مباشر (Level 1: Easy — Direct Vocabulary & Core Grammar)
+
+#### 1. The medical committee will ............... the new drug before approving it for sale.
+- a) teach
+- b) evaluate
+- c) delay
+- d) damage
+- **الإجابة الصحيحة:** **b) evaluate**
+- **التفسير وسبب صحة الإجابة:** الفعل **`evaluate`** يعني «يُقيِّم أو يفحص قيمة/فعالية شيء بعناية قبل اتخاذ قرار بشأنه»، واللجنة الطبية تفحص وتقيّم الدواء الجديد قبل الموافقة على بيعه.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) teach:** يعني «يُعلِّم/يدرِّس»، ولا يُستخدم مع الدواء.
+  - **c) delay:** يعني «يؤجِّل»، ولا يتفق مع سياق الفحص العلمي الذي يسبق الاعتماد.
+  - **d) damage:** يعني «يُتلِف/يضر»، وهو عكس وظيفة اللجنة الطبية.
+
+#### 2. A digital highlight-............... only shows the happiest moments, not real life.
+- a) reel
+- b) row
+- c) line
+- d) part
+- **الإجابة الصحيحة:** **a) reel**
+- **التفسير وسبب صحة الإجابة:** المصطلح المقرر في الدرس هو **`highlight-reel`** (شريط اللقطات المميزة/الأبرز)، وهو الميل إلى نشر أسعد اللحظات فقط على مواقع التواصل الاجتماعي مما يصنع صورة زائفة عن الواقع.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) row / c) line / d) part:** كلمات عامة (صف / خط / جزء) لا تكوّن المصطلح النفسي والإعلامي المركب **`highlight-reel`**.
+
+#### 3. A qualified ............... can help you design a balanced diet containing all essential vitamins.
+- a) surgeon
+- b) politician
+- c) nutritionist
+- d) journalist
+- **الإجابة الصحيحة:** **c) nutritionist**
+- **التفسير وسبب صحة الإجابة:** **`nutritionist`** هو «أخصائي التغذية» الخبير بوضع الأنظمة الغذائية المتوازنة الغنية بالفيتامينات.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) surgeon:** طبيب جراح يختص بالعمليات الجراحية لا بتصميم الجداول الغذائية اليومية.
+  - **b) politician:** رجل سياسة.
+  - **d) journalist:** صحفي.
+
+#### 4. Doing thirty minutes of ............... physical exercise every morning is great for your heart.
+- a) moderate
+- b) massive
+- c) toxic
+- d) careless
+- **الإجابة الصحيحة:** **a) moderate**
+- **التفسير وسبب صحة الإجابة:** الصفة **`moderate`** تعني «معتدل»، وتأتي في المتلازمة اللفظية المقررة `moderate physical exercise` (تمرين بدني معتدل الشدة).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) massive:** ضخم الحجم (تُستخدم مع الأجسام أو المباني أو الأعداد الهائلة).
+  - **c) toxic:** سامّ/مؤذٍ.
+  - **d) careless:** مهمل/غير مبالٍ.
+
+#### 5. The scientist ............... on renewable energy won an important award.
+- a) who work
+- b) worked
+- c) working
+- d) having worked
+- **الإجابة الصحيحة:** **c) working**
+- **التفسير وسبب صحة الإجابة:** أصل الجملة في المبني للمعلوم هو `The scientist who works on renewable energy...`، وعند حذف ضمير الوصل `who` نحول الفعل المعلوم إلى **اسم الفاعل (`Present Participle: V + ing`)** ليصبح **`working`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) who work:** الفاعل `The scientist` مفرد، فكان يجب أن تكون `who works` بحرف `s`.
+  - **b) worked:** تصريف ثالث (`P.P.`) يُستخدم عند الاختصار في المبني للمجهول فقط، بينما العالِم هنا هو الفاعل الذي يعمل بنفسه.
+  - **d) having worked:** لا تُستخدم كصفة مختصرة مباشرة بعد الاسم الموصوف بهذا الشكل.
+
+#### 6. The cake ............... by my grandmother tasted very delicious.
+- a) baking
+- b) bakes
+- c) was baked
+- d) baked
+- **الإجابة الصحيحة:** **d) baked**
+- **التفسير وسبب صحة الإجابة:** أصل الجملة في المبني للمجهول هو `The cake which was baked by my grandmother tasted very delicious` (لأن الكعكة خُبِزت ولم تخبز نفسها، والفعل الرئيسي للجملة هو `tasted`)؛ فعند حذف `which was` يتبقى **اسم المفعول (`Past Participle: baked`)**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) baking:** اسم فاعل (`V-ing`) يوحي بأن الكعكة هي التي تخبز!
+  - **b) bakes / c) was baked:** الجملة تحتوي بالفعل على فعل رئيسي هو `tasted`، فلا يصح وضع فعل ثانٍ مصرف (`was baked`) بدون ضمير وصل `which`.
+
+#### 7. An orphan is a person ............... parents have died.
+- a) whose
+- b) who's
+- c) who
+- d) whom
+- **الإجابة الصحيحة:** **a) whose**
+- **التفسير وسبب صحة الإجابة:** كلمة `parents` اسم مملوك للموصوف (`a person = his parents`)، وضمير الوصل الدال على الملكية والذي يتبعه اسم مباشرةً هو **`whose`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) who's:** اختصار `who is` أو `who has`، ولا يُستخدم للملكية.
+  - **c) who / d) whom:** لا يعبران عن الملكية قبل الاسم `parents`.
+
+---
+
+### المستوى الثاني: متوسط (Level 2: Intermediate — Confusable Words, Vocabulary in Context & Structural Rules)
+
+#### 8. To ............... the overall damage caused by the storm, the insurance company sent an expert to examine the house.
+- a) judge
+- b) estimate
+- c) assess
+- d) confuse
+- **الإجابة الصحيحة:** **c) assess**
+- **التفسير وسبب صحة الإجابة:** وفق جدول الفروق اللغوية (`FOCUS on Vocabulary`)، الفعل **`assess`** يُستخدم رسميًا بمعنى «يُقيِّم أو يقدِّر حجم الخسائر/الأضرار أو حالة المريض بعد الفحص الرسمي من خبير» (`assess the overall damage`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) judge:** يحكم على شخص أو موقف بناءً على رأي شخصي أو مظهر.
+  - **b) estimate:** يعطي رقمًا أو تكلفة تقريبية دون فحص تفصيلي كامل.
+  - **d) confuse:** يربك/يشوش.
+
+#### 9. Because her skin is highly ..............., she must use a gentle sunblock in the morning.
+- a) complex
+- b) tough
+- c) sensible
+- d) sensitive
+- **الإجابة الصحيحة:** **d) sensitive**
+- **التفسير وسبب صحة الإجابة:** **`sensitive`** تعني «حساس / سريع التأثر جسديًا أو عاطفيًا» (`sensitive skin` = بشرة حساسة تتأثر بأشعة الشمس).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **c) sensible:** تعني «عاقل / حكيم / منطقي» (`sensible advice/decision`)، ولا توصف بها البشرة!
+  - **a) complex:** معقد.
+  - **b) tough:** قاسٍ/صلب.
+
+#### 10. A podcast host invited only guests who agreed with his views and dismissed opposing opinions without discussing them fairly. Listeners described the program as *biased*. Which situation is the clearest example of being "biased"?
+- a) A judge scores every performance according to the same published rules.
+- b) A judge gives a friend a higher score even though another performer clearly did better.
+- c) A judge asks another official to review a result that is extremely close.
+- d) A judge changes a score after noticing a genuine mistake in the first calculation.
+- **الإجابة الصحيحة:** **b) A judge gives a friend a higher score even though another performer clearly did better.**
+- **التفسير وسبب صحة الإجابة:** كلمة **`biased`** (متحيز/منحاز) تعني تفضيل طرف على آخر بشكل غير عادل بسبب علاقة شخصية أو رأي مسبق، وهو ما يظهر في إعطاء الحَكَم درجة أعلى لصديقه رغم تفوق متسابق آخر.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & c & d:** كلها مواقف تعكس الموضوعية والعدالة والنزاهة (`fairness and objectivity`)، وهي عكس التحيز.
+
+#### 11. A person has decided to change their *"sedentary"* habits. Which action best shows this change?
+- a) They buy a new, more comfortable office chair to sit in while working.
+- b) They sign up for a weekly swimming class and start taking the stairs instead of the elevator.
+- c) They download a new series to watch on their television every evening.
+- d) They start eating more vegetables and drinking more water every day.
+- **الإجابة الصحيحة:** **b) They sign up for a weekly swimming class and start taking the stairs instead of the elevator.**
+- **التفسير وسبب صحة الإجابة:** الصفة **`sedentary`** تعني «خامل / قليل الحركة يعتمد على الجلوس الطويل»، فتغييرها يتطلب إدخال حركة ونشاط بدني مثل السباحة وصعود السلم بدلاً من المصعد.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & c:** يكرسان الجلوس والخمول أمام المكتب أو التلفاز.
+  - **d:** يرتبط بالنظام الغذائي (`diet/nutrition`) وليس بعلاج الخمول الحركي (`sedentary lifestyle`).
+
+#### 12. ............... the restaurant was closed, we drove all the way across town.
+- a) Not realizing
+- b) Not realized
+- c) Realizing not
+- d) Didn't realize
+- **الإجابة الصحيحة:** **a) Not realizing**
+- **التفسير وسبب صحة الإجابة:** أصل الجملة `Because we didn't realize the restaurant was closed, we drove...`؛ وبما أن الفاعل في الجملتين واحد (`we`) والفعل مبني للمعلوم ومنفي، نختصر جملة السبب بوضع **`Not + V-ing`** في بداية الجملة: **`Not realizing`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b) Not realized:** تصريف ثالث مبني للمجهول.
+  - **c) Realizing not:** في نفي عبارة اسم الفاعل يجب وضع `Not` **قبل** `V-ing` وليس بعده.
+  - **d) Didn't realize:** فعل ماضٍ بلا فاعل ولا رابط.
+
+#### 13. ............... his homework, Ahmed went out with his friends.
+- a) Being finished
+- b) Finished
+- c) Having finished
+- d) Having finish
+- **الإجابة الصحيحة:** **c) Having finished**
+- **التفسير وسبب صحة الإجابة:** عندما يكتمل الحدث الأول تمامًا قبل بدء الحدث الثاني (`After Ahmed had finished his homework, he went out...`)، نختصر جملة الماضي التام المعلوم بصيغة **اسم الفاعل التام (`Having + P.P.`)**: **`Having finished`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) Being finished / b) Finished:** صيغ مبنية للمجهول توحي بأن أحمد هو الذي أُنهِيَ!
+  - **d) Having finish:** خطأ نحوي؛ لأن `Having` يجب أن يتبعها التصريف الثالث `finished` وليس المصدر.
+
+#### 14. In hospitals, they wake patients at 6 a.m., ............... is much too early.
+- a) when
+- b) what
+- c) where
+- d) which
+- **الإجابة الصحيحة:** **d) which**
+- **التفسير وسبب صحة الإجابة:** بعد الفاصلة (`comma`)، يعود ضمير الوصل على **مضمون الجملة السابقة كلها** (إيقاظ المرضى الساعة السادسة صباحًا هو أمر مبكر جدًا)، والضمير الوحيد الذي يشير إلى جملة كاملة سابقة بعد الفاصلة هو **`which`**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) when / c) where:** الجملة الثانية تحتاج إلى فاعل للفعل `is` ولا تعبر عن ظرف زمان أو مكان يحدث فيه فعل.
+  - **b) what:** لا تُستخدم كضمير وصل بعد جملة تامة أو اسم سابق.
+
+#### 15. Why do you blame me for everything ............... goes wrong?
+- a) whose
+- b) who
+- c) that
+- d) what
+- **الإجابة الصحيحة:** **c) that**
+- **التفسير وسبب صحة الإجابة:** بعد الكلمات غير المحددة مثل **`everything, something, anything, nothing, all, much, little`** ومع صيغ التفضيل (`the best...`)، نستخدم ضمير الوصل **`that`** (ولا نستخدم `which` أو `what`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a) whose:** للملكية ويتبعها اسم.
+  - **b) who:** للعاقل، بينما `everything` غير عاقل.
+  - **d) what:** تساوي `the thing that`، فلا تأتي أبدًا بعد كلمة `everything`.
+
+---
+
+### المستوى الثالث: متقدم / مستويات عليا (Level 3: Advanced — Dangling Participles, Preposition + Relative Pronoun & Restrictive Clauses)
+
+#### 16. Which sentence is correctly structured?
+- a) Running through the park, the rain started to fall.
+- b) Running through the park, I saw the rain starting to fall.
+- c) The rain started to fall, running through the park.
+- d) Running through the park, raining was started.
+- **الإجابة الصحيحة:** **b) Running through the park, I saw the rain starting to fall.**
+- **التفسير وسبب صحة الإجابة:** القاعدة الذهبية لعبارات اسم الفاعل (`Participial Phrases`) تشترط أن يكون **فاعل الجملة الثانية (الذي يأتي بعد الفاصلة مباشرةً) هو نفسه الفاعل الذي يقوم بفعل `Running`**. في الجملة (b)، الفاعل بعد الفاصلة هو **`I`** (أنا الذي كنت أجري في الحديقة ورأيت المطر يبدأ في الهطول)، فالتركيب سليم 100%.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & c & d:** تقع في خطأ «اسم الفاعل المعلق» (`Dangling Participle`) لأنها تجعل المطر (`the rain / raining`) هو الذي يجري في الحديقة!
+
+#### 17. Which one of the following sentences is grammatically correct?
+- a) The village which I grew up is very small.
+- b) The village where I grew up is very small.
+- c) The village when I grew up is very small.
+- d) The village in where I grew up is very small.
+- **الإجابة الصحيحة:** **b) The village where I grew up is very small.**
+- **التفسير وسبب صحة الإجابة:** المكان `The village` وقع داخله حدث (`I grew up in the village`)، فنستخدم **`where`** بدون أي حرف جر معها (أو نستخدم `which ... in` / `in which`).
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a):** استخدمت `which` مع فعل لازم (`grew up`) بدون حرف الجر `in`.
+  - **c):** استخدمت `when` (للزمان) مع مكان (`The village`).
+  - **d):** وضعت حرف الجر `in` قبل `where`، والقاعدة تمنع وضع أي حرف جر قبل أو بعد `where`.
+
+#### 18. Which one of the following sentences is grammatically INCORRECT?
+- a) I know the candidate whom I am going to support in the next elections.
+- b) I know the candidate that I am going to support in the next elections.
+- c) I know the candidate to whom I am going to support in the next elections.
+- d) I know the candidate who I am going to support in the next elections.
+- **الإجابة الصحيحة (الجملة الخاطئة نحويًا):** **c) I know the candidate to whom I am going to support in the next elections.**
+- **التفسير وسبب الاختيار:** الفعل **`support`** (يدعم/يؤيد) فعل متعدٍّ يأخذ مفعولاً به مباشرةً **بدون حرف جر** (`support the candidate` وليس `support to the candidate`). لذلك فإن إضافة حرف الجر `to` في **`to whom`** خطأ نحوي.
+- **لماذا الاختيارات الأخرى صحيحة نحويًا؟**
+  - **a & b & d:** المفعول العاقل (`the candidate`) يجوز وصله بـ `whom` أو `that` أو `who` مباشرة بدون حرف جر.
+
+#### 19. Which of the following sentences shows that I have ONLY ONE brother?
+- a) My brother who spent his vacation in France is 25 years old.
+- b) My brother that is 25 years old spent his vacation in France.
+- c) My brother whose age is 25 spent his vacation in France.
+- d) My brother, who is 25 years old, spent his vacation in France.
+- **الإجابة الصحيحة:** **d) My brother, who is 25 years old, spent his vacation in France.**
+- **التفسير وسبب صحة الإجابة:** وجود الفاصلتين (`commas`) حول جملة الوصل `..., who is 25 years old, ...` يجعلها **جملة وصل غير محدِّدة (`Non-defining relative clause`)** تضيف معلومة إضافية عن أخ وحيد معروف مسبقًا، مما يعني أن المتحدث **ليس لديه سوى أخ واحد فقط**.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **a & b & c:** جمل وصل محدِّدة (`Defining clauses` بدون فواصل) تُستخدَم لتحديد أيّ أخ يقصد المتحدث من بين عدة إخوة!
+
+#### 20. Which one of the following sentences is grammatically correct?
+- a) The Pyramids, which we visited yesterday, are very old.
+- b) The Pyramids which we visited them yesterday are very old.
+- c) The Pyramids to which are very old were visited yesterday.
+- d) The Pyramids, that we visited yesterday, are very old.
+- **الإجابة الصحيحة:** **a) The Pyramids, which we visited yesterday, are very old.**
+- **التفسير وسبب صحة الإجابة:** كلمة `The Pyramids` اسم علم فريد ومعروف، فتأتي معه جملة الوصل بين فاصلتين (`Non-defining`) باستخدام **`which`** مع حذف الضمير العائد.
+- **لماذا الاختيارات الأخرى خاطئة؟**
+  - **b):** أبقى الضمير العائد `them` مع وجود `which` (تكرار المفعول خطأ).
+  - **c):** أقحم حرف الجر `to` بلا أي مبرر قبل الفاعل.
+  - **d):** استخدم **`that`** بعد الفاصلة (`. , that ... ,`)، والقاعدة تمنع استخدام `that` في الجمل الاعتراضية بين فاصلتين.
+
+---
+
+### الأسئلة التطبيقية والمقالية: Rewrite & Complete the Text (Step-by-Step Solutions)
+
+#### أولاً: أسئلة `Rewrite using the word(s) in brackets` (بخطوات الحل المبسطة)
+
+1. **Teenagers follow healthy habits. They improve their well-being.** *(Use: **following**)*
+   - **خطوات الحل ببساطة:**
+     1. نحدد الاسم المشترك في الجملتين وهو `Teenagers` (فاعل مبني للمعلوم يقوم بالفعل `follow`).
+     2. نحول جملة الوصل الأولى إلى عبارة اسم فاعل (`Present Participle Phrase`) تبدأ بـ `following healthy habits` ونضعها مباشرة بعد الاسم الموصوف `Teenagers`.
+   - **الحل النهائي:** **`Teenagers following healthy habits improve their well-being.`**
+
+2. **The report was prepared by experts. It was accepted immediately.** *(Use: **prepared**)*
+   - **خطوات الحل ببساطة:**
+     1. الجملة الأولى مبنية للمجهول (`was prepared by experts`).
+     2. نحذف `was` والضمير العائد `It`، ونضع عبارة اسم المفعول (`prepared by experts`) بعد المبتدأ `The report` مباشرةً أو في أول الجملة.
+   - **الحل النهائي:** **`The report prepared by experts was accepted immediately.`** *(أو: `Prepared by experts, the report was accepted immediately.`)*
+
+3. **After she had finished the exam, she went home.** *(Use: **Having**)*
+   - **خطوات الحل ببساطة:**
+     1. الحدث الأول في الماضي التام المعلوم (`had finished`) اكتمل قبل الحدث الثاني (`went home`) والفاعل واحد (`she`).
+     2. نحذف الرابط `After` والفاعل والفعل المساعد `had`، ونبدأ بـ **`Having + P.P.`** ثم فاصلة فالجملة الثانية.
+   - **الحل النهائي:** **`Having finished the exam, she went home.`**
+
+4. **This is the best movie. I have never seen a better one.** *(Use: **that**)*
+   - **خطوات الحل ببساطة:**
+     1. مع صيغة التفضيل العليا (`the best movie`) نربط بـ **`that`**.
+     2. نحول النفي والمقارنة (`never seen a better one`) إلى مضارع تام مع `ever` (`that I have ever seen`).
+   - **الحل النهائي:** **`This is the best movie that I have ever seen.`**
+
+5. **The car is very fast. Its engine is powerful.** *(Use: **whose**)*
+   - **خطوات الحل ببساطة:**
+     1. نحدد صفة الملكية في الجملة الثانية وهي `Its` (تعود على `The car`) ويتبعها الاسم المملوك `engine`.
+     2. نحذف `Its` ونضع **`whose engine is powerful`** مباشرةً بعد الموصوف `The car`.
+   - **الحل النهائي:** **`The car whose engine is powerful is very fast.`**
+
+6. **The man is a famous actor. He has a red scarf.** *(Use: **with**)*
+   - **خطوات الحل ببساطة:**
+     1. للتعبير عن امتلاك ملبس أو صفة مميزة (`who has a red scarf`)، نحذف الفاعل والفعل `He has` ونستبدلهما بحرف الجر **`with`** بعد الموصوف `The man`.
+   - **الحل النهائي:** **`The man with a red scarf is a famous actor.`**
+
+---
+
+#### ثانيًا: أسئلة تصحيح التراكيب في السياق (`Complete the text with the appropriate structure`)
+
+**النص التطبيقي (من تدريبات المنهج المقررة):**
+> *"Many modern cities face serious traffic problems every day. (1).................... **(design)** for fewer cars, the old roads cannot handle the heavy traffic. (2).................... **(sit)** in long queues for hours, drivers often feel stressed and tired. (3).................... **(pollute)** by exhaust fumes, the air quality in the center is often poor. (4).................... **(introduce)** better public transport, the city hopes to reduce the number of private cars."*
+
+- **خطوات الحل ببساطة لكل فراغ:**
+  1. **`(1) Designed`:** الفاعل بعد الفاصلة هو `the old roads` (الطرق القديمة)، والطرق «صُمِّمت» (مبني للمجهول `Because they were designed...`)، لذا نستخدم التصريف الثالث **`Designed`**.
+  2. **`(2) Sitting`:** الفاعل بعد الفاصلة هو `drivers` (السائقون)، وهم الذين «يجلسون» بأنفسهم في الطوابير (مبني للمعلوم)، لذا نستخدم اسم الفاعل **`Sitting`**.
+  3. **`(3) Polluted`:** الفاعل بعد الفاصلة هو `the air quality`، والهواء «مُلوَّث بواسطة عوادم السيارات» (`by exhaust fumes` — مبني للمجهول)، لذا نستخدم التصريف الثالث **`Polluted`**.
+  4. **`(4) Introducing` (أو `By introducing`):** الفاعل بعد الفاصلة هو `the city`، والمدينة هي التي «تُدخِل/تقدِّم» وسائل نقل عام أفضل (مبني للمعلوم)، لذا نستخدم اسم الفاعل **`Introducing`**.
+

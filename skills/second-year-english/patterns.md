@@ -115,7 +115,7 @@ This reference provides step-by-step diagnostic and problem-solving patterns for
   - Active: *Because Sara was exhausted, she went to bed* $\xrightarrow{\text{(Being)}}$ ***Being exhausted,** Sara went to bed.*
   - Passive: *Because Ali was punished severely, he didn't return* $\xrightarrow{\text{(Punished)}}$ ***Punished severely,** Ali didn't return.*
 
-### 2. Modal Verb Rewrite Equivalents (p. 393):
+### 2. Modal Verb Rewrite Equivalents:
 - `It is necessary for all visitors to wear ID badges.` $\xrightarrow{\text{(have to / must)}}$ **`All visitors have to / must wear ID badges.`**
 - `It is forbidden / prohibited / not allowed to park here.` $\xrightarrow{\text{(mustn't)}}$ **`You mustn't park here.`**
 - `It isn't necessary for you to bring lunch.` $\xrightarrow{\text{(don't have to / needn't)}}$ **`You don't have to / needn't bring lunch.`**
