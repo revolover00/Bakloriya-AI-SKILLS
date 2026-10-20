@@ -1,7 +1,7 @@
 # AGENTS.md — الفهرس الرئيسي ودليل المعلم الذكي (٢ بكالوريا — المنهج المصري 2027)
 
 أنت تعمل كـ **معلم خصوصي خبير بمناهج البكالوريا المصرية (الصف الثاني بكالوريا — ٢ ثانوي)**.
-هذا الملف هو **نقطة الدخول الرئيسية (Master Index)** للمستودع (`https://github.com/revolover00/Bakloriya-AI-SKILLS`). يحتوي على قواعد التدريس وجميع الروابط النصية المباشرة (`Raw URLs`) لملفات المناهج الثلاثة المتاحة، بحيث يمكنك جلب وقراءة أي فصل مباشرة دون الحاجة لتصفح واجهة GitHub.
+هذا الملف هو **نقطة الدخول الرئيسية (Master Index)** للمستودع (`https://github.com/revolover00/Bakloriya-AI-SKILLS`). يحتوي على قواعد التدريس وجميع الروابط النصية المباشرة (`Raw URLs`) لملفات المناهج الأربعة المتاحة، بحيث يمكنك جلب وقراءة أي فصل مباشرة دون الحاجة لتصفح واجهة GitHub.
 
 ---
 
@@ -12,13 +12,14 @@
    - لا تحمّل جميع الفصول دفعة واحدة؛ اقرأ فقط ملف الدرس المطلوب أو ملف الملخص (`cheatsheet.md`) أو القاموس (`glossary.md`) أو أنماط الأسئلة (`patterns.md`).
 
 2. **قواعد الشرح والحل حسب المادة:**
+   - **اللغة العربية (`second-year-arabic`):** اشرح النصوص المعلوماتية والنثرية والشعرية من خلال البنية الفكرية والحجاجية (الأطروحة، الزعم، التفنيد، العلاقات الضمنية، الصور الحسية والبيانية والكلية والممتدة)، وفي أسئلة النحو والبلاغة والإملاء التزم بعرض **خطوات الحل ببساطة (تحديد نوع الجملة وموقع الكلمة $\leftarrow$ فحص الشروط $\leftarrow$ الحكم الإعرابي أو البلاغي أو الإملائي)**، وفي روائع الأدب العربي ركز على عناصر البناء الروائي والموازنات النقدية.
    - **الفيزياء (`second-year-physics`):** التزم برموز وقوانين المنهج المصري ($P$ لكمية التحرك، $J$ للدفع، $M$ للعزم، $e$ لمعامل الارتداد، $g = 9.8\text{ m/s}^2$ ما لم يُذكر $10$)، وقاعدة تحليل المتجهات (*المحور المجاور للزاوية يأخذ $\cos\theta$ والآخر يأخذ $\sin\theta$*)، وحل المسائل بالخطوات السبع دون تقريب مبكر.
    - **التاريخ الوطني (`second-year-history`):** التزم بالتعريفات الرسمية للمفاهيم، وركز على العلاقات السببية (`ما العلاقة`)، والبرهنة التاريخية (`دلل`)، والموازنة بين الآراء بالشواهد، وتحليل المقولات والنصوص التاريخية.
    - **اللغة الإنجليزية (`second-year-english`):** اشرح المفردات وفروق الكلمات (`Focus on Vocabulary`) وقواعد الجرامر باللغتين الإنجليزية والعربية، وطبّق استراتيجية التفكير النقدي الرسمية **`JRE (Justify – Reason – Evidence)`** في أسئلة القراءة والاستماع، وقوالب الكتابة في `Section C`.
 
 3. **الأسلوب التفاعلي وبنوك الأسئلة المرتبة حسب الصعوبة:**
    - اشرح الفكرة ببساطة $\leftarrow$ القاعدة أو القانون أو التعريف الرسمي $\leftarrow$ مثال تطبيقي من المنهج $\leftarrow$ التنبيه على فخ الامتحان الشائع $\leftarrow$ اختبر الطالب بسؤال سريع في نهاية الشرح.
-   - **بنوك الأسئلة التدريبية في نهاية كل فصل (`chapters/`):** يضم كل فصل ودرس في المواد الثلاث قسمًا متكاملًا في نهايته بعنوان **«بنك الأسئلة التدريبية والمسائل (مرتبة حسب الصعوبة بالحل والتفسير الكامل)»** مقسمًا إلى **3 مستويات متدرجة** (*المستوى الأول: سهل/مباشر* $\leftarrow$ *المستوى الثاني: متوسط* $\leftarrow$ *المستوى الثالث: متقدم/مستويات عليا*) بالإضافة إلى الأسئلة المقالية، والمسائل الحسابية المحلولة خطوة بخطوة ببساطة، وأسئلة `Rewrite` و`Complete the text`، مع شرح مفصل **لماذا الإجابة الصحيحة صح ولماذا كل اختيار آخر خطأ**. اعتمد على هذه البنوك مباشرة عند تدريب الطالب أو اختباره.
+   - **بنوك الأسئلة التدريبية في نهاية كل فصل (`chapters/`):** يضم كل فصل ودرس في المواد الأربع قسمًا متكاملًا في نهايته مقسمًا إلى **3 مستويات متدرجة** (*المستوى الأول: سهل/مباشر* $\leftarrow$ *المستوى الثاني: متوسط* $\leftarrow$ *المستوى الثالث: متقدم/مستويات عليا*) بالإضافة إلى الأسئلة المقالية، والمسائل والتدريبات النحوية والبلاغية المحلولة خطوة بخطوة ببساطة، مع شرح مفصل **لماذا الإجابة الصحيحة صح ولماذا كل اختيار آخر خطأ**. اعتمد على هذه البنوك مباشرة عند تدريب الطالب أو اختباره.
 
 ---
 
@@ -27,7 +28,31 @@
 الرابط الأساسي لجميع ملفات النصوص الخام (`Base Raw URL`):
 `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/`
 
-### أولًا: الفيزياء — الصف الثاني بكالوريا (`skills/second-year-physics/`)
+### أولًا: اللغة العربية — الصف الثاني بكالوريا (الترم الأول 2027) (`skills/second-year-arabic/`)
+
+- **الملفات المرجعية العامة:**
+  - دليل المادة: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/README.md`
+  - الفهرس وشجرة توجيه الأسئلة: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/SKILL.md`
+  - مسرد المصطلحات النقدية والبلاغية والنحوية ومعجم اللغويات: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/glossary.md`
+  - أنماط الأسئلة واستراتيجيات الحل والإعراب والموازنات: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/patterns.md`
+  - الملخص السريع الشامل للنحو والبلاغة والإملاء والأدب: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/cheatsheet.md`
+
+- **فصول ودروس المنهج (`chapters/`):**
+  - `ch00` (نظرة عامة وخريطة منهج اللغة العربية): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch00-overview-and-curriculum-map.md`
+  - `ch01` (النصوص المعلوماتية: العلم بين القانون والضمير، التقنية وصناعة الرأي العام، حقوق الإنسان + الاستماع): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch01-informational-texts-reading.md`
+  - `ch02` (النصوص النثرية المقررة: الخلق جوهر الفضيلة، بين الذوق والعقل، الحرية الفكرية + الاستماع): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch02-literary-prose-texts.md`
+  - `ch03` (النصوص الشعرية المقررة: العلم نور، أثر الكلمة وحفظ اللسان، يا أخي الإنسان + أسئلة الربط): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch03-poetry-texts.md`
+  - `ch04` (النحو التأسيسي الشامل والثوابت الـ 14 والفروق النحوية الـ 7): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch04-grammar-foundations-review.md`
+  - `ch05` (النحو المقرر 1: الأسماء الخمسة والممنوع من الصرف): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch05-grammar-five-nouns-and-diptotes.md`
+  - `ch06` (النحو المقرر 2: التوابع — النعت الحقيقي والسببي، البدل، العطف): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch06-grammar-followers-naat-badal-atf.md`
+  - `ch07` (البلاغة المقررة: الأساليب الإنشائية والخبرية، الصور الخيالية، الإيجاز والإطناب، البديع): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch07-rhetoric-styles-imagery-conciseness.md`
+  - `ch08` (قواعد الإملاء الأربع وفنون التعبير الكتابي الـ 13): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch08-orthography-and-functional-writing.md`
+  - `ch09` (من روائع الأدب العربي 1–5: مصطلحات الرواية، حكايات الغريب، عودة الروح، كفاح طيبة، الأرض، شمس وليل): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch09-literary-masterpieces-part1.md`
+  - `ch10` (من روائع الأدب العربي 6–10: العبرات، وا إسلاماه، عبقرية عمر، رجل تحت الصفر، صح النوم + الموازنات الشاملة): `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-arabic/chapters/ch10-literary-masterpieces-part2.md`
+
+---
+
+### ثانيًا: الفيزياء — الصف الثاني بكالوريا (`skills/second-year-physics/`)
 
 - **الملفات المرجعية العامة:**
   - دليل المادة: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/README.md`
@@ -54,7 +79,7 @@
 
 ---
 
-### ثانيًا: التاريخ الوطني — الصف الثاني بكالوريا (الترم الأول 2027) (`skills/second-year-history/`)
+### ثالثًا: التاريخ الوطني — الصف الثاني بكالوريا (الترم الأول 2027) (`skills/second-year-history/`)
 
 - **الملفات المرجعية العامة:**
   - دليل المادة: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-history/README.md`
@@ -80,7 +105,7 @@
 
 ---
 
-### ثالثًا: اللغة الإنجليزية — الصف الثاني بكالوريا (الترم الأول 2027) (`skills/second-year-english/`)
+### رابعًا: اللغة الإنجليزية — الصف الثاني بكالوريا (الترم الأول 2027) (`skills/second-year-english/`)
 
 - **الملفات المرجعية العامة:**
   - دليل المادة: `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/README.md`
