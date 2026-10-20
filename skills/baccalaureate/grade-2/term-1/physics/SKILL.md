@@ -1,11 +1,11 @@
 ---
-name: second-year-physics
-description: "Egyptian Baccalaureate / Thanaweyya Amma Grade 11 (2nd Secondary / ٢ بكالوريا) Physics curriculum skill in Arabic. Use when teaching, explaining, quizzing, or solving problems on quantities & units, vector & relative velocity, acceleration & equations of motion, horizontal & angled projectiles, torque, force equilibrium, work-power-efficiency, momentum & impulse, collisions & coefficient of restitution, uniform & vertical/horizontal circular motion, conical pendulum, Kepler's laws, and universal gravitation."
+name: baccalaureate-grade2-term1-physics
+description: "Egyptian Baccalaureate — Grade 2 — Term 1 (نظام البكالوريا المصرية — الصف الثاني بكالوريا — الفصل الدراسي الأول) Physics curriculum skill in Arabic. Use when teaching, explaining, quizzing, or solving problems on quantities & units, vector & relative velocity, acceleration & equations of motion, horizontal & angled projectiles, torque, force equilibrium, work-power-efficiency, momentum & impulse, collisions & coefficient of restitution, uniform & vertical/horizontal circular motion, conical pendulum, Kepler's laws, and universal gravitation."
 ---
 
 <!-- argument-hint: [سؤال، مسألة، اسم درس، أو رقم فصل ch00..ch13] -->
 
-# فيزياء الصف الثاني بكالوريا (٢ ثانوي — المنهج المصري)
+# الفيزياء — نظام البكالوريا المصرية — الصف الثاني بكالوريا (الفصل الدراسي الأول / الترم الأول)
 
 مهارة تعليمية ومرجعية متكاملة تغطي المنهج المصري المقرر (14 فصلاً). تضم كافة التعريفات الحرفية («مصطلح علمي»)، القوانين وصيغها، الأمثلة المحلولة خطوة بخطوة، أنماط الاختيار من متعدد، وأسئلة «فسّر / ماذا يحدث / قارن».
 
@@ -55,7 +55,7 @@ description: "Egyptian Baccalaureate / Thanaweyya Amma Grade 11 (2nd Secondary /
 ## فهرس الفصول التفصيلية (تُحمَّل عند الطلب)
 
 > **للوصول المباشر عبر الويب (`Raw URL`):** أضف المسار أدناه إلى الرابط الأساسي:
-> `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-physics/`
+> `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/baccalaureate/grade-2/term-1/physics/`
 
 | الفصل | الموضوع | الملف التفصيلي | المفاهيم والقوانين المحورية |
 |---|---|---|---|

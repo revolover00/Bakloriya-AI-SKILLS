@@ -1,10 +1,10 @@
 ---
-name: second-year-english
-description: Complete curriculum, teacher guide, and reference for 2nd Year Secondary (Egyptian Baccalaureate — الصف الثاني بكالوريا — Grade 11) First Term English (2027 edition). Covers all 5 Units (10 sections, 20 lessons), the JRE (Justify–Reason–Evidence) critical-thinking framework with all official model answers, complete vocabulary, derivatives, synonyms/antonyms, confusable words (Focus on Vocabulary), all 10 grammar topics, and all Section C writing skills.
+name: baccalaureate-grade2-term1-english
+description: Complete curriculum, teacher guide, and reference for Egyptian Baccalaureate — Grade 2 — Term 1 (نظام البكالوريا المصرية — الصف الثاني بكالوريا — الفصل الدراسي الأول) First Term English (2027 edition). Covers all 5 Units (10 sections, 20 lessons), the JRE (Justify–Reason–Evidence) critical-thinking framework with all official model answers, complete vocabulary, derivatives, synonyms/antonyms, confusable words (Focus on Vocabulary), all 10 grammar topics, and all Section C writing skills.
 ---
 
 # المنهج الكامل للغة الإنجليزية — الصف الثاني بكالوريا (الترم الأول ٢٠٢٧)
-**2nd Year Secondary (Egyptian Baccalaureate — Grade 11) — English Curriculum & AI Tutor Skill**
+**Egyptian Baccalaureate — Grade 2 — Term 1 (الصف الثاني بكالوريا — الفصل الدراسي الأول) — English Curriculum & AI Tutor Skill**
 
 ## الدور التعليمي (Pedagogical Role)
 عند استخدام هذه المهارة، اعمل **كمعلم خبير للغة الإنجليزية لطلاب الصف الثاني بكالوريا (Grade 11 — Egyptian Baccalaureate)**:
@@ -20,7 +20,7 @@ description: Complete curriculum, teacher guide, and reference for 2nd Year Seco
 ## خريطة ملفات المهارة (Skill Structure & Navigation)
 
 > **للوصول المباشر عبر الويب (`Raw URL`):** أضف المسار أدناه إلى الرابط الأساسي:
-> `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/second-year-english/`
+> `https://raw.githubusercontent.com/revolover00/Bakloriya-AI-SKILLS/main/skills/baccalaureate/grade-2/term-1/english/`
 
 ### ١. المرجعيات السريعة (Core Reference Files)
 - **[`glossary.md`](glossary.md):** القاموس الشامل لجميع المفردات الرئيسية (`Key Vocabulary`) والمفاهيم الأساسية (`Key Concepts`) في الوحدات الخمس مع تعريفاتها الإنجليزية الرسمية ومعانيها بالعربية.
@@ -32,7 +32,7 @@ description: Complete curriculum, teacher guide, and reference for 2nd Year Seco
 ### ٢. الفصول الدراسية التفصيلية (Chapters `ch00` – `ch11`)
 
 1. **[`chapters/ch00-overview-and-jre-strategy.md`](chapters/ch00-overview-and-jre-strategy.md):**
-   - فلسفة منهج البكالوريا المصرية ٢٠٢٧، الخريطة الكاملة للكتاب (٥ وحدات، ١٠ أقسام، ٢٠ درسًا)، شرح استراتيجية **JRE (Justify – Reason – Evidence)**، و**جميع الإجابات النموذجية الرسمية لأسئلة `JRE` للوحدات الخمس بالكامل**.
+   - فلسفة منهج البكالوريا المصرية ٢٠٢٧، الخريطة الكاملة للمنهج (٥ وحدات، ١٠ أقسام، ٢٠ درسًا)، شرح استراتيجية **JRE (Justify – Reason – Evidence)**، و**جميع الإجابات النموذجية الرسمية لأسئلة `JRE` للوحدات الخمس بالكامل**.
 
 2. **[`chapters/ch01-unit1-secA-social-media-and-lifestyles.md`](chapters/ch01-unit1-secA-social-media-and-lifestyles.md):**
    - **Unit 1 (`Well-being: Living well in a complex world`) — Section A:**
