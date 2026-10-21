@@ -1,103 +1,261 @@
-# القصة الأدبية: العجوز والبحر (الفصول ١-٣) — الثانوية العامة (البكالوريا) 1 — الترم الأول
+# The Old Man and the Sea — Chapters 1 to 3 — Grade 1 — Term 1 — English
 
-مادة: **english** | المرحلة: **الثانوية العامة (البكالوريا)** | الصف: **1** | الترم: **الأول**
-الفصل: **ch07-the-old-man-and-the-sea-chapters-1-to-3** (محتوى إنجليزي فعلي ومخصص لهذا الفصل فقط — لا تكرار)
+Subject: **English** | Stage: **General Secondary / Thanawiya Amma** | Grade: **1** | Term: **First**
 
-> ملاحظة للمعلم: هذا الفصل يدرس وحدة ch07-the-old-man-and-the-sea-chapters-1-to-3 من مادة english للصف 1 الترم الأول. لا يحتوي على أي محتوى من فصول أخرى أو ترم آخر أو صف آخر.
+Chapter: **ch07-the-old-man-and-the-sea-chapters-1-to-3** (actual English content dedicated to this chapter only — no repetition)
 
-## أهداف التعلم (مخصصة لهذا الفصل ch07-the-old-man-and-the-sea-chapters-1-to-3)
-1. إتقان موضوع تحليل فصول ١-٣ من رواية العجوز والبحر لإرنست همنغواي، شخصيات العجوز سميتيان والسمكة المارلين، موضوعات الصراع مع الطبيعة والصبر كما يُدرّس حصرياً في هذا الفصل.
-2. تطبيق القاعدة أو المهارة على حالات عملية من واقع منهج english.
-3. حل الأسئلة المصنفة حسب الصعوبة مع تبرير كل خيار صحيح وخاطئ في هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3).
-4. ربط المحتوى بالتطبيقات الحياتية للعام الدراسي 2026/2027 في هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3).
+> **Teacher's note:** This chapter covers Chapters 1 to 3 of *The Old Man and the Sea* by Ernest Hemingway within the English curriculum for Grade 1, Term 1. It contains English-language questions only, following the Gem Companion Book style with JRE (Justify, Reasoning & Evidence) questions and direct comprehension questions. No Arabic question text. No The Lost World / Arthur Conan Doyle content.
 
 ---
 
-## القسم الأول: نص القصة والتحليل الأدبي — ch07-the-old-man-and-the-sea-chapters-1-to-3
+## Goals and Objectives
 
-يقدم هذا القسم نصاً مقتطفاً من القصة الأدبية القصة الأدبية: العجوز والبحر (الفصول ١-٣) للطلبة في الثانوية العامة (البكالوريا) 1 الترم الأول. يُعرض المحتوى بشكل تسلسلي من العرض القصصي إلى التحليل الأدبي، وكل مثال وشرح مرتبط **فقط** بوحدة هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3) ومادة english لهذا الصف وهذا الترم.
+By the end of this chapter, the student will be able to:
 
-**نص القصة (مقتطف):**
-يستعرض هذا الفصل أحداثاً من قصة القصة الأدبية: العجوز والبحر (الفصول ١-٣) ضمن إطار القصة الأدبية: العجوز والبحر (الفصول ١-٣). يتعرف الطالب على الشخصيات والأحداث والموضوعات الأدبية من خلال القراءة الموجهة.
+1. Understand Chapters 1–3 of *The Old Man and the Sea*: Santiago the old Cuban fisherman, his 84-day streak without catching a fish, his relationship with the boy Manolin, and his decision to sail far out alone.
+2. Analyze the main character Santiago: his pride, skill, poverty, and determination.
+3. Analyze setting and conflict: the Cuban coast, the Gulf Stream, and the old man's struggle against bad luck.
+4. Answer graded English questions ([Easy] / [Medium] / [Hard]) with Justification, Reasoning, and Evidence (JRE).
+5. Connect themes of perseverance, dignity, and hope to real-life applications for the academic year 2026/2027.
 
-**الشخصيات الرئيسية:** شخصيات القصة الرئيسية تُؤدي دوراً محورياً في تطور الأحداث.
+---
 
-**الأحداث والصراع:** يتمحور الصراع حول تحليل فصول ١-٣ من رواية العجوز والبحر لإرنست همنغواي، شخصيات العجوز سميتيان والسمكة المارلين، موضوعات الصراع مع الطبيعة والصبر وكيفية تعامل الشخصيات مع التحديات.
+## Section 1: Story Text and Literary Analysis — Chapters 1 to 3
 
-**الموضوع الأدبي:** يتناول القصة موضوع تحليل فصول ١-٣ من رواية العجوز والبحر لإرنست همنغواي، شخصيات العجوز سميتيان والسمكة المارلين، موضوعات الصراع مع الطبيعة والصبر من منظور أدبي يسهم في تنمية الذوق النقدي للطلبة.
+### Chapter Summaries
 
-## القسم الثاني: التطبيقات والتمارين — ch07-the-old-man-and-the-sea-chapters-1-to-3
+**Chapter 1: Santiago and His Streak of Bad Luck**
+Santiago is an old Cuban fisherman who has gone 84 days without catching a single fish. He is thin, gaunt, and has deep wrinkles, but his eyes are "the same color as the sea and are cheerful and undefeated." The boy Manolin used to fish with Santiago, but his parents forced him to leave because Santiago is considered "salao" (the worst form of unlucky). Despite this, Manolin still loves and helps Santiago, bringing him food and coffee.
 
-في هذا القسم، يُطبّق الطالب ما تعلمه في القسم الأول على مواقف وحالات عملية من واقع منهج english للصف 1 الترم الأول. يتم التركيز على التطبيق الحقيقي وليس الحفظ الآلي.
+**Chapter 2: Santiago and Manolin**
+Santiago and Manolin talk about baseball and their favorite player, Joe DiMaggio. Manolin brings Santiago food and they discuss the old man's plans. Santiago tells Manolin he will go far out into the Gulf Stream tomorrow to catch a big fish. Manolin offers to go with him, but Santiago refuses because he wants to go alone to prove himself.
 
-**الخطوات التطبيقية:**
-1. تحديد المشكلة أو الموقف المرتبط بـ تحليل فصول ١-٣ من رواية العجوز والبحر لإرنست همنغواي، شخصيات العجوز سميتيان والسمكة المارلين، موضوعات الصراع مع الطبيعة والصبر.
-2. اختيار القاعدة أو المهارة المناسبة من محتوى هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3) فقط.
-3. تنفيذ التمرين خطوة بخطوة مع الاستعانة بالأمثلة الواردة.
-4. التحقق من الإجابة ومقارنتها بالتوقعات التعليمية للوحدة.
+**Chapter 3: Santiago Sails Out Alone**
+The next morning, Santiago sails out alone before dawn. He rows far beyond the other fishermen, deep into the Gulf Stream. He prepares his lines with bait and waits patiently. He feels hopeful and confident that today will be different. He hooks a big fish — a marlin — but the fish is strong and starts pulling the boat out to sea.
 
-**تمارين تطبيقية مخصصة لهذا الفصل:**
-- تمرين 1: تطبيق مباشر على أول مفهوم من تحليل فصول ١-٣ من رواية العجوز والبحر لإرنست همنغواي، شخصيات العجوز سميتيان والسمكة المارلين، موضوعات الصراع مع الطبيعة والصبر.
-- تمرين 2: تطبيق متوسط الصعوبة يدمج بين مفهومين من هذه الوحدة.
-- تمرين 3: تطبيق صعب يستدعي التفكير النقدي والحل المتعدد الخطوات، جميعها ضمن حدود هذا الفصل فقط.
+### Character Analysis — Santiago
 
-## بنك الأسئلة المتدرج مع الحلول الشاملة — ch07-the-old-man-and-the-sea-chapters-1-to-3
+| Trait | Evidence from Chapters 1–3 |
+|-------|---------------------------|
+| **Old and poor** | Thin body, gaunt face, shabby sail with patches |
+| **Skilled fisherman** | Knows the sea, reads birds and currents, prepares lines carefully |
+| **Proud but humble** | Refuses to let Manolin suffer with him, but accepts food graciously |
+| **Determined** | Decides to sail far out alone despite 84 days without fish |
+| **Hopeful** | Believes today will be the day he catches a big fish |
 
-تحتوي هذه الوسيلة على أسئلة مخصصة **فقط** لهذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3)، مصنفة حسب مستوى الصعوبة، مع إجابة دقيقة وشرح لكل خيار.
+### Literary Themes
 
-#### [[سهل]] السؤال 1 (النسخة 1)
-Who is the main character in العجوز والبحر (القصة الأدبية: العجوز والبحر (الفصول ١-٣))? (المربع 7) — النسخة 1
-   أ) A young tourist (النسخة 1)
-   ب) An old fisherman named Santiago (النسخة 1)
-   ج) A wealthy businessman (النسخة 1)
-   د) A scientist (النسخة 1)
+- **Perseverance:** Santiago keeps fishing despite 84 days of failure
+- **Dignity in poverty:** Santiago maintains his pride even though he is poor
+- **Hope:** Santiago believes his luck will change
+- **Man vs. nature:** The old man's struggle against the sea and the fish
 
-- **الإجابة الصحيحة:** **ب) An old fisherman named Santiago (النسخة 1)**
-- **لماذا صحيحة؟** The protagonist of the story is Santiago, an old Cuban fisherman. (النسخة 1)
-- **لماذا الخيارات الأخرى خاطئة؟** أ) سائح صغير — غير صحيح. ج) رجل أعمال ثري — غير وارد. د) عالم — غير مذكور. (النسخة 1)
-- **الحل خطوة بخطوة:** Step 1: Identify the protagonist from the story. Step 2: Confirm name Santiago. Step 3: Choose option ب. (النسخة 1)
+---
 
+## Section 2: Applications and Exercises — Chapters 1 to 3
 
-#### [[متوسط]] السؤال 2 (النسخة 2)
-What is the central conflict in العجوز والبحر (القصة الأدبية: العجوز والبحر (الفصول ١-٣))? (المربع 14) — النسخة 2
-   أ) A cooking competition (النسخة 2)
-   ب) The struggle between the old fisherman and the sea/marlin (النسخة 2)
-   ج) A political election (النسخة 2)
-   د) A school exam (النسخة 2)
+### Application Steps
 
-- **الإجابة الصحيحة:** **ب) The struggle between the old fisherman and the sea/marlin (النسخة 2)**
-- **لماذا صحيحة؟** The central conflict is Santiago's battle with the marlin and the sea. (النسخة 2)
-- **لماذا الخيارات الأخرى خاطئة؟** أ) مسابقة طبخ — غير واردة. ج) انتخابات سياسية — غير واردة. د) امتحان مدرسة — غير واردة. (النسخة 2)
-- **الحل خطوة بخطوة:** Step 1: Recall the main events. Step 2: Identify the opposing forces. Step 3: Choose the sea/marlin struggle. (النسخة 2)
+1. **Identify Santiago's problem:** Why has Santiago not caught a fish for 84 days?
+2. **Analyze Santiago-Manolin relationship:** Why does Manolin still help Santiago despite his parents' orders?
+3. **Evaluate Santiago's decision:** Is it wise for Santiago to sail far out alone?
+4. **Connect to reality:** How does Santiago's attitude teach us about perseverance?
 
+### Application Exercises Dedicated to This Chapter
 
-#### [[صعب]] السؤال 3 (النسخة 3)
-What theme does العجوز والبحر (القصة الأدبية: العجوز والبحر (الفصول ١-٣)) mainly explore? (المربع 21) — النسخة 3
-   أ) Only cooking recipes (النسخة 3)
-   ب) Man's struggle against nature, dignity, and perseverance (النسخة 3)
-   ج) Space exploration (النسخة 3)
-   د) Modern technology (النسخة 3)
+- **Exercise 1:** Write a short diary entry from Santiago's point of view on the morning he sails out alone.
+- **Exercise 2:** Describe the relationship between Santiago and Manolin in your own words.
+- **Exercise 3:** Discuss whether Santiago's pride helps or hurts him.
 
-- **الإجابة الصحيحة:** **ب) Man's struggle against nature, dignity, and perseverance (النسخة 3)**
-- **لماذا صحيحة؟** The story explores man's struggle against nature, personal dignity, and perseverance. (النسخة 3)
-- **لماذا الخيارات الأخرى خاطئة؟** أ) وصفات طبخ فقط — غير واردة. ج) استكشاف الفضاء — غير وارد. د) تقنية حديثة — غير وارد. (النسخة 3)
-- **الحل خطوة بخطوة:** Step 1: List the events and character actions. Step 2: Infer the underlying message. Step 3: Choose the theme. (النسخة 3)
+---
 
+## Graded Question Bank with Comprehensive Solutions — ch07-the-old-man-and-the-sea-chapters-1-to-3
 
+This medium contains questions dedicated **only** to this chapter (ch07-the-old-man-and-the-sea-chapters-1-to-3), classified by difficulty level, with accurate answers and explanation for each option.
 
-## ملخص سريع لهذا الفصل فقط (ch07-the-old-man-and-the-sea-chapters-1-to-3)
-يغطي هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3) موضوع "تحليل فصول ١-٣ من رواية العجوز والبحر لإرنست همنغواي، شخصيات العجوز سميتيان والسمكة المارلين، موضوعات الصراع مع الطبيعة والصبر" داخل مادة english للصف 1 الترم الأول في مرحلة الثانوية العامة (البكالوريا). يتميز هذا الفصل بأنه:
-- يدرس وحدة دراسية واحدة فقط (ch07-the-old-man-and-the-sea-chapters-1-to-3) بدون تداخل مع فصول أخرى.
-- يحتوي على أمثلة وتمارين وأسئلة خاصة بهذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3) فقط.
-- محدث وفقاً للمنهج الدراسي للعام الدراسي 2026/2027 في هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3).
-- غير منقول من أي ترم آخر (ترم أول مقابل ترم ثاني) أو أي صف آخر، ولا يُخلط مع أي فصل (ch07-the-old-man-and-the-sea-chapters-1-to-3).
+### [Easy] Question 1 — Who is the main character?
+a) A young tourist
+b) An old fisherman named Santiago
+c) A wealthy businessman
+d) A scientist
 
-## مراجع ومصادر للاستئزادة (مخصصة لهذه الوحدة ch07-the-old-man-and-the-sea-chapters-1-to-3)
-- كتاب منهج english للصف 1 — الترم الأول — الوحدة ch07-the-old-man-and-the-sea-chapters-1-to-3.
-- مصادر وزارة التربية والتعليم المصرية للعام الدراسي 2026/2027 في هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3).
-- تدريبات وامتحانات سابقة مختصة بوحدة هذا الفصل (ch07-the-old-man-and-the-sea-chapters-1-to-3) فقط.
+**Correct Answer:** **b) An old fisherman named Santiago**
+
+**Why Correct?** Santiago is the protagonist of the story, an old Cuban fisherman who has gone 84 days without catching a fish.
+
+**Why Other Options Wrong?**
+- a) Santiago is not a tourist.
+- c) Santiago is poor, not wealthy.
+- d) Santiago is a fisherman, not a scientist.
+
+**Step-by-Step Solution:**
+Step 1: Recall the main character introduced in Chapter 1.
+Step 2: Identify his profession and name (Santiago, fisherman).
+Step 3: Choose option b.
+
+---
+
+### [Easy] Question 2 — How many days has Santiago gone without catching a fish?
+a) 42 days
+b) 84 days
+c) 100 days
+d) 10 days
+
+**Correct Answer:** **b) 84 days**
+
+**Why Correct?** In Chapter 1, the text states that Santiago has gone exactly 84 days without catching a fish.
+
+**Why Other Options Wrong?**
+- a) The text says 84, not 42.
+- c) The text says 84, not 100.
+- d) The text says 84, not 10.
+
+**Step-by-Step Solution:**
+Step 1: Recall the number of days mentioned in Chapter 1.
+Step 2: Confirm the number is 84.
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 3 — Who is Manolin?
+a) Santiago's son
+b) A young boy who used to fish with Santiago and still helps him
+c) Another old fisherman
+d) A fish
+
+**Correct Answer:** **b) A young boy who used to fish with Santiago and still helps him**
+
+**Why Correct?** Manolin is a young boy who fished with Santiago before his parents forbade it, but he still brings Santiago food and cares for him.
+
+**Why Other Options Wrong?**
+- a) Manolin is not Santiago's son.
+- c) Manolin is young, not old.
+- d) Manolin is a human boy, not a fish.
+
+**Step-by-Step Solution:**
+Step 1: Recall who Manolin is from Chapters 1–2.
+Step 2: Identify his relationship to Santiago.
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 4 — Why did Manolin's parents stop him from fishing with Santiago?
+a) Because Santiago was too old
+b) Because Santiago was considered "salao" (unlucky)
+c) Because Manolin wanted to study
+d) Because Santiago was mean to Manolin
+
+**Correct Answer:** **b) Because Santiago was considered "salao" (unlucky)**
+
+**Why Correct?** Santiago's 84-day streak without fish made people consider him "salao" (the worst form of unlucky), so Manolin's parents made him fish on a more successful boat.
+
+**Why Other Options Wrong?**
+- a) Santiago's age is not the stated reason.
+- c) There is no mention of Manolin wanting to study instead.
+- d) Santiago is kind to Manolin, not mean.
+
+**Step-by-Step Solution:**
+Step 1: Recall why Manolin left Santiago's boat.
+Step 2: Identify the reason (Santiago's bad luck / "salao").
+Step 3: Choose option b.
+
+---
+
+### [Hard] Question 5 — What does Santiago plan to do differently tomorrow?
+a) Quit fishing forever
+b) Sail far out alone into the Gulf Stream
+c) Buy a new motorboat
+d) Ask Manolin's parents for permission
+
+**Correct Answer:** **b) Sail far out alone into the Gulf Stream**
+
+**Why Correct?** In Chapters 2–3, Santiago decides to sail far out beyond the other fishermen into the Gulf Stream to catch a big fish and prove his luck has changed.
+
+**Why Other Options Wrong?**
+- a) Santiago does not plan to quit; he plans to keep fishing.
+- c) Santiago is poor and does not buy a new boat.
+- d) Santiago plans to go alone, not ask permission.
+
+**Step-by-Step Solution:**
+Step 1: Recall Santiago's plan in Chapters 2–3.
+Step 2: Identify where he plans to sail (far out into the Gulf Stream).
+Step 3: Choose option b.
+
+---
+
+### [Hard] Question 6 — What happens at the end of Chapter 3?
+a) Santiago returns home with no fish
+b) Santiago hooks a big marlin that pulls his boat out to sea
+c) Santiago meets another fisherman
+d) Santiago gives up and goes back to shore
+
+**Correct Answer:** **b) Santiago hooks a big marlin that pulls his boat out to sea**
+
+**Why Correct?** At the end of Chapter 3, Santiago hooks a large marlin, and the fish is strong enough to pull Santiago's skiff far out to sea.
+
+**Why Other Options Wrong?**
+- a) Santiago does not return home; he is out at sea.
+- c) Santiago is alone; he does not meet another fisherman.
+- d) Santiago does not give up; he fights the fish.
+
+**Step-by-Step Solution:**
+Step 1: Recall the event at the end of Chapter 3.
+Step 2: Identify what Santiago caught (a big marlin).
+Step 3: Choose option b.
+
+---
+
+### [JRE] Question 7 — Justify, Reasoning & Evidence — Is Santiago's pride a strength or a weakness?
+
+**Justify:** Santiago's pride is both a strength and a weakness. It gives him dignity and motivation, but it also leads him to sail alone far from help.
+
+**Reasoning:** Pride helps Santiago maintain self-respect despite poverty and failure. However, excessive pride makes him refuse help and take dangerous risks alone.
+
+**Evidence:** Santiago tells Manolin he will go alone to prove himself (Chapter 2), and he sails far out alone where no other fisherman can help him (Chapter 3).
+
+**Step-by-Step Solution:**
+Step 1: Recall Santiago's prideful actions in Chapters 1–3.
+Step 2: Identify whether pride helps or harms him (both).
+Step 3: Provide reasoning (dignity vs. dangerous isolation).
+Step 4: Cite evidence (going alone to prove himself; sailing far out alone).
+
+---
+
+### [JRE] Question 8 — Justify, Reasoning & Evidence — Does Manolin's loyalty to Santiago make sense?
+
+**Justify:** Yes, Manolin's loyalty makes sense because he loves Santiago, respects his skill, and remembers how Santiago taught him to fish.
+
+**Reasoning:** Manolin sees Santiago's true worth beyond his bad luck. Their relationship is based on genuine care, not on whether Santiago catches fish.
+
+**Evidence:** Manolin brings Santiago food and coffee despite his parents' orders, and he talks with Santiago about baseball and fishing (Chapter 2).
+
+**Step-by-Step Solution:**
+Step 1: Recall Manolin's actions toward Santiago in Chapters 1–2.
+Step 2: Identify why Manolin stays loyal (love and respect).
+Step 3: Provide reasoning (loyalty based on care, not on luck).
+Step 4: Cite evidence (bringing food; talking about baseball).
+
+---
+
+## Quick Summary for This Chapter Only (ch07-the-old-man-and-the-sea-chapters-1-to-3)
+
+This chapter (ch07-the-old-man-and-the-sea-chapters-1-to-3) covers Chapters 1 to 3 of the novel *The Old Man and the Sea* by Ernest Hemingway. It features:
+
+- Studies one academic unit only (Chapters 1–3 of the novel) without overlap with other chapters.
+- Shows Santiago's 84-day bad luck streak, his relationship with Manolin, and his solo sail into the Gulf Stream.
+- Shows character analysis: Santiago's pride, skill, poverty, determination, and hope.
+- Focuses on themes of perseverance, dignity in poverty, hope, and man vs. nature.
+- Updated according to the 2026/2027 academic year curriculum in this chapter (ch07-the-old-man-and-the-sea-chapters-1-to-3).
+- Not transferred from any other term (Term 1 vs Term 2) or any other grade, and not mixed with any chapter (ch07-the-old-man-and-the-sea-chapters-1-to-3).
+- No The Lost World / Arthur Conan Doyle content. English questions only.
+
+## References and Sources (Dedicated to this unit ch07-the-old-man-and-the-sea-chapters-1-to-3)
+
+- English curriculum book for Grade 1 — Term 1 — unit *The Old Man and the Sea* (Chapters 1 to 3).
+- Novel *The Old Man and the Sea* by Ernest Hemingway (published 1952).
+- Egyptian Ministry of Education sources for the academic year 2026/2027 in this chapter (ch07-the-old-man-and-the-sea-chapters-1-to-3).
+- Past exercises and exams dedicated to this unit (ch07-the-old-man-and-the-sea-chapters-1-to-3) only.
 
 ---
 
 **End of chapter ch07-the-old-man-and-the-sea-chapters-1-to-3 — english — grade-1 — term-1 — الثانوية العامة (البكالوريا)**
-

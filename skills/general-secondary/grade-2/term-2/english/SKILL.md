@@ -21,3 +21,5 @@ description: "Egyptian General Secondary Grade 2 Term 2 english complete multi-c
 | **ch02** | Units 9 & 10: Conservation (Past Habits) & The News (Past Perfect Simple/Continuous) | [chapters/ch02-units9-and-10-conservation-and-the-news.md](chapters/ch02-units9-and-10-conservation-and-the-news.md) |
 | **ch03** | Units 11 & 12: What a Performance! (Question Tags) & Achievements (Relative Clauses) | [chapters/ch03-units11-and-12-films-and-achievements.md](chapters/ch03-units11-and-12-films-and-achievements.md) |
 | **ch04** | King Lear — Acts III, IV & V (The Storm, Dover Cliffs & Tragic Resolution) | [chapters/ch04-king-lear-acts-3-to-5.md](chapters/ch04-king-lear-acts-3-to-5.md) |
+| **ch06** | The Lost World — Chapters 6–8 (Malone's Night Adventure · Prisoners of the Ape-Men · The Battle for the Plateau — ص 37–57) | [chapters/ch06-the-lost-world-chapters-6-to-8.md](chapters/ch06-the-lost-world-chapters-6-to-8.md) |
+| **ch07** | The Lost World — Chapters 9–10, Key Terms & Final Assessment (ص 58–76) | [chapters/ch07-the-lost-world-chapters-9-to-10-and-final-assessment.md](chapters/ch07-the-lost-world-chapters-9-to-10-and-final-assessment.md) |
