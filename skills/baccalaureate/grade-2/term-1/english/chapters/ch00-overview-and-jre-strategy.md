@@ -23,6 +23,7 @@ Under the new **Egyptian Baccalaureate System (نظام البكالوريا ا�
 | **CONCEPT 3: Identity**<br>**Unit 3** | **Echoes of the Past** | • **Sec A:** `3.1` & `3.2`<br>• **Sec B:** `3.3` & `3.4`<br>• **Sec C:** Skills | `ch06-unit3-secA-echoes-of-the-past.md`<br>`ch07-unit3-secB-and-skills.md` |
 | **CONCEPT 4: Consumption & Choice**<br>**Unit 4** | **The Power of Choice** | • **Sec A:** `4.1` & `4.2`<br>• **Sec B:** `4.3` & `4.4`<br>• **Sec C:** Skills | `ch08-unit4-secA-power-of-choice.md`<br>`ch09-unit4-secB-and-skills.md` |
 | **CONCEPT 5: Sharing the Planet**<br>**Unit 5** | **The Greenhouse Effect** | • **Sec A:** `5.1` & `5.2`<br>• **Sec B:** `5.3` & `5.4`<br>• **Sec C:** Skills | `ch10-unit5-secA-greenhouse-effect.md`<br>`ch11-unit5-secB-and-skills.md` |
+| **Literary Novel**<br>**The Lost World**<br>**Ch 12 & 13** | **The Lost World — Chapters 1 to 10** by Arthur Conan Doyle | **Part 1 (ch12):** Chapters 1–5 — Challenger's Secret · Expedition Chosen · Entering the Unknown · Trapped · First Clash<br>**Part 2 (ch13):** Chapters 6–10 + Final Assessment — Malone's Night Adventure · Prisoners of the Ape-Men · Battle for the Plateau · Hidden Way Home · Proof Before the World | `ch12-the-lost-world-part1.md`<br>`ch13-the-lost-world-part2.md` |
 
 ---
 

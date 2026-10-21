@@ -1,6 +1,6 @@
 ---
 name: baccalaureate-grade2-term1-english
-description: Complete curriculum, teacher guide, and reference for Egyptian Baccalaureate — Grade 2 — Term 1 (نظام البكالوريا المصرية — الصف الثاني بكالوريا — الفصل الدراسي الأول) First Term English (2027 edition). Covers all 5 Units (10 sections, 20 lessons), the JRE (Justify–Reason–Evidence) critical-thinking framework with all official model answers, complete vocabulary, derivatives, synonyms/antonyms, confusable words (Focus on Vocabulary), all 10 grammar topics, and all Section C writing skills.
+description: Complete curriculum, teacher guide, and reference for Egyptian Baccalaureate — Grade 2 — Term 1 (نظام البكالوريا المصرية — الصف الثاني بكالوريا — الفصل الدراسي الأول) First Term English (2027 edition). Covers all 5 Units (10 sections, 20 lessons), **The Lost World by Arthur Conan Doyle Chapters 1–5 (ch12 & ch13)**, the JRE (Justify–Reason–Evidence) critical-thinking framework with all official model answers, complete vocabulary, derivatives, synonyms/antonyms, confusable words (Focus on Vocabulary), all 10 grammar topics, and all Section C writing skills.
 ---
 
 # المنهج الكامل للغة الإنجليزية — الصف الثاني بكالوريا (الترم الأول ٢٠٢٧)
@@ -90,3 +90,18 @@ description: Complete curriculum, teacher guide, and reference for Egyptian Bacc
     - **Lesson `5.3` (*Greening Projects in Egypt — Benban, Go Green Initiative & Green Cities*)** & **Lesson `5.4` (*Individual and Collective Actions — Egyptian Youth Environment Network*)**.
     - **Grammar Focus:** **Adverbials of Degree, Frequency, and Certainty/Stance** + exact word-order rules.
     - **Section C Skills:** **Argumentative Paragraph** & **Informational Leaflet (`النشرة الإعلامية التثقيفية`)**.
+
+13. **[`chapters/ch12-the-lost-world-part1.md`](chapters/ch12-the-lost-world-part1.md):**
+    - **The Lost World — Chapters 1 to 5** by Arthur Conan Doyle
+    - **Professor Challenger's Secret** · **The Expedition Is Chosen** · **Entering the Unknown** · **Trapped in the Lost World** · **The First Clash**
+    - **Characters:** Edward Malone, Professor Challenger, Professor Summerlee, Lord John Roxton, Gladys Hungerton
+    - **Themes:** Science vs. skepticism, courage, discovery, man vs. prehistoric beasts
+    - **JRE Questions:** Gladys's influence on Malone · Malone's character development
+
+14. **[`chapters/ch13-the-lost-world-part2.md`](chapters/ch13-the-lost-world-part2.md):**
+    - **The Lost World — Chapters 6 to 10** by Arthur Conan Doyle + Final Assessment
+    - **Malone's Night Adventure** · **Prisoners of the Ape-Men** · **The Battle for the Plateau** · **The Hidden Way Home** · **Proof Before the World**
+    - **Characters:** Malone's growth, Summerlee's conversion, Challenger's vindication
+    - **Themes:** Courage, cooperation across cultures, scientific proof, mixed endings
+    - **JRE Questions:** Malone's attitude to danger · Challenger hero vs. fraud · Is the ending fair for Malone?
+    - **Final Assessment:** Plot, characters, themes, symbols, complete novel review (Chapters 1–10)
