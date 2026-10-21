@@ -4,180 +4,276 @@
 
 الفصل: **ch13-the-lost-world-part2** (محتوى إنجليزي فعلي ومخصص لهذا الفصل فقط — لا تكرار)
 
-> **ملاحظة للمعلم:** هذا الفصل يدرس الفصول 6 إلى 10 من رواية *The Lost World* (العالم المفقود) للكاتب Arthur Conan Doyle ضمن منهج اللغة الإنجليزية للصف 2 بكالوريا الترم الأول. لا يحتوي على أي محتوى من فصول أخرى أو ترم آخر أو صف آخر.
+> **ملاحظة للمعلم:** هذا الفصل يدرس الفصول 6 إلى 10 من رواية *The Lost World* للكاتب Arthur Conan Doyle ضمن منهج اللغة الإنجليزية للصف 2 بكالوريا الترم الأول. الأسئلة والتدريبات وفقًا لأسلوب ملحق كتاب جيم (Gem Companion Book) مع أسئلة JRE (Justify, Reasoning & Evidence) وأسئلة الفهم المباشر بالإنجليزية.
 
 ---
 
-## أهداف التعلم (مخصصة لهذا الفصل ch13-the-lost-world-part2)
+## Goals and Objectives (الأهداف التعليمية)
 
-1. إتقان أحداث الفصول 6 إلى 10 من رواية *The Lost World*: مغامرة مالون الليلية، أسرى القردة البشرية، معركة الهضبة، الطريق المخفي للعودة، وإثبات الاكتشاف أمام العالم في لندن.
-2. تحليل تطور الشخصيات: كيف يتغير سومرلي من مشكك إلى مؤمن بتشالنجر، وكيف ينمو مالون كشخص شجاع.
-3. تحليل الذروة والنهاية: معركة الهضبة ضد القردة البشرية، العودة عبر الطريق المخفي، وعرض الحطيروداكтил كإثبات في قاعة كوينز هول.
-4. حل الأسئلة المصنفة حسب الصعوبة (سهل، متوسط، صعب) مع تبرير كل إجابة صحيحة وخيارات الخطأ.
-5. ربط موضوعات القصة (الشجاعة، الاكتشاف العلمي، Gerechtigkeit) بالتطبيقات الحياتية للعام الدراسي 2026/2027.
+By the end of this chapter, the student will be able to:
 
----
-
-## القسم الأول: نص القصة والتحليل الأدبي — الفصول 6 إلى 10
-
-### ملخص الفصول
-
-**الفصل 6: مغامرة إدوارد مالون الليلية (Edward Malone's Night Adventure)**
-يقوم إدوارد مالون بمغامرة خطيرة في الليل على الهضبة، حيث يواجه مخاطر الديناصورات والظلام الموحش. هذه المغامرة تثبت شجاعته وتكسبه احترام زملائه في البعثة، بما في ذلك البروفيسور تشالنجر.
-
-**الفصل 7: أسرى القردة البشرية (Prisoners of the Ape-Men)**
-يُقبض على المغامرين من قبل قبيلة من كائنات تشبه القردة (الآب-مين) الذين يعيشون في كهوف على الهضبة. هذه الكائنات عدوانية وتحارب مع قبيلة السكان الأصليين (الأكالا) من أجل السيطرة على الهضبة.
-
-**الفصل 8: معركة الهضبة (The Battle for the Plateau)**
-يساعد المغامرون قبيلة الأكالا في هزيمة القردة البشرية واستعادة أرضهم. هذه المعركة هي ذروة الصراع على الهضبة، وتظهر التعاون بين البشر والمستكشفين ضد الكائنات البرية.
-
-**الفصل 9: الطريق المخفي للعودة (The Hidden Way Home)**
-بعد انتهاء المعركة، يبحث المغامرون عن طريقة للعودة إلى العالم السفلي. يجدون كهفًا سريًا يؤدي بهم إلى أسفل الهضبة بأمان، بعد أن كانوا محبوسين بسبب تدمير الجسر.
-
-**الفصل 10: الإثبات أمام العالم (Proof Before the World)**
-يعود المغامرون إلى لندن ويواجهون الشكوك مرة أخرى. في اجتماع عام في قاعة كوينز هيل، يقدم البروفيسور تشالنجر (Professor Challenger) دليلًا لا يمكن إنكاره: حطيروداكтил حي (Pterodactyl) من العالم المفقود. يخيف الكائن الجمهور لكنه يقنعهم بصحة ادعاءات تشالنجر. يصبح المغامرون أبطالًا ويتلقون تكريمًا كبيرًا.
-
-### تطور الشخصيات
-
-| الشخصية | البداية | النهاية | التغير |
-|---|---|---|---|
-| **إدوارد مالون** | صحفي غير واثق، يُرفض من غلادس | بطل مغامرة، يثبت شجاعته | ينمو من شخص يُستبعد إلى بطل محترم |
-| **البروفيسور سومرلي** | مشكك تمامًا في تشالنجر | يصدق تشالنجر بعد رؤية الحطيروداكtil | يتحول من الشك إلى الاعتراف والاحترام |
-| **البروفيسور تشالنجر** | عالم مرفوض من المجتمع العلمي | بطل معترف به عالميًا | ينتصر على التشكيك ويget 인정 |
-
-### الموضوعات الأدبية
-
-- **الشجاعة والتضحية:** مخاطر مالون والمغامرين لإنقاذ بعضهم البعض
-- **الاكتشاف العلمي:** إثبات وجود كائنات ما قبل التاريخ ضد الشك العلمي
-- **التعاون بين الثقافات:** مساعدة قبيلة الأكالا ضد القردة البشرية
-- **النهاية والعدالة:** تحقيق تشالنجر للعدالة والاعتراف بعد سنوات من السخرية
+1. Understand Chapters 6–10 of *The Lost World*: Malone's night adventure, prisoners of the ape-men, battle for the plateau, the hidden way home, and proving the discovery before the world in London.
+2. Analyze character development: how Summerlee changes from skeptic to believer in Challenger, and how Malone grows as a brave person.
+3. Analyze the climax and ending: the battle on the plateau against the ape-men, return through the hidden way, and presenting the pterodactyl as proof in Queen's Hall London.
+4. Answer graded English questions ([Easy] / [Medium] / [Hard]) with Justification, Reasoning, and Evidence (JRE).
+5. Connect story themes (courage, scientific discovery, justice) to real-life applications for the academic year 2026/2027.
 
 ---
 
-## القسم الثاني: التطبيقات والتمارين — الفصول 6 إلى 10
+## Section 1: Story Text and Literary Analysis — Chapters 6 to 10
 
-### الخطوات التطبيقية
+### Chapter Summaries
 
-1. **تحديد لحظة التحول:** حدد اللحظة التي يغير فيها سومرلي رأيه حول تشالنجر.
-2. **تحليل المعركة:** صَف معركة الهضبة ودور كل شخصية فيها.
-3. **تقييم النهاية:** ناقش ما إذا كانت نهاية القصة عادلة بالنسبة لكل شخصية.
-4. **ربط بالواقع:** كيف يمكن تطبيق درس "إثبات المطالبات بالدليل" في الحياة العلمية والعملية؟
+**Chapter 6: Malone's Night Adventure**
+Malone undertakes a dangerous adventure at night on the plateau, where he faces dinosaur risks and the terrifying darkness. This adventure proves his courage and earns him the respect of his expedition companions.
 
-### تمارين تطبيقية مخصصة لهذا الفصل
+**Chapter 7: Prisoners of the Ape-Men**
+The explorers are captured by a tribe of ape-like creatures (ape-men) who live in caves on the plateau. These creatures are aggressive and fight with the indigenous tribe (the Accala) for control of the plateau.
 
-- **تمرين 1:** اكتب خطابًا يلقيه تشالنجر في قاعة كوينز هيل لتقديم الحطيروداكтил كدليل.
-- **تمرين 2:** قارن بين شخصية مالون في بداية القصة ونهايتها، وما الذي تسبب في هذا التغيير.
-- **تمرين 3:** ناقش أخلاقيات إحضار كائنات ما قبل التاريخ إلى لندن وما قد يترتب على ذلك من مخاطر.
+**Chapter 8: The Battle for the Plateau**
+The explorers help the Accala tribe defeat the ape-men and reclaim their land. This battle is the climax of the conflict on the plateau, and shows cooperation between humans and explorers against wild creatures.
 
----
+**Chapter 9: The Hidden Way Home**
+After the battle ends, the explorers search for a way to return to the world below. They find a secret cave that leads them safely down from the plateau, after they were trapped due to the destroyed bridge.
 
-## بنك الأسئلة المتدرج مع الحلول الشاملة — ch13-the-lost-world-part2
+**Chapter 10: Proof Before the World**
+The explorers return to London and face skepticism again. At a public meeting at Queen's Hall, Professor Challenger presents undeniable proof: a living pterodactyl from the lost world. The creature frightens the audience but convinces them of the truth of Challenger's claims. The explorers become heroes and receive great celebration.
 
-تحتوي هذه الوسيلة على أسئلة مخصصة **فقط** لهذا الفصل (ch13-the-lost-world-part2)، مصنفة حسب مستوى الصعوبة، مع إجابة دقيقة وشرح لكل خيار.
+### Character Development
 
-#### [سهل] السؤال 1 — What happens to Malone in Chapter 6? (النسخة 18)
-أ) يذهب في مغامرة خطيرة في الليل على الهضبة
-ب) يعود إلى لندن وحده
-ج) يجد ديناصورًا ويجلبه إلى لندن
-د) يتزوج من غلادس
+| Character | Beginning | End | Change |
+|-----------|-----------|-----|--------|
+| **Edward Malone** | Unconfident journalist, rejected by Gladys | Adventure hero, proves his courage | Grows from an excluded person to a respected hero |
+| **Professor Summerlee** | Totally skeptical of Challenger | Believes Challenger after seeing the pterodactyl | Turns from doubt to recognition and respect |
+| **Professor Challenger** | Scientist rejected by the scientific community | Hero recognized worldwide | Triumphs over skepticism and gains recognition |
 
-- **الإجابة الصحيحة:** **أ) يذهب في مغامرة خطيرة في الليل على الهضبة**
-- **لماذا صحيحة؟** في الفصل 6، يقوم إدوارد مالون بمغامرة ليلية خطيرة على الهضبة، حيث يواجه مخاطر الديناصورات والظلام.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - ب) لا يعود إلى لندن في هذا الفصل، بل يبقى على الهضبة.
-  - ج) لا يجد ديناصورًا ويجلبه إلى لندن في هذا الفصل.
-  - د) لا يتزوج من غلادس في هذه المرحلة من القصة.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر أحداث الفصل 6. الخطوة 2: تحديد ما قام به مالون في الليل. الخطوة 3: اختيار الخيار أ.
+### Literary Themes
 
-#### [سهل] السؤال 2 — Who are the "ape-men"? (النسخة 19)
-أ) قبيلة من السكان الأصليين الودودين
-ب) كائنات تشبه القردة تعيش في كهوف على الهضبة وتحارب قبيلة الأكالا
-ج) ديناصورات متطورة
-د) أعضاء من البعثة فقدوا طريقهم
-
-- **الإجابة الصحيحة:** **ب) كائنات تشبه القردة تعيش في كهوف على الهضبة وتحارب قبيلة الأكالا**
-- **لماذا صحيحة؟** في الفصل 7، يُ descrit أن القردة البشرية (ape-men) هي كائنات تشبه القردة تعيش في كهوف الهضبة وتحارب مع السكان الأصليين.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) السكان الأصليون (الأكالا) هم قبيلة بشرية منفصلة، ليست قردة بشرية.
-  - ج) ليست ديناصورات، بل كائنات بشرية مماثلة للقردة.
-  - د) ليست أعضاء من البعثة، بل كائنات أصلية على الهضبة.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر ما ورد في الفصل 7 عن القردة البشرية. الخطوة 2: تحديد طبيعتهم وموقعهم وسلوكهم. الخطوة 3: اختيار الخيار ب.
-
-#### [متوسط] السؤال 3 — Why does Summerlee apologize to Challenger? (النسخة 20)
-أ) لأنه كسر معداته
-ب) لأنه رأى الحطيروداكtil وأدرك أن تشالنجر كان على صواب
-ج) لأنه خسر الرهان المالي
-د) لأنه أحب ابنة تشالنجر
-
-- **الإجابة الصحيحة:** **ب) لأنه رأى الحطيروداكtil وأدرك أن تشالنجر كان على صواب**
-- **لماذا صحيحة؟** في الفصل 9، بعد رؤية الحطيروداكtil، يعتذر سومرلي لتشالنجر solemnly ويقول: "أدين لك بالاعتذار، يا سيدي، أنا مخطئ جدًا."
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) لا يوجد كسر للمعدات يؤدي للاعتذار.
-  - ج) لا يوجد رهان مالي في القصة.
-  - د) لا علاقة emotionale بابنة تشالنجر.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر موقف سومرلي في الفصل 9. الخطوة 2: تحديد سبب الاعتذار (رؤية الحطيروداكtil). الخطوة 3: اختيار الخيار ب.
-
-#### [متوسط] السؤال 4 — How do the explorers escape from the plateau? (النسخة 21)
-أ) يركبون طائرة إلى لندن
-ب) يجدون كهفًا سريًا يؤدي بهم إلى أسفل الهضبة
-ج) يسبحون عبر النهر المحيط بالهضبة
-د) يُنقذهم فريق إنقاذ من لندن
-
-- **الإجابة الصحيحة:** **ب) يجدون كهفًا سريًا يؤدي بهم إلى أسفل الهضبة**
-- **لماذا صحيحة؟** في الفصل 9، بعد معركة الهضبة، يجد المغامرون كهفًا سريًا (طريقًا مخفيًا) يمكنهم من النزول بأمان إلى العالم السفلي.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) لا توجد طائرة في القصة.
-  - ج) لا يسبحون عبر نهر، بل يجدون طريقًا برّيًا عبر الكهف.
-  - د) لا يأتي فريق إنقاذ من لندن، بل ينقذون أنفسهم.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر كيف غادروا الهضبة في الفصل 9. الخطوة 2: تحديد الطريق السري (الكهف). الخطوة 3: اختيار الخيار ب.
-
-#### [صعب] السؤال 5 — What proof does Challenger present in London? (النسخة 22)
-أ) صورًا للديناصورات من كاميرته
-ب) حطيروداكtil حي (Pterodactyl) من العالم المفقود
-ج) عظام ديناصور كبيرة
-د) شهادة من السكان الأصليين
-
-- **الإجابة الصحيحة:** **ب) حطيروداكtil حي (Pterodactyl) من العالم المفقود**
-- **لماذا صحيحة؟** في الفصل 10، في اجتماع عام في قاعة كوينز هيل، يقدم تشالنجر حطيروداكtil حي पकड़ा من العالم المفقود كدليل لا يمكن إنكاره على صحة ادعاءاته.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) لا يقدم صورًا فقط، بل يقدم كائنًا حيًا.
-  - ج) لا يقدم عظامًا فقط، بل كائنًا حيًا.
-  - د) لا يعتمد على شهادة بشرية فقط، بل على دليل مادي حي.
-- **الحل خطوة بخطوة:** الخطوة 1:记住事件 في الفصل 10 في قاعة كوينز هيل. الخطوة 2: تحديد الدليل الذي قدمه تشالنجر (حطيروداكtil حي). الخطوة 3: اختيار الخيار ب.
-
-#### [صعب] السؤال 6 — What is the significance of the ending of the story? (النسخة 23)
-أ) يتزوج مالون من غلادس ويسعدان معًا
-ب) ينتصر تشالنجر على التشكيك العلمي ويget 인정 كبطل، لكن مالون يكتشف أن غلادس تزوجت من رجل آخر
-ج) يُدمر العالم المفقود بالكامل
-د) يقرر المغامرون عدم العودة إلى الهضبة أبدًا
-
-- **الإجابة الصحيحة:** **ب) ينتصر تشالنجر على التشكيك العلمي ويget 인정 كبطل، لكن مالون يكتشف أن غلادس تزوجت من رجل آخر**
-- **لماذا صحيحة؟** في النهاية، يصبح تشالنجر بطلًا معترفًا به، لكن مالون يشعر بخيبة أمل عندما يكتشف أن غلادس تزوجت من رجل آخر بينما كان في المغامرة.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) لا يتزوج مالون من غلادس في النهاية، بل تزوّج من رجل آخر.
-  - ج) لا يُدمر العالم المفقود، بل يبقى كما هو.
-  - د) لا يقرر المغامرون عدم العودة، بل روكستون ومالون يخططون لمغامرة جديدة.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر نهاية القصة في الفصل 10. الخطوة 2: تحديد ما حدث لكل من تشالنجر ومالون. الخطوة 3: اختيار الخيار ب.
+- **Courage and sacrifice:** Malone's and the explorers' risks to save each other
+- **Scientific discovery:** Proving the existence of prehistoric creatures against scientific skepticism
+- **Cooperation between cultures:** Helping the Accala tribe defeat the ape-men
+- **Ending and justice:** Challenger achieves justice and recognition after years of mockery
 
 ---
 
-## ملخص سريع لهذا الفصل فقط (ch13-the-lost-world-part2)
+## Section 2: Applications and Exercises — Chapters 6 to 10
 
-يغطي هذا الفصل (ch13-the-lost-world-part2) الفصول 6 إلى 10 من رواية *The Lost World* لـ Arthur Conan Doyle. يتميز هذا الفصل بأنه:
+### Application Steps
 
-- يدرس وحدة دراسية واحدة فقط (الفصول 6–10 من الرواية) بدون تداخل مع فصول أخرى.
-- يوضح eventos climax والنهائي: مغامرة مالون الليلية، أسرى القردة البشرية، معركة الهضبة، الطريق المخفي للعودة، والإثبات في لندن.
-- يوضح تطور شخصيات سومرلي (من مشكك إلى مؤمن) ومالون (من غير واثق إلى بطل).
-- يركز على موضوعات الشجاعة، الاكتشاف العلمي، والتعاون بين الثقافات.
-- محدث وفقًا للمنهج الدراسي للعام الدراسي 2026/2027 في هذا الفصل (ch13-the-lost-world-part2).
-- غير منقول من أي ترم آخر (ترم أول مقابل ترم ثاني) أو أي صف آخر، ولا يُخلط مع أي فصل (ch13-the-lost-world-part2).
+1. **Identify the turning point:** Identify the moment when Summerlee changes his opinion about Challenger.
+2. **Analyze the battle:** Describe the plateau battle and the role of each character in it.
+3. **Evaluate the ending:** Discuss whether the ending is fair for each character.
+4. **Connect to reality:** How can the lesson of "proving claims with evidence" be applied in scientific and practical life?
 
-## مراجع ومصادر للاستئزادة (مخصصة لهذه الوحدة ch13-the-lost-world-part2)
+### Application Exercises Dedicated to This Chapter
 
-- كتاب منهج اللغة الإنجليزية للصف 2 — الترم الأول — الوحدة *The Lost World* (الفصول 6 إلى 10).
-- رواية *The Lost World* لـ Arthur Conan Doyle (نشرت عام 1912).
-- مصادر وزارة التربية والتعليم المصرية للعام الدراسي 2026/2027 في هذا الفصل (ch13-the-lost-world-part2).
-- تدريبات وامتحانات سابقة مختصة بوحدة هذا الفصل (ch13-the-lost-world-part2) فقط.
+- **Exercise 1:** Write a speech that Challenger delivers at Queen's Hall to present the pterodactyl as proof.
+- **Exercise 2:** Compare Malone's personality at the beginning of the story and at the end, and what caused this change.
+- **Exercise 3:** Discuss the ethics of bringing prehistoric creatures to London and what risks may result from that.
+
+---
+
+## Graded Question Bank with Comprehensive Solutions — ch13-the-lost-world-part2
+
+This medium contains questions dedicated **only** to this chapter (ch13-the-lost-world-part2), classified by difficulty level, with accurate answers and explanation for each option.
+
+### [Easy] Question 1 — What happens to Malone in Chapter 6?
+a) He goes on a dangerous night adventure on the plateau
+b) He returns to London alone
+c) He finds a dinosaur and brings it to London
+d) He marries Gladys
+
+**Correct Answer:** **a) He goes on a dangerous night adventure on the plateau**
+
+**Why Correct?** In Chapter 6, Edward Malone undertakes a dangerous night adventure on the plateau, where he faces dinosaur risks and darkness.
+
+**Why Other Options Wrong?**
+- b) He does not return to London in this chapter, he stays on the plateau.
+- c) He does not find a dinosaur and bring it to London in this chapter.
+- d) He does not marry Gladys at this stage of the story.
+
+**Step-by-Step Solution:**
+Step 1: Recall events from Chapter 6.
+Step 2: Identify what Malone did at night.
+Step 3: Choose option a.
+
+---
+
+### [Easy] Question 2 — Who are the "ape-men"?
+a) A friendly indigenous tribe
+b) Ape-like creatures who live in caves on the plateau and fight the Accala tribe
+c) Advanced dinosaurs
+d) Expedition members who lost their way
+
+**Correct Answer:** **b) Ape-like creatures who live in caves on the plateau and fight the Accala tribe**
+
+**Why Correct?** In Chapter 7, the ape-men are described as ape-like creatures who live in caves on the plateau and fight with the indigenous people.
+
+**Why Other Options Wrong?**
+- a) The indigenous people (the Accala) are a separate human tribe, not ape-men.
+- c) They are not dinosaurs, but human-like ape creatures.
+- d) They are not expedition members, but original creatures on the plateau.
+
+**Step-by-Step Solution:**
+Step 1: Recall what was mentioned in Chapter 7 about the ape-men.
+Step 2: Identify their nature, location, and behavior.
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 3 — Why does Summerlee apologize to Challenger?
+a) Because he broke his equipment
+b) Because he saw the pterodactyl and realized Challenger was right
+c) Because he lost a financial bet
+d) Because he fell in love with Challenger's daughter
+
+**Correct Answer:** **b) Because he saw the pterodactyl and realized Challenger was right**
+
+**Why Correct?** In Chapter 9, after seeing the pterodactyl, Summerlee solemnly apologizes to Challenger and says: "I owe you an apology, Sir, I am very much in the wrong."
+
+**Why Other Options Wrong?**
+- a) There is no equipment breaking that leads to the apology.
+- c) There is no financial bet in the story.
+- d) There is no emotional relationship with Challenger's daughter.
+
+**Step-by-Step Solution:**
+Step 1: Recall Summerlee's position in Chapter 9.
+Step 2: Identify the reason for the apology (seeing the pterodactyl).
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 4 — How do the explorers escape from the plateau?
+a) They fly a plane to London
+b) They find a secret cave that leads them down from the plateau
+c) They swim across the river surrounding the plateau
+d) They are rescued by a rescue team from London
+
+**Correct Answer:** **b) They find a secret cave that leads them down from the plateau**
+
+**Why Correct?** In Chapter 9, after the plateau battle, the explorers find a secret cave (a hidden way) that enables them to descend safely to the world below.
+
+**Why Other Options Wrong?**
+- a) There is no plane in the story.
+- c) They do not swim across a river, but find a land road through the cave.
+- d) No rescue team comes from London, but they rescue themselves.
+
+**Step-by-Step Solution:**
+Step 1: Recall how they left the plateau in Chapter 9.
+Step 2: Identify the secret way (the cave).
+Step 3: Choose option b.
+
+---
+
+### [Hard] Question 5 — What proof does Challenger present in London?
+a) Photos of dinosaurs from his camera
+b) A living pterodactyl from the lost world
+c) Large dinosaur bones
+d) Testimony from the indigenous people
+
+**Correct Answer:** **b) A living pterodactyl from the lost world**
+
+**Why Correct?** In Chapter 10, at a public meeting at Queen's Hall, Challenger presents a living pterodactyl caught from the lost world as undeniable proof of the truth of his claims.
+
+**Why Other Options Wrong?**
+- a) He does not present photos only, but presents a living creature.
+- c) He does not present bones only, but a living creature.
+- d) He does not rely only on human testimony, but on a living material proof.
+
+**Step-by-Step Solution:**
+Step 1: Recall events in Chapter 10 at Queen's Hall.
+Step 2: Identify the proof Challenger presented (a living pterodactyl).
+Step 3: Choose option b.
+
+---
+
+### [Hard] Question 6 — What is the significance of the ending of the story?
+a) Malone marries Gladys and they live happily together
+b) Challenger triumphs over scientific skepticism and gains recognition as a hero, but Malone discovers that Gladys married another man
+c) The lost world is completely destroyed
+d) The explorers decide never to return to the plateau
+
+**Correct Answer:** **b) Challenger triumphs over scientific skepticism and gains recognition as a hero, but Malone discovers that Gladys married another man**
+
+**Why Correct?** At the end, Challenger becomes a recognized hero, but Malone feels disappointment when he discovers that Gladys married another man while he was on the adventure.
+
+**Why Other Options Wrong?**
+- a) Malone does not marry Gladys at the end, she married another man.
+- c) The lost world is not destroyed, but remains as it is.
+- d) The explorers do not decide never to return, but Roxton and Malone plan a new adventure.
+
+**Step-by-Step Solution:**
+Step 1: Recall the ending of the story in Chapter 10.
+Step 2: Identify what happened to each of Challenger and Malone.
+Step 3: Choose option b.
+
+---
+
+### [JRE] Question 8 — Justify, Reasoning & Evidence — Is Gladys a positive influence on Malone at the beginning of the story?
+
+**Justify:** Partly yes. Her words push Malone to seek purpose, although he initially connects courage too strongly with winning her approval.
+
+**Reasoning:** She tells him that true bravery comes from character, and this makes him reconsider his safe life and ask for a difficult assignment.
+
+**Evidence:** He leaves her house enthusiastic, asks McArdle for a dangerous assignment, then plans to meet Challenger.
+
+**Step-by-Step Solution:**
+Step 1: Recall Gladys's influence on Malone in Chapter 1.
+Step 2: Identify the justification (she pushes him to seek purpose).
+Step 3: Provide reasoning (true bravery comes from character).
+Step 4: Cite evidence (Malone asks for dangerous assignment and plans to meet Challenger).
+
+---
+
+### [JRE] Question 9 — Justify, Reasoning & Evidence — Does Malone's attitude to danger change throughout the story?
+
+**Justify:** Yes, Malone changes from an ordinary journalist who seeks adventure to prove himself, to a brave hero who actively faces danger to save others.
+
+**Reasoning:** At the beginning, Malone seeks danger to impress Gladys. By the end, he faces danger to protect his companions and prove scientific truth.
+
+**Evidence:** Malone's night adventure in Chapter 6 shows his courage. His help to the Accala tribe in Chapter 8 shows his courage for others, not just for himself.
+
+**Step-by-Step Solution:**
+Step 1: Recall Malone's attitude toward danger at the beginning and end of the story.
+Step 2: Identify the change (from seeking approval to helping others).
+Step 3: Provide reasoning (his motivation changed from personal approval to protecting others).
+Step 4: Cite evidence (night adventure and helping the Accala tribe).
+
+---
+
+### [JRE] Question 10 — Justify, Reasoning & Evidence — Is Professor Challenger a hero or a fraud?
+
+**Justify:** Challenger is a hero, not a fraud, because he brought real proof (the living pterodactyl) and was recognized by the scientific community.
+
+**Reasoning:** A fraud cannot present living evidence in front of a public audience. Challenger's claims were validated by the pterodactyl at Queen's Hall.
+
+**Evidence:** At Queen's Hall, Challenger presents a living pterodactyl, the audience is convinced, and the explorers become celebrated heroes.
+
+**Step-by-Step Solution:**
+Step 1: Recall Challenger's position at the end of the story in Chapter 10.
+Step 2: Identify whether he is a hero or fraud (he presented real proof).
+Step 3: Provide reasoning (fraud cannot present living evidence publicly).
+Step 4: Cite evidence (pterodactyl at Queen's Hall, audience convinced, explorers celebrated).
+
+---
+
+## Quick Summary for This Chapter Only (ch13-the-lost-world-part2)
+
+This chapter (ch13-the-lost-world-part2) covers Chapters 6 to 10 of the novel *The Lost World* by Arthur Conan Doyle. It features:
+
+- Studies one academic unit only (Chapters 6–10 of the novel) without overlap with other chapters.
+- Shows climax and final events: Malone's night adventure, ape-men prisoners, battle for the plateau, hidden way home, and proof in London.
+- Shows character development: Summerlee (from skeptic to believer) and Malone (from unconfident to hero).
+- Focuses on themes of courage, scientific discovery, and cooperation between cultures.
+- Updated according to the 2026/2027 academic year curriculum in this chapter (ch13-the-lost-world-part2).
+- Not transferred from any other term (Term 1 vs Term 2) or any other grade, and not mixed with any chapter (ch13-the-lost-world-part2).
+
+## References and Sources (Dedicated to this unit ch13-the-lost-world-part2)
+
+- English curriculum book for Grade 2 — Term 1 — unit *The Lost World* (Chapters 6 to 10).
+- Novel *The Lost World* by Arthur Conan Doyle (published 1912).
+- Egyptian Ministry of Education sources for the academic year 2026/2027 in this chapter (ch13-the-lost-world-part2).
+- Past exercises and exams dedicated to this unit (ch13-the-lost-world-part2) only.
 
 ---
 
