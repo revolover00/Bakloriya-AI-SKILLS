@@ -21,3 +21,5 @@ description: "Egyptian General Secondary Grade 2 Term 2 arabic complete multi-ch
 | **ch02** | النحو (٢): لا النافية للجنس وشروط عملها وأنواع اسمها | [chapters/ch02-grammar-la-nafiya-lil-jins.md](chapters/ch02-grammar-la-nafiya-lil-jins.md) |
 | **ch03** | الأدب والنصوص: العصر العباسي والأندلسي والمدرسة الرومانتيكية والواقعية | [chapters/ch03-literature-abbassid-andalusian-and-romantic-realist.md](chapters/ch03-literature-abbassid-andalusian-and-romantic-realist.md) |
 | **ch04** | البلاغة والقصة: الأساليب الخبرية والإنشائية وقصة وا إسلاماه (الفصول ٩–١٦) | [chapters/ch04-rhetoric-khabari-inshai-and-wa-islamah-part2.md](chapters/ch04-rhetoric-khabari-inshai-and-wa-islamah-part2.md) |
+| **ch05** | كتاب القصة (الأعمال ١–٥: حكاية الغريب · عودة الروح · كفاح طيبة · الأرض · شمس وليل) | [chapters/ch05-story-book-works-1-to-5.md](chapters/ch05-story-book-works-1-to-5.md) |
+| **ch06** | كتاب القصة (الأعمال ٦–١٠: العبرات · وا إسلاماه · عبقرية عمر · رجل تحت الصفر · صح النوم) | [chapters/ch06-story-book-works-6-to-10.md](chapters/ch06-story-book-works-6-to-10.md) |
