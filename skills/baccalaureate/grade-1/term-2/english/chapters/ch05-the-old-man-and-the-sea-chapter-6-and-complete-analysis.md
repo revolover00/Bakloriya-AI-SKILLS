@@ -1,103 +1,277 @@
-# القصة الأدبية: العجوز والبحر (الفصل ٦ + التحليل الكامل) — الثانوية العامة (البكالوريا) 1 — الترم الثاني
+# The Old Man and the Sea — Chapter 6 and Complete Analysis — Grade 1 — Term 2 — English
 
-مادة: **english** | المرحلة: **الثانوية العامة (البكالوريا)** | الصف: **1** | الترم: **الثاني**
-الفصل: **ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis** (محتوى إنجليزي فعلي ومخصص لهذا الفصل فقط — لا تكرار)
+Subject: **English** | Stage: **General Secondary / Thanawiya Amma** | Grade: **1** | Term: **Second**
 
-> ملاحظة للمعلم: هذا الفصل يدرس وحدة ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis من مادة english للصف 1 الترم الثاني. لا يحتوي على أي محتوى من فصول أخرى أو ترم آخر أو صف آخر.
+Chapter: **ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis** (actual English content dedicated to this chapter only — no repetition)
 
-## أهداف التعلم (مخصصة لهذا الفصل ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis)
-1. إتقان موضوع تحليل الفصل الأخير من الرواية، عودة سميتيان إلى الشاطئ، التحليل الكامل للشخصيات والموضوعات والدروس المستفادة، أسئلة تقويم القصة كما يُدرّس حصرياً في هذا الفصل.
-2. تطبيق القاعدة أو المهارة على حالات عملية من واقع منهج english.
-3. حل الأسئلة المصنفة حسب الصعوبة مع تبرير كل خيار صحيح وخاطئ في هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
-4. ربط المحتوى بالتطبيقات الحياتية للعام الدراسي 2026/2027 في هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
+> **Teacher's note:** This chapter covers Chapter 6 of *The Old Man and the Sea* by Ernest Hemingway plus a complete analysis of the whole novel, within the English curriculum for Grade 1, Term 2. It contains English-language questions only, following the Gem Companion Book style with JRE (Justify, Reasoning & Evidence) questions and direct comprehension questions. No Arabic question text. No The Lost World / Arthur Conan Doyle content.
 
 ---
 
-## القسم الأول: نص القصة والتحليل الأدبي — ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis
+## Goals and Objectives
 
-يقدم هذا القسم نصاً مقتطفاً من القصة الأدبية القصة الأدبية: العجوز والبحر (الفصل ٦ + التحليل الكامل) للطلبة في الثانوية العامة (البكالوريا) 1 الترم الثاني. يُعرض المحتوى بشكل تسلسلي من العرض القصصي إلى التحليل الأدبي، وكل مثال وشرح مرتبط **فقط** بوحدة هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) ومادة english لهذا الصف وهذا الترم.
+By the end of this chapter, the student will be able to:
 
-**نص القصة (مقتطف):**
-يستعرض هذا الفصل أحداثاً من قصة القصة الأدبية: العجوز والبحر (الفصل ٦ + التحليل الكامل) ضمن إطار القصة الأدبية: العجوز والبحر (الفصل ٦ + التحليل الكامل). يتعرف الطالب على الشخصيات والأحداث والموضوعات الأدبية من خلال القراءة الموجهة.
+1. Understand Chapter 6 of *The Old Man and the Sea*: the sharks attack the marlin, Santiago's fight to protect his catch, and his return to shore with only the skeleton.
+2. Complete a full analysis of the novel: plot, characters, themes, symbols, and lessons from Chapters 1–6.
+3. Evaluate the ending: Santiago's physical loss vs. moral/spiritual victory.
+4. Answer graded English questions ([Easy] / [Medium] / [Hard]) with Justification, Reasoning, and Evidence (JRE).
+5. Connect the novel's themes to real-life applications for the academic year 2026/2027.
 
-**الشخصيات الرئيسية:** شخصيات القصة الرئيسية تُؤدي دوراً محورياً في تطور الأحداث.
+---
 
-**الأحداث والصراع:** يتمحور الصراع حول تحليل الفصل الأخير من الرواية، عودة سميتيان إلى الشاطئ، التحليل الكامل للشخصيات والموضوعات والدروس المستفادة، أسئلة تقويم القصة وكيفية تعامل الشخصيات مع التحديات.
+## Section 1: Story Text and Literary Analysis — Chapter 6 and Complete Analysis
 
-**الموضوع الأدبي:** يتناول القصة موضوع تحليل الفصل الأخير من الرواية، عودة سميتيان إلى الشاطئ، التحليل الكامل للشخصيات والموضوعات والدروس المستفادة، أسئلة تقويم القصة من منظور أدبي يسهم في تنمية الذوق النقدي للطلبة.
+### Chapter 6 Summary
 
-## القسم الثاني: التطبيقات والتمارين — ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis
+**Chapter 6: The Sharks and the Return**
+After killing the marlin, Santiago ties it to his skiff and begins the journey home. However, sharks smell the blood and attack. Santiago fights the sharks with his harpoon, an oar, and a club, but he loses the fight. The sharks eat the marlin, leaving only the skeleton. Santiago returns to shore exhausted, goes to his shack, and sleeps. The next morning, the fishermen and Manolin gather around the skeleton and marvel at its size. Manolin promises to fish with Santiago again. Santiago dreams of lions on an African beach.
 
-في هذا القسم، يُطبّق الطالب ما تعلمه في القسم الأول على مواقف وحالات عملية من واقع منهج english للصف 1 الترم الثاني. يتم التركيز على التطبيق الحقيقي وليس الحفظ الآلي.
+### Complete Analysis — The Whole Novel (Chapters 1–6)
 
-**الخطوات التطبيقية:**
-1. تحديد المشكلة أو الموقف المرتبط بـ تحليل الفصل الأخير من الرواية، عودة سميتيان إلى الشاطئ، التحليل الكامل للشخصيات والموضوعات والدروس المستفادة، أسئلة تقويم القصة.
-2. اختيار القاعدة أو المهارة المناسبة من محتوى هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) فقط.
-3. تنفيذ التمرين خطوة بخطوة مع الاستعانة بالأمثلة الواردة.
-4. التحقق من الإجابة ومقارنتها بالتوقعات التعليمية للوحدة.
+| Element | Summary |
+|---------|---------|
+| **Plot** | Santiago, an old fisherman with 84 days of bad luck, sails far out, hooks a giant marlin, struggles for two days, kills it, loses it to sharks on the way home, and returns with only the skeleton — yet wins moral victory. |
+| **Santiago** | Old, poor, skilled, proud, determined, respectful of nature. The protagonist. |
+| **Manolin** | Young boy, loyal to Santiago, loves him, brings him food, promises to fish with him again. |
+| **The Marlin** | Giant, noble, beautiful fish — Santiago's worthy opponent and "brother." |
+| **The Sharks** | Destructive force of nature — shovel-nosed sharks that devour the marlin. |
+| **Setting** | Cuban coast, Gulf Stream, Santiago's shack, Havana. |
+| **Conflict** | Man vs. nature (Santiago vs. marlin vs. sharks); man vs. himself (endurance, pain); man vs. bad luck. |
+| **Theme** | Perseverance, dignity, honor in struggle, respect for nature, man's place in the universe. |
+| **Symbolism** | The marlin = noble goal/achievement; sharks = destructive forces; lions = youth and lost strength; the skeleton = what remains after destruction. |
 
-**تمارين تطبيقية مخصصة لهذا الفصل:**
-- تمرين 1: تطبيق مباشر على أول مفهوم من تحليل الفصل الأخير من الرواية، عودة سميتيان إلى الشاطئ، التحليل الكامل للشخصيات والموضوعات والدروس المستفادة، أسئلة تقويم القصة.
-- تمرين 2: تطبيق متوسط الصعوبة يدمج بين مفهومين من هذه الوحدة.
-- تمرين 3: تطبيق صعب يستدعي التفكير النقدي والحل المتعدد الخطوات، جميعها ضمن حدود هذا الفصل فقط.
+### Character Development — Santiago
 
-## بنك الأسئلة المتدرج مع الحلول الشاملة — ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis
+| Beginning | Middle | End |
+|-----------|--------|-----|
+| Old fisherman, 84 days without fish, considered "salao" | Alone at sea fighting the marlin, suffering pain | Returns with skeleton, exhausted but morally victorious; Manolin promises to fish with him |
 
-تحتوي هذه الوسيلة على أسئلة مخصصة **فقط** لهذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis)، مصنفة حسب مستوى الصعوبة، مع إجابة دقيقة وشرح لكل خيار.
+### Literary Symbols
 
-#### [[سهل]] السؤال 1 (النسخة 1)
-Who is the main character in العجوز والبحر (القصة الأدبية: العجوز والبحر (الفصل ٦ + التحليل الكامل))? (المربع 5) — النسخة 1
-   أ) A young tourist (النسخة 1)
-   ب) An old fisherman named Santiago (النسخة 1)
-   ج) A wealthy businessman (النسخة 1)
-   د) A scientist (النسخة 1)
+| Symbol | Meaning |
+|--------|---------|
+| **The Marlin** | The ultimate challenge, nobility, beauty of nature, Santiago's worthy opponent |
+| **The Sharks** | Destructive forces, inevitability of loss, enemies who destroy what is beautiful |
+| **The Lions** | Santiago's youth, strength, lost dreams, peace in dreams |
+| **The Skeleton** | What remains after struggle — proof of achievement despite material loss |
+| **The Sea** | Life itself — beautiful, cruel, generous, and indifferent |
 
-- **الإجابة الصحيحة:** **ب) An old fisherman named Santiago (النسخة 1)**
-- **لماذا صحيحة؟** The protagonist of the story is Santiago, an old Cuban fisherman. (النسخة 1)
-- **لماذا الخيارات الأخرى خاطئة؟** أ) سائح صغير — غير صحيح. ج) رجل أعمال ثري — غير وارد. د) عالم — غير مذكور. (النسخة 1)
-- **الحل خطوة بخطوة:** Step 1: Identify the protagonist from the story. Step 2: Confirm name Santiago. Step 3: Choose option ب. (النسخة 1)
+### Literary Themes — Complete Novel
 
+- **Perseverance:** "A man can be destroyed but not defeated" — Santiago keeps fighting despite pain and loss.
+- **Dignity in struggle:** Santiago maintains his honor whether he catches the fish or not.
+- **Respect for nature:** Santiago loves and respects the marlin, the sea, and even the sharks as parts of nature.
+- **Isolation and connection:** Santiago is alone at sea but connected to Manolin and to nature.
+- **Success vs. failure:** Material failure (losing the fish to sharks) vs. moral success (proving his worth).
 
-#### [[متوسط]] السؤال 2 (النسخة 2)
-What is the central conflict in العجوز والبحر (القصة الأدبية: العجوز والبحر (الفصل ٦ + التحليل الكامل))? (المربع 12) — النسخة 2
-   أ) A cooking competition (النسخة 2)
-   ب) The struggle between the old fisherman and the sea/marlin (النسخة 2)
-   ج) A political election (النسخة 2)
-   د) A school exam (النسخة 2)
+---
 
-- **الإجابة الصحيحة:** **ب) The struggle between the old fisherman and the sea/marlin (النسخة 2)**
-- **لماذا صحيحة؟** The central conflict is Santiago's battle with the marlin and the sea. (النسخة 2)
-- **لماذا الخيارات الأخرى خاطئة؟** أ) مسابقة طبخ — غير واردة. ج) انتخابات سياسية — غير واردة. د) امتحان مدرسة — غير واردة. (النسخة 2)
-- **الحل خطوة بخطوة:** Step 1: Recall the main events. Step 2: Identify the opposing forces. Step 3: Choose the sea/marlin struggle. (النسخة 2)
+## Section 2: Applications and Exercises — Chapter 6 and Complete Analysis
 
+### Application Steps
 
-#### [[صعب]] السؤال 3 (النسخة 3)
-What theme does العجوز والبحر (القصة الأدبية: العجوز والبحر (الفصل ٦ + التحليل الكامل)) mainly explore? (المربع 19) — النسخة 3
-   أ) Only cooking recipes (النسخة 3)
-   ب) Man's struggle against nature, dignity, and perseverance (النسخة 3)
-   ج) Space exploration (النسخة 3)
-   د) Modern technology (النسخة 3)
+1. **Analyze the ending:** Was Santiago's journey a success or a failure?
+2. **Evaluate the symbolism:** What do the marlin, sharks, lions, and skeleton represent?
+3. **Compare beginning and end:** How is Santiago different at the end of the novel compared to the beginning?
+4. **Connect to reality:** How does "a man can be destroyed but not defeated" apply to real life?
 
-- **الإجابة الصحيحة:** **ب) Man's struggle against nature, dignity, and perseverance (النسخة 3)**
-- **لماذا صحيحة؟** The story explores man's struggle against nature, personal dignity, and perseverance. (النسخة 3)
-- **لماذا الخيارات الأخرى خاطئة؟** أ) وصفات طبخ فقط — غير واردة. ج) استكشاف الفضاء — غير وارد. د) تقنية حديثة — غير وارد. (النسخة 3)
-- **الحل خطوة بخطوة:** Step 1: List the events and character actions. Step 2: Infer the underlying message. Step 3: Choose the theme. (النسخة 3)
+### Application Exercises Dedicated to This Chapter
 
+- **Exercise 1:** Write a short paragraph explaining whether Santiago is a hero or not.
+- **Exercise 2:** Describe what the marlin symbolizes in the novel.
+- **Exercise 3:** Discuss the lesson Manolin learns from Santiago and how he will apply it.
 
+---
 
-## ملخص سريع لهذا الفصل فقط (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis)
-يغطي هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) موضوع "تحليل الفصل الأخير من الرواية، عودة سميتيان إلى الشاطئ، التحليل الكامل للشخصيات والموضوعات والدروس المستفادة، أسئلة تقويم القصة" داخل مادة english للصف 1 الترم الثاني في مرحلة الثانوية العامة (البكالوريا). يتميز هذا الفصل بأنه:
-- يدرس وحدة دراسية واحدة فقط (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) بدون تداخل مع فصول أخرى.
-- يحتوي على أمثلة وتمارين وأسئلة خاصة بهذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) فقط.
-- محدث وفقاً للمنهج الدراسي للعام الدراسي 2026/2027 في هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
-- غير منقول من أي ترم آخر (ترم أول مقابل ترم ثاني) أو أي صف آخر، ولا يُخلط مع أي فصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
+## Graded Question Bank with Comprehensive Solutions — ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis
 
-## مراجع ومصادر للاستئزادة (مخصصة لهذه الوحدة ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis)
-- كتاب منهج english للصف 1 — الترم الثاني — الوحدة ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis.
-- مصادر وزارة التربية والتعليم المصرية للعام الدراسي 2026/2027 في هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
-- تدريبات وامتحانات سابقة مختصة بوحدة هذا الفصل (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) فقط.
+This medium contains questions dedicated **only** to this chapter (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis), classified by difficulty level, with accurate answers and explanation for each option.
+
+### [Easy] Question 1 — What happens to the marlin on the way home?
+a) Santiago sells it at the market
+b) Sharks eat it, leaving only the skeleton
+c) Manolin helps Santiago carry it
+d) It swims away alive
+
+**Correct Answer:** **b) Sharks eat it, leaving only the skeleton**
+
+**Why Correct?** In Chapter 6, sharks attack Santiago's skiff and devour the marlin, leaving only its skeleton when Santiago reaches shore.
+
+**Why Other Options Wrong?**
+- a) Santiago does not sell the marlin; it is destroyed by sharks.
+- c) Manolin is not on the boat; he is on shore.
+- d) The marlin is dead and is eaten by sharks; it does not swim away.
+
+**Step-by-Step Solution:**
+Step 1: Recall what happens to the marlin on the return journey.
+Step 2: Identify the result (sharks eat it, skeleton remains).
+Step 3: Choose option b.
+
+---
+
+### [Easy] Question 2 — Who promises to fish with Santiago again at the end?
+a) The other fishermen
+b) Manolin
+c) Santiago's wife
+d) The shark
+
+**Correct Answer:** **b) Manolin**
+
+**Why Correct?** At the end of the novel, Manolin promises Santiago that he will fish with him again, showing his loyalty and love.
+
+**Why Other Options Wrong?**
+- a) The other fishermen admire the skeleton but do not promise to fish with Santiago.
+- c) Santiago's wife is not mentioned in the novel.
+- d) A shark is an animal, not a person who can make promises.
+
+**Step-by-Step Solution:**
+Step 1: Recall who speaks to Santiago at the end of the novel.
+Step 2: Identify the person (Manolin).
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 3 — What does Santiago dream of at the end?
+a) Catching a bigger fish
+b) Lions on an African beach
+c) Winning a lottery
+d) Building a new boat
+
+**Correct Answer:** **b) Lions on an African beach**
+
+**Why Correct?** At the end of the novel, Santiago sleeps and dreams of lions on an African beach, symbolizing his lost youth and strength.
+
+**Why Other Options Wrong?**
+- a) Santiago does not dream of catching a bigger fish; he dreams of lions.
+- c) There is no mention of a lottery.
+- d) Santiago does not dream of building a boat.
+
+**Step-by-Step Solution:**
+Step 1: Recall Santiago's dream at the end of Chapter 6.
+Step 2: Identify the dream content (lions on an African beach).
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 4 — What does the marlin symbolize?
+a) Money and wealth
+b) A noble challenge and the beauty of nature
+c) Santiago's old age
+d) The Cuban government
+
+**Correct Answer:** **b) A noble challenge and the beauty of nature**
+
+**Why Correct?** The marlin represents a worthy opponent, a noble goal, and the beauty of the natural world that Santiago respects.
+
+**Why Other Options Wrong?**
+- a) The marlin is not about money; Santiago is poor and values the struggle itself.
+- c) The marlin is not Santiago's old age; it is a separate creature.
+- d) There is no political symbolism in the novel.
+
+**Step-by-Step Solution:**
+Step 1: Recall what the marlin represents in the novel's symbolism.
+Step 2: Identify the meaning (noble challenge, beauty of nature).
+Step 3: Choose option b.
+
+---
+
+### [Hard] Question 5 — Is Santiago's journey a success or a failure?
+a) Total failure — he lost the fish
+b) Total success — he sold the fish for money
+c) Material failure but moral/spiritual victory — he proved his worth and kept his dignity
+d) Neither — nothing happened
+
+**Correct Answer:** **c) Material failure but moral/spiritual victory — he proved his worth and kept his dignity**
+
+**Why Correct?** Santiago lost the marlin to sharks (material failure), but he proved his strength, courage, and dignity by fighting the marlin and the sharks alone (moral victory).
+
+**Why Other Options Wrong?**
+- a) It is not total failure because Santiago achieved something important morally.
+- b) He did not sell the fish; it was destroyed.
+- d) Something important did happen — Santiago's epic struggle.
+
+**Step-by-Step Solution:**
+Step 1: Recall the ending — Santiago returns with only the skeleton.
+Step 2: Evaluate whether it is success or failure (material failure, moral victory).
+Step 3: Choose option c.
+
+---
+
+### [Hard] Question 6 — What is the meaning of "A man can be destroyed but not defeated"?
+a) Physical destruction is the only real defeat
+b) Even if a man loses everything materially, his spirit cannot be defeated if he keeps his dignity
+c) Men cannot be killed
+d) Defeat does not exist
+
+**Correct Answer:** **b) Even if a man loses everything materially, his spirit cannot be defeated if he keeps his dignity**
+
+**Why Correct?** Santiago lost the marlin (material destruction) but kept his dignity and proved his worth (not defeated spiritually).
+
+**Why Other Options Wrong?**
+- a) The quote says destruction is possible; defeat is not inevitable.
+- c) The quote is about spirit, not immortality.
+- d) Defeat exists, but it is not inevitable if one keeps dignity.
+
+**Step-by-Step Solution:**
+Step 1: Recall the famous quote from the novel.
+Step 2: Interpret its meaning (material loss ≠ spiritual defeat).
+Step 3: Choose option b.
+
+---
+
+### [JRE] Question 7 — Justify, Reasoning & Evidence — Is Santiago a hero?
+
+**Justify:** Yes, Santiago is a hero because he shows extraordinary courage, endurance, and dignity in the face of overwhelming odds.
+
+**Reasoning:** A hero does not always win in a material sense, but a hero fights with honor and never gives up. Santiago fought the marlin for two days and fought the sharks to protect his catch.
+
+**Evidence:** Santiago sailed alone far out to sea, fought a giant marlin for two days despite pain, fought sharks with a club and oar, and returned with his head high despite having only a skeleton.
+
+**Step-by-Step Solution:**
+Step 1: Recall Santiago's actions throughout the novel.
+Step 2: Identify whether he fits the definition of a hero (yes).
+Step 3: Provide reasoning (hero = courage + endurance + dignity, not just material victory).
+Step 4: Cite evidence (fighting marlin for two days; fighting sharks; returning with dignity).
+
+---
+
+### [JRE] Question 8 — Justify, Reasoning & Evidence — Is the ending sad or hopeful?
+
+**Justify:** The ending is both sad and hopeful. It is sad because Santiago lost the marlin to sharks, but hopeful because Manolin promises to fish with him again and Santiago dreams of lions.
+
+**Reasoning:** The loss of the marlin represents material failure and the inevitability of loss. However, Manolin's loyalty and Santiago's dreams represent hope, continuity, and the passing of wisdom to the next generation.
+
+**Evidence:** Santiago returns with only a skeleton (sad), but Manolin brings him coffee and promises to fish with him (hopeful), and Santiago dreams of lions (hopeful).
+
+**Step-by-Step Solution:**
+Step 1: Recall the ending events and Santiago's dream.
+Step 2: Identify whether the ending is sad, hopeful, or both (both).
+Step 3: Provide reasoning (material loss vs. spiritual hope).
+Step 4: Cite evidence (skeleton; Manolin's promise; dream of lions).
+
+---
+
+## Quick Summary for This Chapter Only (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis)
+
+This chapter (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) covers Chapter 6 of *The Old Man and the Sea* plus a complete analysis of the whole novel. It features:
+
+- Studies one academic unit only (Chapter 6 and complete analysis) without overlap with other chapters.
+- Shows the sharks attacking the marlin, Santiago's return with the skeleton, and Manolin's promise.
+- Shows complete novel analysis: plot, characters, themes, symbols, and complete character arc of Santiago.
+- Focuses on themes of destruction vs. defeat, perseverance, dignity, respect for nature, and hope.
+- Includes a symbolism table (marlin, sharks, lions, skeleton, sea).
+- Updated according to the 2026/2027 academic year curriculum in this chapter (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
+- Not transferred from any other term (Term 1 vs Term 2) or any other grade, and not mixed with any chapter (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
+- No The Lost World / Arthur Conan Doyle content. English questions only.
+
+## References and Sources (Dedicated to this unit ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis)
+
+- English curriculum book for Grade 1 — Term 2 — unit *The Old Man and the Sea* (Chapter 6 and complete analysis).
+- Novel *The Old Man and the Sea* by Ernest Hemingway (published 1952).
+- Egyptian Ministry of Education sources for the academic year 2026/2027 in this chapter (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis).
+- Past exercises and exams dedicated to this unit (ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis) only.
 
 ---
 
 **End of chapter ch05-the-old-man-and-the-sea-chapter-6-and-complete-analysis — english — grade-1 — term-2 — الثانوية العامة (البكالوريا)**
-

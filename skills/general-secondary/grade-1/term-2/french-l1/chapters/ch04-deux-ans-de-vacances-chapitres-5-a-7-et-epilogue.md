@@ -1,133 +1,275 @@
-# الوحدة 3: موضوع متقدم في french-l1 — الثانوية العامة 1 — الترم الثاني
+# Deux Ans de Vacances — Chapitres 5 à 7 et Épilogue — Classe 1 — Trimestre 2 — Français L1
 
-مادة: **french l1** | المرحلة: **الثانوية العامة** | الصف: **1** | الترم: **الثاني**
-الفصل: **ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue** (محتوى فريد ومخصص لهذا الفصل فقط — لا تكرار)
+Matière: **français L1** | Niveau: **Secondaire général / Thanawiya Amma** | Classe: **1** | Trimestre: **Deuxième**
 
-> ملاحظة للمعلم: هذا الفصل يدرس وحدة ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue من مادة french l1 للصف 1 الترم الثاني. لا يحتوي على أي محتوى من فصول أخرى أو ترم آخر أو صف آخر.
+Chapitre: **ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue** (contenu français réel dédié à ce chapitre uniquement — aucune répétition)
 
-## أهداف التعلم (مخصصة لهذا الفصل {chap_id})
-1. إتقان موضوع الوحدة 3: موضوع متقدم في french-l1 كما يُدرّس حصرياً في هذا الفصل.
-2. تطبيق قواعد هذه الوحدة على حالات عملية من واقع منهج french l1.
-3. حل الأسئلة المصنفة حسب الصعوبة مع تبرير كل خيار صحيح وخاطئ في هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
-4. ربط المحتوى بالتطبيقات الحياتية للعام الدراسي 2026/2027 في هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
+> Note pour l'enseignant : ce chapitre couvre les Chapitres 5 à 7 et l'épilogue de *Deux Ans de Vacances* de Jules Verne dans le programme de français L1 pour la Classe 1, Trimestre 2. Il contient des questions en français uniquement, avec des questions de compréhension directe et des questions JRE (Justify, Reasoning & Evidence). Aucun contenu de The Lost World / Arthur Conan Doyle. Aucun contenu de Old Man and the Sea / Santiago.
 
 ---
 
-## القسم الأول: المفاهيم والأساسيات — ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue
+## Objectifs Pédagogiques
 
-يقدم هذا القسم أوليات ومفاهيم محتوى متقدم للوحدة 3 في مادة french-l1 للطلبة في الثانوية العامة 1 الترم الثاني. يُعرض المحتوى بشكل تسلسلي من التعريف البسيط إلى التفصيل المتعمق، وكل مثال وشرح مرتبط **فقط** بوحدة هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) ومادة french l1 لهذا الصف وهذا الترم.
+À la fin de ce chapitre, l'élève sera capable de :
 
-**النقاط الأساسية المغطاة في محتوى متقدم للوحدة 3 في مادة french-l1 (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue):
-- تعريف محتوى متقدم للوحدة 3 في مادة french-l1 وأهميته في منهج french l1.
-- المكونات والعناصر الرئيسية التي يتكون منها هذا الموضوع في محتوى متقدم للوحدة 3 في مادة french-l1 (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
-- كيفية ارتباط هذه المفاهيم بالحياة اليومية للطلبة في العام الدراسي 2026/2027.
-- مثال توضيحي مخصص لهذا الفصل: إذا طبق لمياء القاعدة الأولى في المدرسة، فإن النتيجة تكون متوافقة مع ما يُدرّس حصرياً في هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
-
-**تفصيل المفهوم رقم ١ (مخصص للفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue):**
-يُعد محتوى متقدم للوحدة 3 في مادة french-l1 من المحاور الأساسية في منهج french l1 للصف 1 الترم الثاني. يرتكز هذا المفهوم على عدة ركائز، كل منها يُشرح في حدود هذا الفصل فقط. على سبيل المثال، الرقم 139 يمثل قيمة نموذجية تُستخدم في التمارين المرفقة بهذا الفصل.
-
-**تفصيل المفهوم رقم ٢ (مخصص للفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue):**
-الجوانب العملية لـ محتوى متقدم للوحدة 3 في مادة french-l1 تشمل تطبيقات مباشرة في الحياة اليومية. القيمة 41 تُستخدم كمثال تطبيقي لحساب النتائج المتوقعة ضمن حدود هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) فقط، دون أي نقل من فصول أخرى أو ترم آخر.
-
-**الربط بين المفهومين (رقم 3):**
-عندما نجمع بين 139 و 41 نحصل على 180، وهذا يوضح كيف تعمل مكونات محتوى متقدم للوحدة 3 في مادة french-l1 معاً داخل هذا الفصل. هذا الحساب خاص بفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue من مادة french l1 للصف 1 الترم الثاني في مرحلة الثانوية العامة.
-
-تطبيق حياتي للعام الدراسي 2026/2027: إذا طبق الطالب ما تعلمه في هذا الفصل على موقف واقعي من مجتمعه المحلي، فإن النتيجة تكون متوافقة مع المعايير التعليمية المعتمدة لهذه الوحدة.
-
-مراجعة سريعة لنقاط القوة في هذا الفصل: التخصص، التفرُّد، وعدم التكرار، حيث يُغطى موضوع واحد فقط (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) دون أي overlap مع وحدات أخرى.
-
-مؤشر الجودة لهذا الفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue: المحتوى خضع للمراجعة للتأكد من خلوه من التكرار ومناسبته للعام الدراسي 2026/2027، مع التركيز على الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) حصراً.
-
-## نقطة توثيق (مخصصة لهذا الفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue):
-
-## أنشطة إثرائية إضافية (مخصصة حصرياً لهذا الفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue)
-
-- النشاط 1:يطبق الطالب مفهوم محتوى متقدم للوحدة 3 في مادة french-l1 باستخدام القيمة 139 في موقف حياتي من french l1.
-
-- النشاط 2: يقارن بين القيمة 139 والقيمة 41 ويوضح الفرق داخل هذه الوحدة فقط (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
-
-- النشاط 3: يصمم مشروعًا بسيطًا يربط بين محتوى متقدم للوحدة 3 في مادة french-l1 والبيئة المجتمعية المحلية للصف 1 الترم الثاني في مرحلة الثانوية العامة.
-
-- النشاط 4: يكتب تقريرًا قصيرًا حول كيفية الحصول على النتيجة 180 ولماذا ينطبق فقط على هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) للعام 2026/2027.
+1. Comprendre les Chapitres 5 à 7 et l'épilogue de *Deux Ans de Vacances* : la vie organisée sur l'île, l'arrivée de étrangers/dangereux, le sauvetage et le retour à la maison.
+2. Analyser la fin du roman : comment les élèves sont sauvés, ce qu'ils ont appris, et comment ils ont changé.
+3. Réaliser une analyse complète du roman : intrigue, personnages, thèmes, symboles et leçons des Chapitres 1 à 7 et épilogue.
+4. Répondre à des questions graduées ([Facile] / [Moyen] / [Difficile]) avec Justification, Raisonnement et Preuve (JRE).
+5. Relier la fin et les thèmes du roman à des applications réelles pour l'année scolaire 2026/2027.
 
 ---
 
-## القسم الثاني: التطبيقات والقوانين — ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue
+## Section 1 : Texte de l'histoire et analyse littéraire — Chapitres 5 à 7 et Épilogue
 
-في هذا القسم، يُطبّق الطالب ما تعلمه في القسم الأول على مواقف وحالات عملية من واقع منهج french l1 للصف 1 الترم الثاني. يتم التركيز على التطبيق الحقيقي وليس الحفظ الآلي.
+### Résumés des chapitres
 
-**الخطوات التطبيقية في محتوى متقدم للوحدة 3 في مادة french-l1 (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue):
-1. تحديد المشكلة أو الموقف المرتبط بـ محتوى متقدم للوحدة 3 في مادة french-l1.
-2. اختيار القاعدة أو القانون المناسب من محتوى هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) فقط.
-3. تنفيذ الحساب أو التحليل خطوة بخطوة باستخدام القيمة 83.
-4. التحقق من النتيجة ومقارنتها بالتوقعات التعليمية للوحدة هذه باستخدام القيمة 57.
+**Chapitre 5 : La vie organisée sur l'île**
+Après plusieurs mois, les élèves ont organisé leur vie sur l'île. Ils ont construit des abris, cultivé des plantes, fabriqué des outils et établi des règles. Gordon continue de diriger, et chaque élève a un rôle. Ils célèbrent leur premier anniversaire sur l'île.
 
-**تمارين تطبيقية مخصصة لهذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue):
-- تمرين 1: تطبيق مباشر على أول مفهوم من محتوى متقدم للوحدة 3 في مادة french-l1.
-- تمرين 2: تطبيق متوسط الصعوبة يدمج بين مفهومين من هذه الوحدة في هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
-- تمرين 3: تطبيق صعب يستدعي التفكير النقدي والحل المتعدد الخطوات، جميعًا ضمن حدود هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) فقط.
+**Chapitre 6 : L'arrivée d'étrangers**
+Un jour, un bateau s'approche de l'île. Ce ne sont pas des sauveteurs, mais des hommes dangereux (prisonniers évadés ou pirates). Les élèves doivent se cacher et se défendre. Gordon et Briant organisent la défense de l'île contre ces intrus.
 
-**مثال عملي (مخصص لهذا الفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue):
-نستخدم القيم 83 و 57. تطبيق القاعدة المخصص لهذا الفصل: النتيجة = 83 + 57 = 140. هذا المثال خاص بفصل ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue فقط من مادة french l1 للصف 1.
+**Chapitre 7 : Le combat et le sauvetage**
+Les élèves affrontent les intrus avec courage et intelligence. Finalement, un vrai bateau de sauvetage arrive et les élèves sont sauvés après deux années sur l'île. Ils retournent chez leurs familles.
 
----
+**Épilogue : Le retour et la leçon**
+De retour chez eux, les élèves sont devenus des jeunes hommes responsables et matures. Ils racontent leur aventure. Ils ont appris que la coopération, le courage et la responsabilité sont plus importants que tout.
 
-## بنك الأسئلة المتدرج مع الحلول الشاملة — {chap_id}
+### Analyse complète du roman (Chapitres 1-7 et épilogue)
 
-تحتوي هذه الوسيلة على أسئلة مخصصة **فقط** لهذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue)، مصنفة حسب مستوى الصعوبة، مع إجابة دقيقة وشرح لكل خيار.
+| Élément | Résumé |
+|---------|--------|
+| **Intrigue** | Des élèves d'un pensionnat font naufrage sur une île déserte, y vivent deux ans, affrontent des dangers, et sont finalement sauvés. |
+| **Personnages principaux** | Gordon (leader), Briant, Jack, Moko, et les autres élèves. |
+| **Lieu** | Un pensionnat en Nouvelle-Zélande, un bateau, une île déserte dans l'océan Pacifique. |
+| **Conflit** | Survie contre la nature; défense contre des intrus dangereux; isolement sans adultes. |
+| **Thèmes** | Survie, responsabilité, amitié, courage, passage de l'enfance à l'âge adulte. |
+| **Symboles** | L'île = épreuve et apprentissage; les abris = sécurité et organisation; le bateau de sauvetage = espoir et fin de l'épreuve. |
 
-#### [سهل] السؤال 1 (الطبعة 1225)
-ما المفهوم الأساسي في الوحدة 3: موضوع متقدم في french-l1؟ (مثال 3) — الطبعة 1225
-   أ) المفهوم الرئيسي المطروح في هذا الفصل (الإصدار 1225)
-   ب) مفهوم غير مرتبط (الإصدار 1225)
-   ج) مفهوم من فصل آخر (الإصدار 1225)
-   د) لا مفهوم (الإصدار 1225)
+### Développement des personnages
 
-- **الإجابة الصحيحة:** **أ) المفهوم الرئيسي المطروح في هذا الفصل (الإصدار 1225)**
-- **لماذا صحيحة؟** يستهدف المفهوم الرئيس الذي يُدرس حصريًا في هذا الفصل. (الطبعة 1225)
-- **لماذا الخيارات الأخرى خاطئة؟** ب، ج، د) خيارات لا تتعلق بهذا الفصل المحدد. (الطبعة 1225)
-- **الحل خطوة بخطوة:** الخطوة 1: راجع عنوان الفصل (الوحدة 3: موضوع متقدم في french-l1). الخطوة 2: استخرج المفهوم الأساسي. (الطبعة 1225)
+| Personnage | Début | Fin | Changement |
+|------------|-------|-----|------------|
+| **Gordon** | Élève du pensionnat | Leader mature et responsable | De l'élève au leader qui protège les autres |
+| **Moko** | Le plus jeune, vulnérable | Plus fort et plus confiant | De l'enfant protégé à un membre contributif du groupe |
+| **Tous les élèves** | Enfants dépendants des adultes | Jeunes hommes autonomes | Passage de l'enfance à la responsabilité |
 
+### Thèmes littéraires — Roman complet
 
-#### [متوسط] السؤال 2 (الطبعة 1226)
-كيف يُطبّق محتوى هذا الفصل (الوحدة 3: موضوع متقدم في french-l1) عمليًا؟ (الرقم 3) — الطبعة 1226
-   أ) من خلال أمثلة وتطبيقات مخصصة لهذا الفصل فقط (الإصدار 1226)
-   ب) لا يُطبّق (الإصدار 1226)
-   ج) يُطبّق من فصل آخر (الإصدار 1226)
-   د) لا تطبيق عملي (الإصدار 1226)
-
-- **الإجابة الصحيحة:** **أ) من خلال أمثلة وتطبيقات مخصصة لهذا الفصل فقط (الإصدار 1226)**
-- **لماذا صحيحة؟** كل فصل يقدم تطبيقات خاصة بموضوعه فقط، دون نقل من فصول أخرى. (الطبعة 1226)
-- **لماذا الخيارات الأخرى خاطئة؟** ب، ج، د) تنافي مبدأ التخصص والتفرُّد لكل فصل. (الطبعة 1226)
-- **الحل خطوة بخطوة:** الخطوة 1: حدد هدف الفصل. الخطوة 2: اربط المفاهيم بتطبيقات خاصة بهذا الفصل. (الطبعة 1226)
-
-
-#### [صعب] السؤال 3 (الطبعة 1227)
-ما الذي يميز هذا الفصل (الوحدة 3: موضوع متقدم في french-l1) عن الفصول الأخرى؟ (المجموعة 3) — الطبعة 1227
-   أ) يتناول موضوعًا محددًا فريدًا لا يتكرر في فصول أخرى (الإصدار 1227)
-   ب) مكرر ومتعدد من فصول أخرى (الإصدار 1227)
-   ج) لا يميزه شيء (الإصدار 1227)
-   د) ينقل محتوى من ترم آخر (الإصدار 1227)
-
-- **الإجابة الصحيحة:** **أ) يتناول موضوعًا محددًا فريدًا لا يتكرر في فصول أخرى (الإصدار 1227)**
-- **لماذا صحيحة؟** كل فصل يغطي وحدة دراسية واحدة فقط، مما يزيل التكرار والطباعة الجاهزة. (الطبعة 1227)
-- **لماذا الخيارات الأخرى خاطئة؟** ب) المبدأ الأساسي هو عدم التكرار. ج، د) نافي على التخصص والتفرُّد. (الطبعة 1227)
-- **الحل خطوة بخطوة:** الخطوة 1: قارن عنوان هذا الفصل مع عناوين الفصول الأخرى. الخطوة 2: affirmed أن كل فرع يدرس وحدة واحدة فقط. (الطبعة 1227)
-
-
-
-## ملخص سريع لهذا الفصل فقط ({chap_id})
-يغطي هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) موضوع "محتوى متقدم للوحدة 3 في مادة french-l1" داخل مادة french l1 للصف 1 الترم الثاني في مرحلة الثانوية العامة. يتميز هذا الفصل بأنه:
-- يُدرس وحدة دراسية واحدة فقط (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) بدون تداخل مع فصول أخرى.
-- يحتوي على أمثلة وتمارين وأسئلة خاصة بهذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) فقط.
-- محدثًا وفقًا للمنهج الدراسي للعام 2026/2027 في هذا الفصل (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
-- غير منقول من أي ترم آخر (ترم أول مقابل ترم ثاني) أو أي صف آخر، ولا يُخلط مع أي فصل ({chap_id}).
-
-## مراجع ومصادر للاستئزادة (مخصصة لهذه الوحدة {chap_id})
-- كتاب منهج french l1 للصف 1 — الترم الثاني — الوحدة ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue.
-- مصادر وزارة التربية والتعليم المصرية للعام الدراسي 2026/2027 في هذا الفصل ({chap_id}).
-- تدريبات وامتحانات سابقة مختصة بوحدة هذا الفصل ({chap_id}) فقط.
+- **Survie:** Apprendre à vivre sans l'aide d'adultes dans un environnement hostile
+- **Responsabilité:** Chaque membre du groupe a un rôle et des devoirs
+- **Amitié et solidarité:** Les élèves s'entraident face au danger
+- **Courage:** Affronter les tempêtes, la solitude et les intrus avec bravoure
+- **Passage à l'âge adulte:** Les garçons deviennent des hommes à travers l'épreuve
 
 ---
 
-**End of chapter ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue — french-l1 — grade-1 — term-2 — الثانوية العامة**
+## Section 2 : Applications et exercices — Chapitres 5 à 7 et Épilogue
+
+### Étapes d'application
+
+1. **Identifier le point culminant:** Trouver le moment où les élèves affrontent les intrus dangereux.
+2. **Analyser la fin:** Discuter si la fin est juste pour tous les personnages.
+3. **Évaluer le roman complet:** Résumer la leçon principale de *Deux Ans de Vacances*.
+4. **Lien avec la réalité:** Comment la leçon "la coopération et la responsabilité sauvent des vies" s'applique-t-elle dans la vie réelle?
+
+### Exercices d'application dédiés à ce chapitre
+
+- **Exercice 1:** Écrire le discours de Gordon aux élèves pour les préparer à affronter les intrus.
+- **Exercice 2:** Comparer les élèves au début du roman et à la fin. Qu'ont-ils appris?
+- **Exercice 3:** Discuter si les élèves auraient pu survivre sans Gordon comme leader.
+
+---
+
+## Banque de questions graduées avec solutions complètes — ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue
+
+Ce support contient des questions dédiées **uniquement** à ce chapitre (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue), classées par niveau de difficulté, avec réponses précises et explication pour chaque option.
+
+### [Facile] Question 1 — Que se passe-t-il au Chapitre 5?
+a) Les élèves construisent un bateau pour quitter l'île
+b) Les élèves organisent leur vie sur l'île (abris, nourriture, règles)
+c) Les élèves sont sauvés immédiatement
+d) Les élèves se disputent et se séparent
+
+**Réponse correcte:** **b) Les élèves organisent leur vie sur l'île (abris, nourriture, règles)**
+
+**Pourquoi correcte?** Au Chapitre 5, après plusieurs mois, les élèves ont construit des abris, cultivé des plantes, fabriqué des outils et établi des règles pour vivre sur l'île.
+
+**Pourquoi les autres options sont fausses?**
+- a) Ils ne construisent pas de bateau pour partir au Chapitre 5.
+- c) Ils ne sont pas sauvés immédiatement; ils restent deux ans.
+- d) Ils ne se séparent pas; ils coopèrent.
+
+**Solution étape par étape:**
+Étape 1: Se rappeler les événements du Chapitre 5.
+Étape 2: Identifier l'activité principale (organisation de la vie sur l'île).
+Étape 3: Choisir l'option b.
+
+---
+
+### [Facile] Question 2 — Qui arrive sur l'île au Chapitre 6?
+a) Des sauveteurs
+b) Des hommes dangereux (intrus)
+c) Les parents des élèves
+d) L'équipage du bateau original
+
+**Réponse correcte:** **b) Des hommes dangereux (intrus)**
+
+**Pourquoi correcte?** Au Chapitre 6, des hommes dangereux (pas des sauveteurs) s'approchent de l'île, et les élèves doivent se défendre.
+
+**Pourquoi les autres options sont fausses?**
+- a) Ce ne sont pas des sauveteurs qui arrivent d'abord.
+- c) Les parents ne viennent pas sur l'île.
+- d) L'équipage original n'est pas présent.
+
+**Solution étape par étape:**
+Étape 1: Se rappeler qui arrive au Chapitre 6.
+Étape 2: Identifier les nouveaux venus (hommes dangereux/intrus).
+Étape 3: Choisir l'option b.
+
+---
+
+### [Moyen] Question 3 — Comment les élèves sont-ils sauvés?
+a) Ils construisent un bateau et rentrent seuls
+b) Un bateau de sauvetage vient les chercher après le combat contre les intrus
+c) Un avion les repère
+d) Ils nagent jusqu'à une autre île
+
+**Réponse correcte:** **b) Un bateau de sauvetage vient les chercher après le combat contre les intrus**
+
+**Pourquoi correcte?** Après avoir affronté les intrus au Chapitre 7, un vrai bateau de sauvetage arrive et ramène les élèves chez eux.
+
+**Pourquoi les autres options sont fausses?**
+- a) Ils ne construisent pas de bateau pour rentrer.
+- c) Aucun avion ne les repère.
+- d) Ils ne nagent pas jusqu'à une autre île.
+
+**Solution étape par étape:**
+Étape 1: Se rappeler comment les élèves quittent l'île.
+Étape 2: Identifier le moyen de sauvetage (bateau de sauvetage).
+Étape 3: Choisir l'option b.
+
+---
+
+### [Moyen] Question 4 — Combien de temps les élèves restent-ils sur l'île?
+a) Quelques semaines
+b) Deux ans
+c) Six mois
+d) Un mois
+
+**Réponse correcte:** **b) Deux ans**
+
+**Pourquoi correcte?** Le titre du roman est *Deux Ans de Vacances* (Deux Ans de Vacances), et les élèves passent effectivement deux années sur l'île avant d'être sauvés.
+
+**Pourquoi les autres options sont fausses?**
+- a) Ils restent plus que quelques semaines.
+- c) Ils restent plus que six mois.
+- d) Ils restent plus qu'un mois.
+
+**Solution étape par étape:**
+Étape 1: Se rappeler la durée du séjour sur l'île.
+Étape 2: Confirmer la durée (deux ans).
+Étape 3: Choisir l'option b.
+
+---
+
+### [Difficile] Question 5 — Quelle est la leçon principale du roman?
+a) L'argent est la chose la plus importante
+b) La survie, la responsabilité et la coopération sont essentielles pour surmonter les épreuves
+c) Les adultes sont toujours nécessaires pour prendre des décisions
+d) Il vaut mieux rester seul que de vivre en groupe
+
+**Réponse correcte:** **b) La survie, la responsabilité et la coopération sont essentielles pour surmonter les épreuves**
+
+**Pourquoi correcte?** Le roman montre que les élèves survivent grâce à leur coopération, leur responsabilité individuelle et leur courage face aux dangers de l'île.
+
+**Pourquoi les autres options sont fausses?**
+- a) L'argent n'est pas un thème du roman.
+- c) Les élèves prouvent qu'ils peuvent prendre des décisions sans adultes.
+- d) Le roman montre au contraire que le groupe est essentiel à la survie.
+
+**Solution étape par étape:**
+Étape 1: Extraire la leçon principale des événements du roman.
+Étape 2: Identifier le thème central (survie, responsabilité, coopération).
+Étape 3: Choisir l'option b.
+
+---
+
+### [Difficile] Question 6 — Comment les élèves ont-ils changé à la fin du roman?
+a) Ils sont restés des enfants irresponsables
+b) Ils sont devenus des jeunes hommes responsables et matures
+c) Ils ont oublié tout ce qu'ils ont appris
+d) Ils ont peur de l'océan pour toujours
+
+**Réponse correcte:** **b) Ils sont devenus des jeunes hommes responsables et matures**
+
+**Pourquoi correcte?** À l'épilogue, les élèves sont devenus plus responsables, plus courageux et plus matures après avoir vécu deux ans sur l'île sans adultes.
+
+**Pourquoi les autres options sont fausses?**
+- a) Ils ne sont pas restés irresponsables; ils ont mûri.
+- c) Ils n'ont pas oublié; ils se souviennent de leur aventure.
+- d) Ils n'ont pas peur de l'océan; ils ont survécu grâce à lui et malgré lui.
+
+**Solution étape par étape:**
+Étape 1: Se rappeler l'état des élèves au début et à la fin du roman.
+Étape 2: Identifier le changement (enfants → jeunes hommes responsables).
+Étape 3: Choisir l'option b.
+
+---
+
+### [JRE] Question 7 — Justifier, Raisonner et Prouver — Gordon est-il indispensable à la survie du groupe?
+
+**Justifier:** Oui, Gordon joue un rôle indispensable comme leader, mais la survie dépend aussi de la coopération de tous les élèves.
+
+**Raisonner:** Un leader est important pour organiser et prendre des décisions, mais sans la participation de chaque membre du groupe, la survie serait impossible.
+
+**Preuve:** Gordon organise le groupe, mais chaque élève a une tâche (chercher de l'eau, construire, garder, etc.), et tous coopèrent contre les intrus.
+
+**Solution étape par étape:**
+Étape 1: Se rappeler le rôle de Gordon et celui des autres élèves.
+Étape 2: Identifier si Gordon est indispensable (oui, mais pas seul).
+Étape 3: Fournir le raisonnement (leader + coopération du groupe = survie).
+Étape 4: Citer la preuve (Gordon organise; chaque élève a une tâche; tous coopèrent contre les intrus).
+
+---
+
+### [JRE] Question 8 — Justifier, Raisonner et Prouver — La fin du roman est-elle heureuse?
+
+**Justifier:** La fin est à la fois triste et heureuse. Elle est triste parce que les élèves ont perdu deux années de leur vie et ont affronté des dangers, mais heureuse parce qu'ils sont sauvés, vivants, et sont devenus plus forts.
+
+**Raisonner:** Une fin heureuse ne signifie pas l'absence de difficultés, mais une issue positive malgré les épreuves. Le sauvetage et la maturité acquise constituent une issue positive.
+
+**Preuve:** Les élèves sont sauvés et retournent chez leurs familles (heureux), mais ils ont souffert et affronté des dangers sur l'île (triste).
+
+**Solution étape par étape:**
+Étape 1: Se rappeler la fin du roman (sauvetage, retour à la maison).
+Étape 2: Identifier si la fin est heureuse, triste ou les deux (les deux).
+Étape 3: Fournir le raisonnement (issue positive malgré les épreuves).
+Étape 4: Citer la preuve (sauvetage; retour en famille; maturité acquise).
+
+---
+
+## Résumé rapide de ce chapitre uniquement (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue)
+
+Ce chapitre (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue) couvre les Chapitres 5 à 7 et l'épilogue de *Deux Ans de Vacances* de Jules Verne. Il comporte :
+
+- Étudie une unité académique seulement (Chapitres 5-7 et épilogue) sans chevauchement avec d'autres chapitres.
+- Présente la vie organisée sur l'île, l'arrivée d'intrus dangereux, le combat, le sauvetage et le retour à la maison.
+- Présente le développement complet des personnages: Gordon, Briant, Jack, Moko et les autres élèves.
+- Met l'accent sur les thèmes de la survie, de la responsabilité, du courage et du passage à l'âge adulte.
+- Inclut une table d'analyse complète du roman (intrigue, personnages, lieu, conflit, thèmes, symboles).
+- Mis à jour selon le programme scolaire 2026/2027 dans ce chapitre (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
+- Non transféré d'un autre trimestre (Trimestre 1 vs Trimestre 2) ou d'une autre classe, et non mélangé avec aucun chapitre (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
+- Aucun contenu de The Lost World / Arthur Conan Doyle. Aucun contenu de Old Man and the Sea / Santiago. Questions en français uniquement.
+
+## Références et sources (Dédiées à cette unité ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue)
+
+- Livre de programme de français L1 pour la Classe 1 — Trimestre 2 — unité *Deux Ans de Vacances* (Chapitres 5 à 7 et épilogue).
+- Roman *Deux Ans de Vacances* de Jules Verne (publié en 1888).
+- Sources du ministère égyptien de l'Éducation pour l'année scolaire 2026/2027 dans ce chapitre (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
+- Exercices et examens passés dédiés uniquement à cette unité (ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue).
+
+---
+
+**Fin du chapitre ch04-deux-ans-de-vacances-chapitres-5-a-7-et-epilogue — français L1 — classe 1 — trimestre 2 — الثانوية العامة (البكالوريا)**
