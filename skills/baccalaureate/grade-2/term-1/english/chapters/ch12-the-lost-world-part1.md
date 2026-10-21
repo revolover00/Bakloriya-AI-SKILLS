@@ -4,182 +4,246 @@
 
 الفصل: **ch12-the-lost-world-part1** (محتوى إنجليزي فعلي ومخصص لهذا الفصل فقط — لا تكرار)
 
-> **ملاحظة للمعلم:** هذا الفصل يدرس الفصول 1 إلى 5 من رواية *The Lost World* (العالم المفقود) للكاتب Arthur Conan Doyle ضمن منهج اللغة الإنجليزية للصف 2 بكالوريا الترم الأول. لا يحتوي على أي محتوى من فصول أخرى أو ترم آخر أو صف آخر.
+> **ملاحظة للمعلم:** هذا الفصل يدرس الفصول 1 إلى 5 من رواية *The Lost World* للكاتب Arthur Conan Doyle ضمن منهج اللغة الإنجليزية للصف 2 بكالوريا الترم الأول. الأسئلة والتدريبات وفقًا لأسلوب ملحق كتاب جيم (Gem Companion Book) مع أسئلة JRE (Justify, Reasoning & Evidence) وأسئلة الفهم المباشر بالإنجليزية.
 
 ---
 
-## أهداف التعلم (مخصصة لهذا الفصل ch12-the-lost-world-part1)
+## Goals and Objectives (الأهداف التعليمية)
 
-1. إتقان أحداث الفصول 1 إلى 5 من رواية *The Lost World*: حلم إدوارد مالون بالمغامرة، سر البروفيسور تشالنجر، اختيار البعثة، الدخول إلى العالم المفقود، والصراعات الأولى مع الديناصورات.
-2. التعرف على الشخصيات الرئيسية: إدوارد مالون (الراوي والصحفي)، البروفيسور تشالنجر، البروفيسور سومرلي، ولورد جون روكستون.
-3. تحليل العناصر الأدبية: المكان (لندن، نهر الأمازون، الهضبة المفقودة)، الوقت (بداية القرن العشرين)، والصراع بين العلم والتشكيك.
-4. حل الأسئلة المصنفة حسب الصعوبة (سهل، متوسط، صعب) مع تبرير كل إجابة صحيحة وخيارات الخطأ.
-5. ربط أحداث القصة بالتطبيقات الحياتية للعام الدراسي 2026/2027.
+By the end of this chapter, the student will be able to:
 
----
-
-## القسم الأول: نص القصة والتحليل الأدبي — الفصول 1 إلى 5
-
-### ملخص الفصول
-
-**الفصل 1: حلم المغامرة (A Dream of Adventure)**
-يبدأ故事 بإدوارد مالون ("نيد")، صحفي شاب يعمل في جريدة *Daily Gazette*. يحب مالون فتاة名は غلادس هنغرتون، لكنها ترفضه لأنها تبحث عن رجل بطل وشجاع. يُكلف مالون بمقابلة البروفيسور تشالنجر، عالم عاد من أمريكا الجنوبية بقصص مثيرة عن كائنات ما قبل التاريخ، لكن المجتمع العلمي يتهمه بالاحتيال.
-
-**الفصل 2: سر البروفيسور تشالنجر (Professor Challenger's Secret)**
-يذهب مالون لمقابلة تشالنجر في منزله. تشالنجر شخص عنيد ومتقلب المزاج، لكنه يقدم لمالون أدلة على مغامرته السابقة في أمريكا الجنوبية: رسومات من دفتر ملاحظات مستكشف أمريكي اسمه مابل واييت مات في المنطقة، الرسومات تصور كائنات ما قبل التاريخ بما في ذلك الديناصورات. كما يقدم قطعًا من العظام وصورًا للهضبة التي قال إن هذه الكائنات تعيش عليها.
-
-**الفصل 3: اختيار البعثة (The Expedition Is Chosen)**
-تُعقد جلسة في المعهد الحيواني حيث يلقي البروفيسور سومرلي محاضرة عن التطور ويclaim أن الديناصورات انقرضت قبل ظهور البشر. يقاطع تشالنجر المحاضرة صرخًا "سؤال!" (Question!) وينشب نقاش حاد بينهما. بعد ذلك، يقرر تشالنجر تنظيم بعثة جديدة لإحضار أدلة ملموسة، ويوافق مالون على الانضمام كمراسل صحفي.
-
-**الفصل 4: الدخول إلى المجهول (Into the Unknown)**
-تنطلق البعثة المكونة من أربعة أشخاص: تشالنجر، سومرلي، روكستون، ومالون. يسافرون عبر نهر الأمازون والغابات الكثيفة حتى يصلون إلى الهضبة المفقودة. في الطريق، يرون حطيروداكтил (primitive flying creature) مما يثبت ل Summmerlee أن تشالنجر كان يقول الحقيقة.
-
-**الفصل 5: محبوسون في العالم المفقود (Trapped in the Lost World)**
-يجد المغامرون طريقة للصعود إلى الهضبة عن طريق قطع شجرة وجسر الفجوة. لكنهم عندما يصلون إلى cima الهضبة، يُدمر الجسر من قبل خادم غاضب، مما يتركهم محبوسين على الهضبة معزولين عن العالم الخارجي. يبدأون في استكشاف العالم المفقود ويواجهون المخاطر الأولى.
-
-### الشخصيات الرئيسية
-
-| الشخصية | الدور | الوصف |
-|---|---|---|
-| **إدوارد مالون (Ned Malone)** | الراوي والصحفي | صحفي في *Daily Gazette*، شجاع، طموح، يحب غلادس ويريد إثبات مكانته كبطل |
-| **البروفيسور تشالنجر (Professor Challenger)** | قائد البعثة | عالم מבריק ولكن عنيف المزاج، مقتنع بوجود كائنات ما قبل التاريخ على الهضبة |
-| **البروفيسور سومرلي (Professor Summerlee)** | عالم مشكك | عالم تقليدي يشكك في ادعاءات تشالنجر، يغير رأيه بعد رؤية الحطيرودактил |
-| **لورد جون روكستون (Lord John Roxton)** | مستكشف ومغامر | رجل نبيل ومغامر ذي خبرة، مساعد للبعثة في المواقف الخطرة |
-| **غلادس هنغرتون (Gladys Hungerton)** | حبيبة مالون | فتاة جميلة ترفض مالون لأنه ليس "بطلاً" في نظرها |
-
-### الموضوعات الأدبية
-
-- **الصراع بين العلم والخيال:** مواجهة تشالنجر للمجتمع العلمي المشكك
-- **الشجاعة والإثبات:** رغبة مالون في إثبات شجاعته لغلادس
-- **الاستكشاف والاكتشاف:** رحلة البعثة إلى العالم المجهول
-- **الإنسان مقابل الطبيعة:** صراع المغامرين مع الديناصورات والكائنات البرية
+1. Understand Chapters 1–5 of *The Lost World*: Edward Malone's dream of adventure, Professor Challenger's secret, choosing the expedition, entering the unknown, and being trapped in the lost world.
+2. Identify the main characters: Edward Malone, Professor Challenger, Professor Summerlee, Lord John Roxton, and Gladys Hungerton.
+3. Analyze literary elements: setting (London, Amazon River, the lost plateau), time (early 20th century), and conflict between science and skepticism.
+4. Answer graded English questions ([Easy] / [Medium] / [Hard]) with Justification, Reasoning, and Evidence (JRE).
+5. Connect story events to real-life applications for the academic year 2026/2027.
 
 ---
 
-## القسم الثاني: التطبيقات والتمارين — الفصول 1 إلى 5
+## Section 1: Story Text and Literary Analysis — Chapters 1 to 5
 
-### الخطوات التطبيقية
+### Chapter Summaries
 
-1. **تحديد الحدث:** حدد الحدث الرئيسي في كل فصل من الفصول 1 إلى 5.
-2. **تحليل الشخصية:** صَف شخصية تشالنجر أو مالون بناءً على أفعالهم في النص.
-3. **مقارنة الآراء:** قارن بين رأي تشالنجر ورأي سومرلي حول الديناصورات.
-4. **توقع الأحداث:** ما الذي قد يحدث للمغامرين بعد أن حُبسوا على الهضبة؟
+**Chapter 1: A Dream of Adventure**
+The story begins with Edward Malone ("Ned"), a young journalist working for the *Daily Gazette*. Malone loves Gladys Hungerton, but she refuses him because she is looking for a heroic and brave man. Malone is assigned to interview Professor Challenger, a scientist who returned from South America with amazing stories about prehistoric creatures, but the scientific community accuses him of fraud.
 
-### تمارين تطبيقية مخصصة لهذا الفصل
+**Chapter 2: Professor Challenger's Secret**
+Malone goes to interview Challenger at his home. Challenger is a stubborn and moody person, but he shows Malone evidence of his previous adventure in South America: drawings from the notebook of an American explorer named Maple White who died in the area, drawings depicting prehistoric creatures including dinosaurs. He also presents bone fragments and photos of the plateau where he claims these creatures live.
 
-- **تمرين 1:** اكتب مقابلة قصيرة بين إدوارد مالون والبروفيسور تشالنجر (5 أسئلة وإجابات).
-- **تمرين 2:** قارن بين لندن في بداية القرن العشرين والهضبة المفقودة من حيث البيئة والحياة.
-- **تمرين 3:** حلل سبب رفض غلادس لمالون في البداية، وما الذي يغير رأيها لاحقًا في القصة.
+**Chapter 3: The Expedition Is Chosen**
+A session is held at the Zoological Institute where Professor Summerlee gives a lecture about evolution and claims that dinosaurs became extinct before humans appeared. Challenger interrupts the lecture shouting "Question!" and a heated debate arises between them. Afterwards, Challenger decides to organize a new expedition to bring solid evidence, and Malone agrees to join as a newspaper correspondent.
 
----
+**Chapter 4: Into the Unknown**
+The expedition of four people sets off: Challenger, Summerlee, Roxton, and Malone. They travel through the Amazon River and dense forests until they reach the lost plateau. Along the way, they see a pterodactyl (primitive flying creature) which proves to Summerlee that Challenger was telling the truth.
 
-## بنك الأسئلة المتدرج مع الحلول الشاملة — ch12-the-lost-world-part1
+**Chapter 5: Trapped in the Lost World**
+The explorers find a way to climb up to the plateau by cutting a tree and bridging the gap. But when they reach the top of the plateau, the bridge is destroyed by an angry servant, leaving them trapped on the plateau isolated from the outside world. They begin exploring the lost world and face the first dangers.
 
-تحتوي هذه الوسيلة على أسئلة مخصصة **فقط** لهذا الفصل (ch12-the-lost-world-part1)، مصنفة حسب مستوى الصعوبة، مع إجابة دقيقة وشرح لكل خيار.
+### Main Characters
 
-#### [سهل] السؤال 1 — Who is Edward Malone? (النسخة 12)
-أ) عالم تعيش في لندن
-ب) صحفي يعمل في جريدة Daily Gazette
-ج) مستكشف يذهب إلى أمريكا الجنوبية وحده
-د) معلم في جامعة لندن
+| Character | Role | Description |
+|-----------|------|-------------|
+| **Edward Malone (Ned Malone)** | Narrator and journalist | Journalist at *Daily Gazette*, brave, ambitious, loves Gladys and wants to prove his worth as a hero |
+| **Professor Challenger** | Expedition leader | Brilliant but violent-mooded scientist, convinced that prehistoric creatures live on the plateau |
+| **Professor Summerlee** | Skeptical scientist | Traditional scientist who doubts Challenger's claims, changes his mind after seeing the pterodactyl |
+| **Lord John Roxton** | Explorer and adventurer | Noble and experienced adventurer, helps the expedition in dangerous situations |
+| **Gladys Hungerton** | Malone's love | Beautiful girl who refuses Malone because he is not a "hero" in her eyes |
 
-- **الإجابة الصحيحة:** **ب) صحفي يعمل في جريدة Daily Gazette**
-- **لماذا صحيحة؟** إدوارد مالون هو الراوي والصحفي الشاب في قصة *The Lost World*، يعمل في صحيفة *Daily Gazette*.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) ليس عالمًا، بل صحفي.
-  - ج) لا يذهب وحده، بل ينضم لبعثة تشالنجر.
-  - د) ليس معلمًا في جامعة.
-- **الحل خطوة بخطوة:** الخطوة 1: تحديد دور إدوارد مالون في القصة. الخطوة 2: التأكد من أنه يعمل صحفيًا في Daily Gazette. الخطوة 3: اختيار الخيار ب.
+### Literary Themes
 
-#### [سهل] السؤال 2 — Who is Professor Challenger? (النسخة 13)
-أ) رجل أعمال ثري
-ب) عالم عنيد ومتقلب المزاج اكتشف كائنات ما قبل التاريخ
-ج) حارس حديقة حيوان
-د) جند استعماري
-
-- **الإجابة الصحيحة:** **ب) عالم عنيد ومتقلب المزاج اكتشف كائنات ما قبل التاريخ**
-- **لماذا صحيحة؟** البروفيسور تشالنجر هو عالم מבריק لكن عنيف، قاد البعثة إلى الهضبة المفقودة في الأمازون.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) ليس رجل أعمال، بل عالم أكاديمي.
-  - ج) ليس حارس حديقة حيوان.
-  - د) ليس جنديًا، بل عالم ومستكشف.
-- **الحل خطوة بخطوة:** الخطوة 1: التعرف على شخصية البروفيسور تشالنجر في الرواية. الخطوة 2: التأكد من أنه عالم قاد البعثة إلى الأمازون. الخطوة 3: اختيار الخيار ب.
-
-#### [متوسط] السؤال 3 — Why does Gladys reject Edward Malone at the beginning? (النسخة 14)
-أ) لأنها لا تحبه
-ب) لأنها تريد رجلًا بطلاً وشجاعًا، ومالون ليس كذلك في رأيها
-ج) لأنها تذهب إلى أمريكا
-د) لأنها تكره الصحفيين
-
-- **الإجابة الصحيحة:** **ب) لأنها تريد رجلًا بطلاً وشجاعًا، ومالون ليس كذلك في رأيها**
-- **لماذا صحيحة؟** في الفصل الأول، ترفض غلادس مالون لأنها تبحث عن رجل具有 صفات البطولة والشجاعة، وتعتبر مالون غير مؤهل.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) ليس مجرد عدم حب، بل معيار محدد.
-  - ج) لا علاقة للذهاب إلى أمريكا بالرفض.
-  - د) لا تكره الصحفيين ككل.
-- **الحل خطوة بخطوة:** الخطوة 1: قراءة موقف غلادس من مالون في الفصل الأول. الخطوة 2: تحديد سبب الرفض (بحثها عن رجل بطل). الخطوة 3: اختيار الخيار ب.
-
-#### [متوسط] السؤال 4 — What evidence does Challenger show Malone? (النسخة 15)
-أ) صورًا لديناصورات حية في لندن
-ب) رسومات من دفتر مابل واييت وقطع من العظام وصور للهضبة
-ج) ديناصور صغير في حقيبته
-د) خريطة للعالم المفقود فقط
-
-- **الإجابة الصحيحة:** **ب) رسومات من دفتر مابل واييت وقطع من العظام وصور للهضبة**
-- **لماذا صحيحة؟** في الفصل 2، يعرض تشالنجر لمالون رسومات المستكشف الأمريكي مابل واييت التي تصور كائنات ما قبل التاريخ، بالإضافة إلى قطع عظام وصور للهضبة.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) لا يعرض صورًا لديناصورات حية في لندن في هذا الفصل.
-  - ج) لا يحمل ديناصورًا صغيرًا في حقيبته في هذا الفصل.
-  - د) لا يكتفي بخريطة فقط، بل يقدم أدلة متعددة.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر ما عرضه تشالنجر على مالون في الفصل 2. الخطوة 2: تحديد الأدلة المذكورة (رسومات، عظام، صور). الخطوة 3: اختيار الخيار ب.
-
-#### [صعب] السؤال 5 — What happens when the expedition reaches the plateau? (النسخة 16)
-أ) يعودون إلى لندن فورًا
-ب) يجدون طريقة للصعود ثم يُدمر الجسر ويحبسون على الهضبة
-ج) يجدون مدينة حديثة على الهضبة
-د) يقابلون كائنات فضائية
-
-- **الإجابة الصحيحة:** **ب) يجدون طريقة للصعود ثم يُدمر الجسر ويحبسون على الهضبة**
-- **لماذا صحيحة؟** في الفصلين 4 و5، يصلون إلى قاعدة الهضبة، يصعدون عبر شجرة مقطوعة كجسر، ثم يُدمر الجسر من قبل خادم غاضب، تاركينهم معزولين.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) لا يعودون فورًا، بل يستكشفون الهضبة.
-  - ج) لا يجدون مدينة حديثة، بل عالمًا ما قبل التاريخ.
-  - د) لا يقابلون كائنات فضائية، بل ديناصورات وقبائل بشرية.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر أحداث الفصول 4 و5. الخطوة 2: تحديد ما حدث عند الوصول إلى الهضبة (صعود ثم تدمير الجسر). الخطوة 3: اختيار الخيار ب.
-
-#### [صعب] السؤال 6 — What is the main conflict between Challenger and Summerlee? (النسخة 17)
-أ) خلاف على المال
-ب) صراع علمي: تشالنجر يعتقد أن هناك كائنات ما قبل التاريخ حية، وسومرلي يشكك ويؤكد أنهم انقرضوا
-ج) خلاف على قيادة البعثة
-د) صراع عاطفي على امرأة
-
-- **الإجابة الصحيحة:** **ب) صراع علمي: تشالنجر يعتقد أن هناك كائنات ما قبل التاريخ حية، وسومرلي يشكك ويؤكد أنهم انقرضوا**
-- **لماذا صحيحة؟** في الفصل 3، ينشب نقاش حاد في المعهد الحيواني بين تشالنجر وسومرلي حول صحة ادعاءات تشالنجر بشأن الكائنات ما قبل التاريخ.
-- **لماذا الخيارات الأخرى خاطئة؟**
-  - أ) لا يوجد خلاف على المال في القصة.
-  - ج) لا يوجد خلاف على القيادة، بل違اق علمي.
-  - د) لا يوجد صراع عاطفي على امرأة بين الشخصيتين.
-- **الحل خطوة بخطوة:** الخطوة 1: تذكر النقاش في المعهد الحيواني في الفصل 3. الخطوة 2: تحديد طبيعة الصراع (علمي حول الكائنات ما قبل التاريخ). الخطوة 3: اختيار الخيار ب.
+- **Conflict between science and imagination:** Challenger facing the skeptical scientific community
+- **Courage and proof:** Malone's desire to prove his courage to Gladys
+- **Exploration and discovery:** The expedition's journey to the unknown world
+- **Man versus nature:** The explorers' struggle with dinosaurs and wild creatures
 
 ---
 
-## ملخص سريع لهذا الفصل فقط (ch12-the-lost-world-part1)
+## Section 2: Applications and Exercises — Chapters 1 to 5
 
-يغطي هذا الفصل (ch12-the-lost-world-part1) الفصول 1 إلى 5 من رواية *The Lost World* لـ Arthur Conan Doyle. يتميز هذا الفصل بأنه:
+### Application Steps
 
-- يدرس وحدة دراسية واحدة فقط (الفصول 1–5 من الرواية) بدون تداخل مع فصول أخرى.
-- يقدم الشخصيات الرئيسية: إدوارد مالون، البروفيسور تشالنجر، البروفيسور سومرلي، ولورد جون روكستون.
-- يوضح الأحداث التي تؤدي إلى تنظيم البعثة ووصولهم إلى الهضبة المفقودة.
-- يركز على الصراع بين العلم والتشكيك، ورغبة مالون في إثبات شجاعته.
-- محدث وفقًا للمنهج الدراسي للعام الدراسي 2026/2027 في هذا الفصل (ch12-the-lost-world-part1).
-- غير منقول من أي ترم آخر (ترم أول مقابل ترم ثاني) أو أي صف آخر، ولا يُخلط مع أي فصل (ch12-the-lost-world-part1).
+1. **Identify the event:** Identify the main event in each chapter from Chapters 1 to 5.
+2. **Analyze the character:** Describe Challenger's or Malone's personality based on their actions in the text.
+3. **Compare opinions:** Compare Challenger's opinion and Summerlee's opinion about dinosaurs.
+4. **Predict events:** What may happen to the explorers after they are trapped on the plateau?
 
-## مراجع ومصادر للاستئزادة (مخصصة لهذه الوحدة ch12-the-lost-world-part1)
+### Application Exercises Dedicated to This Chapter
 
-- كتاب منهج اللغة الإنجليزية للصف 2 — الترم الأول — الوحدة *The Lost World* (الفصول 1 إلى 5).
-- رواية *The Lost World* لـ Arthur Conan Doyle (نشرت عام 1912).
-- مصادر وزارة التربية والتعليم المصرية للعام الدراسي 2026/2027 في هذا الفصل (ch12-the-lost-world-part1).
-- تدريبات وامتحانات سابقة مختصة بوحدة هذا الفصل (ch12-the-lost-world-part1) فقط.
+- **Exercise 1:** Write a short interview between Edward Malone and Professor Challenger (5 questions and answers).
+- **Exercise 2:** Compare London in the early 20th century and the lost plateau in terms of environment and life.
+- **Exercise 3:** Analyze why Gladys rejected Malone at the beginning, and what changes her opinion later in the story.
+
+---
+
+## Graded Question Bank with Comprehensive Solutions — ch12-the-lost-world-part1
+
+This medium contains questions dedicated **only** to this chapter (ch12-the-lost-world-part1), classified by difficulty level, with accurate answers and explanation for each option.
+
+### [Easy] Question 1 — Who is Edward Malone?
+a) A scientist who lives in London
+b) A journalist who works for the Daily Gazette
+c) An explorer who goes to South America alone
+d) A teacher at London University
+
+**Correct Answer:** **b) A journalist who works for the Daily Gazette**
+
+**Why Correct?** Edward Malone is the narrator and young journalist in the story *The Lost World*, working for the newspaper *Daily Gazette*.
+
+**Why Other Options Wrong?**
+- a) He is not a scientist, he is a journalist.
+- c) He does not go alone, he joins Challenger's expedition.
+- d) He is not a university teacher.
+
+**Step-by-Step Solution:**
+Step 1: Identify Edward Malone's role in the story.
+Step 2: Confirm that he works as a journalist for Daily Gazette.
+Step 3: Choose option b.
+
+---
+
+### [Easy] Question 2 — Who is Professor Challenger?
+a) A rich businessman
+b) A stubborn and moody scientist who discovered prehistoric creatures
+c) A zoo keeper
+d) A colonial soldier
+
+**Correct Answer:** **b) A stubborn and moody scientist who discovered prehistoric creatures**
+
+**Why Correct?** Professor Challenger is a brilliant but violent-mooded scientist who led the expedition to the lost plateau in the Amazon.
+
+**Why Other Options Wrong?**
+- a) He is not a businessman, he is an academic scientist.
+- c) He is not a zoo keeper.
+- d) He is not a soldier, he is a scientist and explorer.
+
+**Step-by-Step Solution:**
+Step 1: Identify Professor Challenger's character in the novel.
+Step 2: Confirm that he is a scientist who led the expedition to the Amazon.
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 3 — Why does Gladys reject Edward Malone at the beginning?
+a) Because she does not love him
+b) Because she wants a heroic and brave man, and Malone is not that in her opinion
+c) Because she goes to America
+d) Because she hates journalists
+
+**Correct Answer:** **b) Because she wants a heroic and brave man, and Malone is not that in her opinion**
+
+**Why Correct?** In Chapter 1, Gladys rejects Malone because she is looking for a man with qualities of heroism and courage, and considers Malone not qualified.
+
+**Why Other Options Wrong?**
+- a) It is not just lack of love, but a specific criterion.
+- c) Going to America has nothing to do with the rejection.
+- d) She does not hate journalists in general.
+
+**Step-by-Step Solution:**
+Step 1: Read Gladys's position toward Malone in Chapter 1.
+Step 2: Identify the reason for rejection (she is looking for a heroic man).
+Step 3: Choose option b.
+
+---
+
+### [Medium] Question 4 — What evidence does Challenger show Malone?
+a) Photos of living dinosaurs in London
+b) Drawings from Maple White's notebook, bone fragments, and photos of the plateau
+c) A small dinosaur in his bag
+d) A map of the lost world only
+
+**Correct Answer:** **b) Drawings from Maple White's notebook, bone fragments, and photos of the plateau**
+
+**Why Correct?** In Chapter 2, Challenger shows Malone drawings from the American explorer Maple White's notebook depicting prehistoric creatures, in addition to bone fragments and photos of the plateau.
+
+**Why Other Options Wrong?**
+- a) He does not show photos of living dinosaurs in London in this chapter.
+- c) He does not carry a small dinosaur in his bag in this chapter.
+- d) He does not rely on a map only, but provides multiple evidences.
+
+**Step-by-Step Solution:**
+Step 1: Recall what Challenger showed Malone in Chapter 2.
+Step 2: Identify the evidences mentioned (drawings, bones, photos).
+Step 3: Choose option b.
+
+---
+
+### [Hard] Question 5 — What happens when the expedition reaches the plateau?
+a) They return to London immediately
+b) They find a way to climb then the bridge is destroyed and they are trapped on the plateau
+c) They find a modern city on the plateau
+d) They meet alien creatures
+
+**Correct Answer:** **b) They find a way to climb then the bridge is destroyed and they are trapped on the plateau**
+
+**Why Correct?** In Chapters 4 and 5, they reach the base of the plateau, climb up through a cut tree as a bridge, then the bridge is destroyed by an angry servant, leaving them isolated.
+
+**Why Other Options Wrong?**
+- a) They do not return immediately, but explore the plateau.
+- c) They do not find a modern city, but a prehistoric world.
+- d) They do not meet alien creatures, but dinosaurs and human tribes.
+
+**Step-by-Step Solution:**
+Step 1: Recall events from Chapters 4 and 5.
+Step 2: Identify what happened when reaching the plateau (climb then bridge destroyed).
+Step 3: Choose option b.
+
+---
+
+### [Hard] Question 6 — What is the main conflict between Challenger and Summerlee?
+a) Conflict over money
+b) Scientific conflict: Challenger believes there are living prehistoric creatures, Summerlee doubts and confirms they became extinct
+c) Conflict over expedition leadership
+d) Emotional conflict over a woman
+
+**Correct Answer:** **b) Scientific conflict: Challenger believes there are living prehistoric creatures, Summerlee doubts and confirms they became extinct**
+
+**Why Correct?** In Chapter 3, a heated debate arises at the Zoological Institute between Challenger and Summerlee about the validity of Challenger's claims regarding prehistoric creatures.
+
+**Why Other Options Wrong?**
+- a) There is no conflict over money in the story.
+- c) There is no conflict over leadership, but a scientific disagreement.
+- d) There is no emotional conflict over a woman between the characters.
+
+**Step-by-Step Solution:**
+Step 1: Recall the debate at the Zoological Institute in Chapter 3.
+Step 2: Identify the nature of the conflict (scientific about prehistoric creatures).
+Step 3: Choose option b.
+
+---
+
+### [JRE] Question 7 — Justify, Reasoning & Evidence — Is Gladys a positive influence on Malone at the beginning of the story?
+
+**Justify:** Partly yes. Her words push Malone to seek purpose, although he initially connects courage too strongly with winning her approval.
+
+**Reasoning:** She tells him that true bravery comes from character, and this makes him reconsider his safe life and ask for a difficult assignment.
+
+**Evidence:** He leaves her house enthusiastic, asks McArdle for a dangerous assignment, then plans to meet Challenger.
+
+**Step-by-Step Solution:**
+Step 1: Recall Gladys's influence on Malone in Chapter 1.
+Step 2: Identify the justification (she pushes him to seek purpose).
+Step 3: Provide reasoning (true bravery comes from character).
+Step 4: Cite evidence (Malone asks for dangerous assignment and plans to meet Challenger).
+
+---
+
+## Quick Summary for This Chapter Only (ch12-the-lost-world-part1)
+
+This chapter (ch12-the-lost-world-part1) covers Chapters 1 to 5 of the novel *The Lost World* by Arthur Conan Doyle. It features:
+
+- Studies one academic unit only (Chapters 1–5 of the novel) without overlap with other chapters.
+- Introduces the main characters: Edward Malone, Professor Challenger, Professor Summerlee, and Lord John Roxton.
+- Shows the events that lead to organizing the expedition and reaching the lost plateau.
+- Focuses on the conflict between science and skepticism, and Malone's desire to prove his courage.
+- Updated according to the 2026/2027 academic year curriculum in this chapter (ch12-the-lost-world-part1).
+- Not transferred from any other term (Term 1 vs Term 2) or any other grade, and not mixed with any chapter (ch12-the-lost-world-part1).
+
+## References and Sources (Dedicated to this unit ch12-the-lost-world-part1)
+
+- English curriculum book for Grade 2 — Term 1 — unit *The Lost World* (Chapters 1 to 5).
+- Novel *The Lost World* by Arthur Conan Doyle (published 1912).
+- Egyptian Ministry of Education sources for the academic year 2026/2027 in this chapter (ch12-the-lost-world-part1).
+- Past exercises and exams dedicated to this unit (ch12-the-lost-world-part1) only.
 
 ---
 
