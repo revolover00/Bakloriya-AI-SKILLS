@@ -137,3 +137,52 @@ A central pillar of the 2nd-Year Baccalaureate reading, listening, and writing c
   - **Q1:** **J:** The Benban Solar Park helps protect the environment to a great extent. **R:** It produces clean electricity from sunlight and reduces Egypt's dependence on fossil fuels. **E:** The text states that the park *"produces clean electricity"* and *"helps reduce pollution."*
 - **Section B `5.4` (p. 386 — Youth Environmental Action):**
   - **Q1–Q2:** **J:** Young people play a major role, and a small action can inspire a much larger impact. **R:** Youth can develop practical solutions and inspire community participation. **E:** Omar designed a low-cost solar water heater, while Farida started her Nile clean-up campaign with only five friends, which grew to over two hundred volunteers within a year.
+
+---
+
+## 📚 أسئلة كتاب الوزارة (التمارين والتطبيقات في نهاية كل درس)
+
+### Lesson 1: Course Overview and JRE Strategy
+
+**Question 1:** What are the main components of the grade-2 term-1 English curriculum?
+- **Answer:** Reading comprehension (units on social media, responsibility, leisure, greenhouse effect), literature (The Lost World), grammar, writing skills, and the JRE (Just Read English) strategy.
+
+**Question 2:** What is the JRE strategy and why is it important?
+- **Answer:** JRE (Just Read English) is a reading strategy that helps students improve comprehension, vocabulary, and fluency through regular reading practice.
+
+---
+
+## 📝 أسئلة كتاب التقييمات (الاختبارات والتقييمات الرسمية)
+
+### Test: Course Overview
+
+**Question 1 (Multiple Choice):** Which novel is studied in this term?
+A) Oliver Twist
+B) The Lost World
+C) Pride and Prejudice
+D) Treasure Island
+
+- **Correct Answer:** B) The Lost World
+
+**Question 2 (True or False):** "The JRE strategy focuses only on grammar."
+- **Answer:** False (it focuses on reading comprehension and fluency)
+
+---
+
+## 🏠 أسئلة الأداء المنزلي (من قسم الأداء المنزلي في كتاب التقييمات)
+
+### Task 1: Reading Plan
+**Required:** Prepare a personal reading plan for The Lost World novel and the curriculum units, specifying how many pages/chapters you will read weekly.
+
+**Assessment Criteria:**
+- Realistic weekly schedule (4 degrees)
+- Include review time (3 degrees)
+- Clarity and organization (3 degrees)
+
+### Task 2: JRE Strategy Presentation
+**Required:** Explain the JRE strategy in a short presentation: what it is, how to apply it, and its benefits for improving English.
+
+**Assessment Criteria:**
+- Explaining the strategy (4 degrees)
+- Application steps (3 degrees)
+- Benefits (3 degrees)

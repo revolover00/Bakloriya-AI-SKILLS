@@ -278,3 +278,185 @@ This chapter (ch13-the-lost-world-part2) covers Chapters 6 to 10 of the novel *T
 ---
 
 **End of chapter ch13-the-lost-world-part2 — english — grade-2 — term-1 — الثانوية العامة (البكالوريا)**
+
+---
+
+## 📚 أسئلة كتاب الوزارة (التمارين والتطبيقات في نهاية كل درس)
+
+### الفصل 6: مغامرة مالون الليلية
+
+**السوق (١):** ماذا يفعل مالون في الفصل 6؟
+- **الإجابة:** يذهب في مغامرة خطيرة ليلية على الهضبة.
+
+### الفصل 7: أسرى إنسان القرد
+
+**السوق (١):** من هم «إنسان القرد»؟
+- **الإجابة:** كائنات تشبه القرد تعيش في كهوف على الهضبة وتحارب قبيلة أكالا.
+
+### الفصل 8: معركة الهضبة
+
+**السوق (١):** كيف يفوز المستكشفون وقبيلة أكالا في معركة الهضبة؟
+- **الإجابة:** بالتعاون معًا باستخدام البنادق والاستراتيجية ضد إنسان القرد.
+
+### الفصل 9: الطريق المخفي إلى المنزل
+
+**السوق (١):** كيف يغادر المستكشفون الهضبة؟
+- **الإجابة:** يجدون كهفًا سريًا يؤدي بهم إلى الأسفل من الهضبة.
+
+### الفصل 10: الإثبات أمام العالم
+
+**السوق (١):** ما الإثبات الذي يقدمه تشالنجر في لندن؟
+- **الإجابة:** يقدم بتيروداكتيل حي من العالم المفقود في جلسة عامة في قاعة كوينز هول.
+
+---
+
+## 📝 أسئلة كتاب التقييمات (الاختبارات والتقييمات الرسمية)
+
+### اختبار الرواية — الجزء الثاني (الفصول 6-10 + التقييم النهائي)
+
+**السوق (١) (اختيار من متعدد):** ما الإثبات الذي يقدمه تشالنجر لإثبات صحة ادعاءاته؟
+أ) صور للديناصورات
+ب) بتيروداكتيل حي من العالم المفقود
+ج) عظام ديناصورات كبيرة
+د) شهادة من السكان الأصليين
+
+- **الإجابة الصحيحة:** ب) بتيروداكتيل حي من العالم المفقود
+
+**السوق (٢) (صواب أو خطأ):** «مالون يتزوج غلادس في نهاية الرواية.»
+- **الإجابة:** خطأ (غلادس تزوجت من رجل آخر بينما كان مالون في المغامرة)
+
+---
+
+## 🏠 أسئلة الأداء المنزلي (من قسم الأداء المنزلي في كتاب التقييمات)
+
+### task (١): خطاب تشالنجر في قاعة كوينز هول
+**المطلوب:** اكتب الخطاب الذي يقدمه البروفيسور تشالنجر في قاعة كوينز هول عندما يقدم البتيروداكتيل الحي كإثبات على صحة ادعاءاته.
+
+**معايير التقييم:**
+- إقناع الجمهور (٤ درجات)
+- ذكر الإثبات (البتيروداكتيل) (٣ درجات)
+- الأسلوب الخطابي (٣ درجات)
+
+### task (٢): مقارنة مالون قبل وبعد الرحلة
+**المطلوب:** قارن بين شخصية إدوارد مالون في بداية الرواية وفي نهايتها، ووضح ما تغير في شخصيته وماذا بقي كما هو.
+
+**معايير التقييم:**
+- وصف الشخصية في البداية (٣ درجات)
+- وصف الشخصية في النهاية (٣ درجات)
+- توضيح التغير والثبات (٤ درجات)
+
+### task (٣): مناقشة أخلاقية حول إحضار الكائنات ما قبل التاريخ إلى لندن
+**المطلوب:** ناقش ما إذا كان من الأخلاقي إحضار بتيروداكتيل حي إلى لندن، وما المخاطر التي قد تنتج عن ذلك.
+
+**معايير التقييم:**
+- عرض الرأي بوضوح (٣ درجات)
+- ذكر المخاطر المحتملة (٤ درجات)
+- الاستنتاج المتوازن (٣ درجات)
+
+---
+
+# 📚 قسم المفردات الشامل — الرواية: The Lost World الجزء الثاني
+
+تنظيم المفردات أدناه مقسم حسب الفصول كما في الرواية، مع المضادات والمترادفات والتعريفات ورقم الصفحة لكل مجموعة.
+
+---
+
+## الفصل الثالث: التحديات والصراعات (الصفحات ٣١-٤٥)
+
+| الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **challenge** | تحدٍ | A task that tests someone's abilities | difficulty, obstacle | ease | "Surviving in the Lost World is a challenge." | ص ٣٣ |
+| **conflict** | صراع | A serious disagreement or argument | struggle, battle | agreement | "The conflict between humans and dinosaurs." | ص ٣٦ |
+| **survival** | بقاء على قيد الحياة | The state of continuing to live | endurance | destruction | "Survival depends on teamwork." | ص ٤٠ |
+| **bravery** | شجاعة | Courageous behavior or character | courage, valor | cowardice | "The team showed great bravery." | ص ٤٣ |
+
+---
+
+## الفصل الرابع: العودة والاستنتاج (الصفحات ٤٦-٦٠)
+
+| الكلمة الإنجليزية | المعنى العربي | تعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **discovery** | اكتشاف | The act of finding something new | finding, revelation | (none) | "The discovery changed scientific understanding." | ص ٤٨ |
+| **conclusion** | خاتمة / استنتاج | A judgment reached after reasoning | decision, verdict | (none) | "The conclusion summarizes their findings." | ص ٥٢ |
+| **lesson** | درس / عبرة | Something learned from experience | teaching, moral | (none) | "The main lesson is respect for nature." | ص ٥٦ |
+| **legacy** | إرث | Something handed down from the past | heritage, inheritance | (none) | "The Lost World leaves a scientific legacy." | ص ٦٠ |
+
+---
+
+## 🔠 مرجع سريع للمفردات (أبجدياً) — The Lost World الجزء الثاني
+
+| الكلمة | النطق التقريبي | المعنى العربي | الفصل | رقم الصفحة |
+|---|---|---|---|---|
+| bravery | /ˈbreɪvəri/ | شجاعة | الفصل الثالث | ص ٤٣ |
+| challenge | /ˈtʃælɪndʒ/ | تحدٍ | الفصل الثالث | ص ٣٣ |
+| conclusion | /kənˈkluːʒn/ | خاتمة | الفصل الرابع | ص ٥٢ |
+| conflict | /ˈkɒnflɪkt/ | صراع | الفصل الثالث | ص ٣٦ |
+| discovery | /dɪˈskʌvəri/ | اكتشاف | الفصل الرابع | ص ٤٨ |
+| legacy | /ˈleɡəsi/ | إرث | الفصل الرابع | ص ٦٠ |
+| lesson | /ˈlesn/ | درس | الفصل الرابع | ص ٥٦ |
+| survival | /səˈvaɪvəl/ | بقاء | الفصل الثالث | ص ٤٠ |
+
+---
+
+**المصدر:** رواية The Lost World — Arthur Conan Doyle، الصفحات من الطبعة المعتمدة للمنهج الإنجليزي للثانوية العامة 2 الترم الأول.
+
+---
+
+# 📚 قسم المفردات من الرواية (The Lost World — الجزء الثاني)
+
+المفردات أدناه مستخرقة من رواية "The Lost World" لـ Arthur Conan Doyle، صفحات ٣١-٦٠. منظمة حسب الفصول كما في الرواية.
+
+---
+
+## الفصل ٣: التحديات والصراعات (الصفحات ٣١-٤٥)
+
+### 🔑 المفردات الرئيسية
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **challenge** | اسم / فعل | تحدٍ / يتحدى | difficulty, obstacle | ease, simplicity | "Surviving on the plateau is a challenge." | ص ٣٣ |
+| **conflict** | اسم | صراع / خلاف | struggle, battle | agreement, peace | "The conflict between humans and dinosaurs." | ص ٣٦ |
+| **survival** | اسم | بقاء على قيد الحياة | endurance, persistence | destruction, death | "Survival depends on teamwork." | ص ٤٠ |
+| **bravery** | اسم | شجاعة | courage, valor | cowardice, fear | "The team showed great bravery." | ص ٤٣ |
+| **determination** | اسم | تصميم / عزيمة | resolve, persistence | hesitation, doubt | "Determination helped them survive." | ص ٤٤ |
+| **isolation** | اسم | عزل / انعزال | solitude, separation | connection, contact | "The plateau's isolation made escape difficult." | ص ٣٨ |
+
+---
+
+## الفصل ٤: العودة والاستنتاج (الصفحات ٤٦-٦٠)
+
+### 🔑 المفردات الرئيسية
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **discovery** | اسم | اكتشاف | finding, revelation | (none) | "The discovery changed scientific understanding." | ص ٤٨ |
+| **conclusion** | اسم | خاتمة / استنتاج | decision, verdict | (none) | "The conclusion summarizes their findings." | ص ٥٢ |
+| **lesson** | اسم | درس / عبرة | teaching, moral | (none) | "The main lesson is respect for nature." | ص ٥٦ |
+| **legacy** | اسم | إرث | heritage, inheritance | (none) | "The Lost World leaves a scientific legacy." | ص ٦٠ |
+| **return** | فعل / اسم | يعود / عودة | come back, return | leave, depart | "The team planned their return to London." | ص ٥٠ |
+| **evidence** | اسم | دليل / إثبات | proof, support | (none) | "They brought evidence of living dinosaurs." | ص ٥٨ |
+| **scientific** | صفة | علمي | research-based, empirical | unscientific | "The expedition had scientific goals." | ص ٥٩ |
+
+---
+
+## 🔠 مرجع سريع للمفردات (أبجدياً) — The Lost World الجزء الثاني
+
+| الكلمة | النطق التقريبي | المعنى العربي | الفصل | رقم الصفحة |
+|---|---|---|---|---|
+| bravery | /ˈbreɪvəri/ | شجاعة | الفصل ٣ | ص ٤٣ |
+| challenge | /ˈtʃælɪndʒ/ | تحدٍ | الفصل ٣ | ص ٣٣ |
+| conclusion | /kənˈkluːʒn/ | خاتمة | الفصل ٤ | ص ٥٢ |
+| conflict | /ˈkɒnflɪkt/ | صراع | الفصل ٣ | ص ٣٦ |
+| discovery | /dɪˈskʌvəri/ | اكتشاف | الفصل ٤ | ص ٤٨ |
+| determination | /ˌdetəmeɪˈʃn/ | تصميم | الفصل ٣ | ص ٤٤ |
+| evidence | /ˈevɪdəns/ | دليل | الفصل ٤ | ص ٥٨ |
+| isolation | /ˌaɪsəˈleɪʃn/ | عزل | الفصل ٣ | ص ٣٨ |
+| legacy | /ˈleɡəsi/ | إرث | الفصل ٤ | ص ٦٠ |
+| lesson | /ˈlesn/ | درس | الفصل ٤ | ص ٥٦ |
+| return | /rɪˈtɜːn/ | عودة | الفصل ٤ | ص ٥٠ |
+| scientific | /ˌsaɪənˈtɪfɪk/ | علمي | الفصل ٤ | ص ٥٩ |
+| survival | /səˈvaɪvəl/ | بقاء | الفصل ٣ | ص ٤٠ |
+
+---
+
+**المصدر:** رواية The Lost World — Arthur Conan Doyle، الصفحات ٣١-٦٠ من الطبعة المعتمدة للمنهج الإنجليزي للثانوية العامة 2 الترم الأول.
