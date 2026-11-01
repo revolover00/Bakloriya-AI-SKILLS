@@ -26,9 +26,9 @@
 | الوحدة 2 | الجزء أ | وقت الفراغ | ch04-unit2-secA | ص ٩٣-٩٤ |
 | الوحدة 2 | الجزء ب | المهارات | ch05-unit2-secB | ص ١٢٤-١٥٥ |
 | الوحدة 3 | الجزء أ | أصداء الماضي | ch06-unit3-secA | ص ١٧٤-٢٠٤ |
-| الوحدة 3 | الجزء ب | المهارات | ch07-unit3-secB | ص ٢٠٥-٢٣٧ |
+| الوحدة 3 | الجزء ب | المهارات | ch07-unit3-secB | ص ٢٠٥-٢١٩ |
 | الوحدة 4 | الجزء أ | قوة الاختيار | ch08-unit4-secA | ص ٢٥١-٢٨٢ |
-| الوحدة 4 | الجزء ب | المهارات | ch09-unit4-secB | ص ٢٨٣-٣١٢ |
+| الوحدة 4 | الجزء ب | المهارات | ch09-unit4-secB | ص ٢٨٣-٢٩٥ |
 | الوحدة 5 | الجزء أ | التأثير الدفيئي | ch10-unit5-secA | ص ٣٣٥-٤٠٨ |
 | الوحدة 5 | الجزء ب | المهارات | ch11-unit5-secB | ص ٣٦٨-٤٠٨ |
 | الرواية | الجزء الأول | The Lost World | ch12-the-lost-world-part1 | ص ١-٣٠ |
@@ -75,7 +75,7 @@
 **المهارات: الكتابة التحليلية والإقناع**
 - Key Vocabulary: analytical paragraph, biased sentence, neutral sentence, persuasive writing, rhetorical question, intensifier, hedging word, absolute word, topic sentence, evidence, explanation, link, prolong, relief
 - Skills Vocabulary: argument, audience, claim, conclusion, evidence-based, fact, opinion, reason, justify, inference, persuade, objective, subjective
-- Phrases: carry significant psychological results, over the past decade, draw the audience into, feel valued, in your own words, a perfectly balanced diet, highlight-reel effect
+- Phrases: draw the audience into, feel valued, in your own words, a perfectly balanced diet, highlight-reel effect
 - Prepositions: depend on, refer to, believe in
 - Derivatives: analyze/analysis/analytical, persuade/persuasion/persuasive, justify/justification/justifiable, conclude/conclusion/conclusive
 
@@ -93,7 +93,6 @@
 **الدرس ٢.٣: الرياضة والنشاط البدني كوقت فراغ**
 - Key Vocabulary: cardiovascular, gracefully, competence, persevere, facilities, survey
 - Main Vocabulary: adulthood, gains, participate, belonging, harshly, category, improve, peer, challenge, inactive, physical education, classmate, intense, physical fitness, compulsory, leadership, predictor, consistent, life skills, pressure, context, lifestyle, recommend, cost, location, regulation, management, resources, disengage, medium, target, team-based, educator, motivation, movement, endurance, transfer, enjoyment, non-sporting, treat, extend, obvious, youth, fair, organization
-- Phrases: carry significant psychological results, over the past decade
 - Prepositions: participate in, belong to, compete against
 - Derivatives: compete/competition/competitive, participate/participation/participatory, motivate/motivation/motivated
 
@@ -105,11 +104,10 @@
 **الدرس ٣.١: مواقع الذاكرة**
 - Key Vocabulary: accumulated, massive, devotion, encoded, representative, inscribed
 - Main Vocabulary: abstract, era, nation, ambition, establish, observe, angle, event, ordinary, appreciate, faith, platform, avenue, found, principal, belief, generation, preserve, benefit, heritage, Ptolemaic, carved, hieroglyphics, record, ceiling, historical, reflect, civilization, Hypostyle Hall, reign, column, identity, sandstone, communicate, impact, shape, complex, impress, sign, connect, influence, significant, conquest, initially, silence, contain, institution, site, continuity, interpret, southward, convert, landmark, stillness, crowd, landscape, stretch, cultural, layer, surface, decipher, memory, survive, decorate, symbol, digital, milestone, timeline, entrance, monument, value
-- Phrases: carry significant psychological results, over the past decade
 - Prepositions: belong to, refer to, based on
 - Derivatives: establish/establishment/established, preserve/preservation/preserved, communicate/communication/communicative, interpret/interpretation/interpretive
 
-#### ch07 — الوحدة 3 الجزء ب: المهارات (ص ٢٠٥-٢٣٧)
+#### ch07 — الوحدة 3 الجزء ب: المهارات (ص ٢٠٥-٢١٩)
 **الدرس ٣.٣: الماضي الفيروسي**
 - Key Vocabulary: claim, priority, consistently, significant, media literacy, verify, prioritize
 - Main Vocabulary: accuracy, framing, reaction, actual, identify, relationship, advocate, illustrate, reliability, analyze, image, relief, argue, involve, remarkable, assess, justify, response, behave, knowledge, scale, citizen, light bulb, secrecy, consequence, measure, selective, conspiracy, merely, signal, construction, misinformation, solution, consult, motivate, source, continent, multiple, specific, critical, myth, spread, cropped, nostalgia, sufficient, deliberate, nuanced, suppression, detailed, panic, the public, distinguish, pride, trend, distort, promote, truth, emotion, propose, unfold, emotional, provoke, urgency, engagement, qualification, views, evaluate, qualified, viral, exaggerate, question, virality
@@ -134,7 +132,7 @@
 - Prepositions: depend on, refer to
 - Derivatives: reduce/reduction/reduced, store/storage/stored, confuse/confusion/confusing
 
-#### ch09 — الوحدة 4 الجزء ب: المهارات (ص ٢٨٣-٣١٢)
+#### ch09 — الوحدة 4 الجزء ب: المهارات (ص ٢٨٣-٢٩٥)
 **الدرس ٤.٣: الاستهلاك الرقمي (ص ٢٨٣)**
 - Key Vocabulary: access, concentration, notification, app, consumption, scroll
 - Main Vocabulary: ability, creative, profit, actually, data, react, digital habits, alert, retrieve, another, function, reward, attention, ignore, room, autoplay, image, self-expression, average, infinite, sell, behavior, interests, software, brain, mental energy, task, check, message, value, collect, nearby, content, obtain
@@ -153,7 +151,6 @@
 **الدرس ٥.١: أزمة المناخ**
 - Key Vocabulary: acidification, alarming, biodiversity, bleaching, consensus, fertile, fraction, hurricane, intensity, primary, consequence, rate, driver, release
 - Main Vocabulary: acidic, exist, planet, adapt, extreme, rainforest, agriculture, face, rainfall, Arctic, flood, rapid, record-breaking, area, frequent, atmosphere, generation, region, carbon dioxide, glacier, repeatedly, coal, global, revolution, coastal, habitat, severe, collectively, harvest, shocking, continent, heading, species, coral reefs, hit, speed, countless, illustrate, temperature, crop, individually, threat, degree, level, threaten, determine, low-lying, ton, disaster, mass, trap, disastrous, matter, unchangeable, drought, melt, urgent, economic, narrow, warming, ecosystem, occur, wide-ranging, event, pattern, wildfire
-- Phrases: carry significant psychological results, over the past decade
 - Prepositions: depend on, refer to, trap heat in
 - Derivatives: warm/warming/warm, threaten/threat/threatening, determine/determination/determined, adapt/adaptation/adaptive
 
@@ -161,7 +158,6 @@
 **الدرس ٥.٣: مشروعات التحول إلى الأخضر في مصر**
 - Key Vocabulary: awareness, initiative, efficiency, recycling, emissions, sustainability
 - Main Vocabulary: green, applied, protect, citizen, income, purpose, crucial, introduce, respect, development, issue, reusable, effort, law, solar park, electronic, maintain, support, environmental, minimum, transportation, environmentally friendly, perform, evaluate, primarily, waste, e-waste, process
-- Phrases: carry significant psychological results, over the past decade
 - Prepositions: depend on, refer to
 - Derivatives: sustain/sustainability/sustainable, recycle/recycling/recyclable, emit/emissions/emitting
 
@@ -221,4 +217,4 @@
 **آخر تحديث:** نوفمبر 2026  
 **النطاق:** تانية بكالوريا — الترم الأول — اللغة الإنجليزية  
 **عدد الفصول:** 14 فصل (ch00-ch13)  
-**عدد الكلمات المفهرسة:** +400 كلمة مع التعريفات والمضادات والمترادفات ورقم الصفحة
+**عدد الكلمات المفهرسة:** ~1016 كلمة مع التعريفات والمضادات والمترادفات ورقم الصفحة
