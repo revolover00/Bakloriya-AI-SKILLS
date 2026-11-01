@@ -1,4 +1,4 @@
-# الوحدة ١ الجزء ب: المسؤولية والصحة النفسية — الثانوية العامة (البكالوريا) 2 — الترم الأول
+# Unit 1 Part B: Responsibility and Mental Health — الثانوية العامة (البكالوريا) 2 — الترم الأول
 
 مادة: **english** | المرحلة: **الثانوية العامة (البكالوريا)** | الصف: **2** | الترم: **الأول**
 الفصل: **ch02-unit1-secB-responsibility-and-mental-health** (محتوى إنجليزي فعلي ومخصص لهذا الفصل فقط — لا تكرار)
@@ -6,7 +6,7 @@
 > ملاحظة للمعلم: هذا الفصل يدرس وحدة ch02-unit1-secB-responsibility-and-mental-health من مادة english للصف 2 الترم الأول. لا يحتوي على أي محتوى من فصول أخرى أو ترم آخر أو صف آخر.
 
 ## أهداف التعلم (مخصصة لهذا الفصل ch02-unit1-secB-responsibility-and-mental-health)
-1. إتقان موضوع نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional كما يُدرّس حصرياً في هذا الفصل.
+1. إتقان موضوع a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule كما يُدرّس حصرياً في هذا الفصل.
 2. تطبيق القاعدة أو المهارة على حالات عملية من واقع منهج english.
 3. حل الأسئلة المصنفة حسب الصعوبة مع تبرير كل خيار صحيح وخاطئ في هذا الفصل (ch02-unit1-secB-responsibility-and-mental-health).
 4. ربط المحتوى بالتطبيقات الحياتية للعام الدراسي 2026/2027 في هذا الفصل (ch02-unit1-secB-responsibility-and-mental-health).
@@ -18,10 +18,10 @@
 يقدم هذا القسم أوليات ومفاهيم فهم المقروء وبناء المفردات الإنجليزية وتطوير مهارات القراءة للطلبة في الثانوية العامة (البكالوريا) 2 الترم الأول. يُعرض المحتوى بشكل تسلسلي من التعريف البسيط إلى التفصيل المتعمق، وكل مثال وشرح مرتبط **فقط** بوحدة هذا الفصل (ch02-unit1-secB-responsibility-and-mental-health) ومادة english لهذا الصف وهذا الترم.
 
 **نص القراءة:**
-نص قراءة عن نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional يتوافق مع وحدة الوحدة ١ الجزء ب: المسؤولية والصحة النفسية من منهج english. يتضمن النص مفردات جديدة وأسئلة فهم مقروء.
+a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule is compatible with Unit 1 Part B: Responsibility and Mental Health من منهج english. يتضمن النص مفردات جديدة وأسئلة فهم مقروء.
 
 **المفردات الرئيسية:**
-- مفردات أساسية مرتبطة بـ نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional وتُستخدم في النص والتمارين.
+- مفردات أساسية مرتبطة بـ a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule وتُستخدم في النص والتمارين.
 - معانٍ عربية لكل مفردة إنجليزية مع مثال على استخدامها في جملة.
 
 **القاعدة النحوية المصاحبة:** قاعدة إنجليزية مرتبطة بموضوع القراءة تُطبق على الجمل الواردة في النص.
@@ -31,13 +31,13 @@
 في هذا القسم، يُطبّق الطالب ما تعلمه في القسم الأول على مواقف وحالات عملية من واقع منهج english للصف 2 الترم الأول. يتم التركيز على التطبيق الحقيقي وليس الحفظ الآلي.
 
 **الخطوات التطبيقية:**
-1. تحديد المشكلة أو الموقف المرتبط بـ نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional.
+1. تحديد المشكلة أو الموقف المرتبط بـ a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule.
 2. اختيار القاعدة أو المهارة المناسبة من محتوى هذا الفصل (ch02-unit1-secB-responsibility-and-mental-health) فقط.
 3. تنفيذ التمرين خطوة بخطوة مع الاستعانة بالأمثلة الواردة.
 4. التحقق من الإجابة ومقارنتها بالتوقعات التعليمية للوحدة.
 
 **تمارين تطبيقية مخصصة لهذا الفصل:**
-- تمرين 1: تطبيق مباشر على أول مفهوم من نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional.
+- تمرين 1: تطبيق مباشر على أول مفهوم من a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule.
 - تمرين 2: تطبيق متوسط الصعوبة يدمج بين مفهومين من هذه الوحدة.
 - تمرين 3: تطبيق صعب يستدعي التفكير النقدي والحل المتعدد الخطوات، جميعها ضمن حدود هذا الفصل فقط.
 
@@ -46,33 +46,33 @@
 تحتوي هذه الوسيلة على أسئلة مخصصة **فقط** لهذا الفصل (ch02-unit1-secB-responsibility-and-mental-health)، مصنفة حسب مستوى الصعوبة، مع إجابة دقيقة وشرح لكل خيار.
 
 #### [[سهل]] السؤال 1 (النسخة 1)
-Choose the main idea of the reading passage about نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional. (المربع 2) — النسخة 1
+Choose the main idea of the reading passage about a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule. (المربع 2) — النسخة 1
    أ) The passage is about sports only. (النسخة 1)
-   ب) The passage discusses الوحدة ١ الجزء ب: المسؤولية والصحة النفسية and related vocabulary. (النسخة 1)
+   ب) The passage discusses Unit 1 Part B: Responsibility and Mental Health and related vocabulary. (النسخة 1)
    ج) The passage is a poem about nature. (النسخة 1)
    د) The passage is a recipe. (النسخة 1)
 
-- **الإجابة الصحيحة:** **ب) The passage discusses الوحدة ١ الجزء ب: المسؤولية والصحة النفسية and related vocabulary. (النسخة 1)**
+- **الإجابة الصحيحة:** **ب) The passage discusses Unit 1 Part B: Responsibility and Mental Health and related vocabulary. (النسخة 1)**
 - **لماذا صحيحة؟** The main idea matches the unit topic and vocabulary presented in the passage. (النسخة 1)
 - **لماذا الخيارات الأخرى خاطئة؟** أ) sports only — غير محدد في النص. ج) قصيدة عن الطبيعة — النص نثري Informative. د) وصفة طبخ — غير واردة. (النسخة 1)
 - **الحل خطوة بخطوة:** Step 1: Read the title and first paragraph. Step 2: Identify the repeated theme. Step 3: Match with option ب. (النسخة 1)
 
 
 #### [[متوسط]] السؤال 2 (النسخة 2)
-What is the meaning of the underlined vocabulary word in context about نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional? (المربع 9) — النسخة 2
+What is the meaning of the underlined vocabulary word in context about a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule? (المربع 9) — النسخة 2
    أ) A negative emotion unrelated to the topic. (النسخة 2)
-   ب) A key term directly related to الوحدة ١ الجزء ب: المسؤولية والصحة النفسية. (النسخة 2)
+   ب) A key term directly related to Unit 1 Part B: Responsibility and Mental Health. (النسخة 2)
    ج) A scientific name of an animal. (النسخة 2)
    د) A type of food. (النسخة 2)
 
-- **الإجابة الصحيحة:** **ب) A key term directly related to الوحدة ١ الجزء ب: المسؤولية والصحة النفسية. (النسخة 2)**
+- **الإجابة الصحيحة:** **ب) A key term directly related to Unit 1 Part B: Responsibility and Mental Health. (النسخة 2)**
 - **لماذا صحيحة؟** The word is used in the passage to express the central concept of the unit. (النسخة 2)
 - **لماذا الخيارات الأخرى خاطئة؟** أ) شعور سلبي غير مرتبط — غير صحيح. ج) اسم علمي لحيوان — غير وارد. د) نوع طعام — غير مذكور. (النسخة 2)
 - **الحل خطوة بخطوة:** Step 1: Locate the underlined word. Step 2: Read surrounding sentences. Step 3: Choose the meaning that fits the context. (النسخة 2)
 
 
 #### [[صعب]] السؤال 3 (النسخة 3)
-Identify the grammar error: 'She نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional every day.' (المربع 16) — النسخة 3
+Identify the grammar error: 'She a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule every day.' (المربع 16) — النسخة 3
    أ) go (النسخة 3)
    ب) goes (النسخة 3)
    ج) going (النسخة 3)
@@ -86,7 +86,7 @@ Identify the grammar error: 'She نص قراءة عن المسؤولية الش�
 
 
 ## ملخص سريع لهذا الفصل فقط (ch02-unit1-secB-responsibility-and-mental-health)
-يغطي هذا الفصل (ch02-unit1-secB-responsibility-and-mental-health) موضوع "نص قراءة عن المسؤولية الشخصية والصحة النفسية، مفردات المشاعر والصحة، قاعدة الجمل الشرطية النوع الأول First Conditional" داخل مادة english للصف 2 الترم الأول في مرحلة الثانوية العامة (البكالوريا). يتميز هذا الفصل بأنه:
+يغطي هذا الفصل (ch02-unit1-secB-responsibility-and-mental-health) موضوع "a reading passage about personal responsibility and mental health, vocabulary of emotions and health, First Conditional grammar rule" داخل مادة english للصف 2 الترم الأول في مرحلة الثانوية العامة (البكالوريا). يتميز هذا الفصل بأنه:
 - يدرس وحدة دراسية واحدة فقط (ch02-unit1-secB-responsibility-and-mental-health) بدون تداخل مع فصول أخرى.
 - يحتوي على أمثلة وتمارين وأسئلة خاصة بهذا الفصل (ch02-unit1-secB-responsibility-and-mental-health) فقط.
 - محدث وفقاً للمنهج الدراسي للعام الدراسي 2026/2027 في هذا الفصل (ch02-unit1-secB-responsibility-and-mental-health).
@@ -259,7 +259,7 @@ Identify the grammar error: 'She نص قراءة عن المسؤولية الش�
 
 ---
 
-# 📚 قسم المفردات الشامل — الوحدة ١ الجزء ب: المسؤولية والصحة النفسية
+# 📚 قسم المفردات الشامل — Unit 1 Part B: Responsibility and Mental Health
 
 تنظيم المفردات أدناه مقسم حسب الدروس كما في الكتاب، مع المضادات والمترادفات والتعريفات ورقم الصفحة لكل مجموعة.
 
@@ -321,7 +321,7 @@ Identify the grammar error: 'She نص قراءة عن المسؤولية الش�
 
 ---
 
-# 📚 قسم المفردات من الكتاب (الاضواء — الوحدة ١ الجزء ب: المسؤولية والصحة النفسية)
+# 📚 قسم المفردات من الكتاب (الاضواء — Unit 1 Part B: Responsibility and Mental Health)
 
 المفردات أدناه مستخرقة مباشرة من كتاب "الاضواء" للصف الثاني ثانوي الترم الأول، صفحات ٤٧-٤٩. منظمة حسب الدروس كما في الكتاب.
 
