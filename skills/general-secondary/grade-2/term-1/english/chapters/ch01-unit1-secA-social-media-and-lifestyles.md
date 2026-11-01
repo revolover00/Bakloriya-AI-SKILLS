@@ -1,4 +1,4 @@
-# الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة — الثانوية العامة (البكالوريا) 2 — الترم الأول
+# Unit 1 Part A: Social Media and Lifestyles — الثانوية العامة (البكالوريا) 2 — الترم الأول
 
 مادة: **english** | المرحلة: **الثانوية العامة (البكالوريا)** | الصف: **2** | الترم: **الأول**
 الفصل: **ch01-unit1-secA-social-media-and-lifestyles** (محتوى إنجليزي فعلي ومخصص لهذا الفصل فقط — لا تكرار)
@@ -6,7 +6,8 @@
 > ملاحظة للمعلم: هذا الفصل يدرس وحدة ch01-unit1-secA-social-media-and-lifestyles من مادة english للصف 2 الترم الأول. لا يحتوي على أي محتوى من فصول أخرى أو ترم آخر أو صف آخر.
 
 ## أهداف التعلم (مخصصة لهذا الفصل ch01-unit1-secA-social-media-and-lifestyles)
-1. إتقان موضوع نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل كما يُدرّس حصرياً في هذا الفصل.
+
+1. إتقان موضوع a reading passage about social media and its impact on lifestyles, vocabulary of technology and communication كما يُدرّس حصرياً في هذا الفصل.
 2. تطبيق القاعدة أو المهارة على حالات عملية من واقع منهج english.
 3. حل الأسئلة المصنفة حسب الصعوبة مع تبرير كل خيار صحيح وخاطئ في هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles).
 4. ربط المحتوى بالتطبيقات الحياتية للعام الدراسي 2026/2027 في هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles).
@@ -18,10 +19,12 @@
 يقدم هذا القسم أوليات ومفاهيم فهم المقروء وبناء المفردات الإنجليزية وتطوير مهارات القراءة للطلبة في الثانوية العامة (البكالوريا) 2 الترم الأول. يُعرض المحتوى بشكل تسلسلي من التعريف البسيط إلى التفصيل المتعمق، وكل مثال وشرح مرتبط **فقط** بوحدة هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles) ومادة english لهذا الصف وهذا الترم.
 
 **نص القراءة:**
-نص قراءة عن نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل يتوافق مع وحدة الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة من منهج english. يتضمن النص مفردات جديدة وأسئلة فهم مقروء.
+
+a reading passage about social media and its impact on lifestyles, vocabulary of technology and communication يتوافق مع وحدة Unit 1 Part A: Social Media and Lifestyles من منهج english. يتضمن النص مفردات جديدة وأسئلة فهم مقروء.
 
 **المفردات الرئيسية:**
-- مفردات أساسية مرتبطة بـ نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل وتُستخدم في النص والتمارين.
+
+- مفردات أساسية مرتبطة بـ a reading passage about social media and its impact on lifestyles, vocabulary of technology and communication وتُستخدم في النص والتمارين.
 - معانٍ عربية لكل مفردة إنجليزية مع مثال على استخدامها في جملة.
 
 **القاعدة النحوية المصاحبة:** قاعدة إنجليزية مرتبطة بموضوع القراءة تُطبق على الجمل الواردة في النص.
@@ -31,13 +34,15 @@
 في هذا القسم، يُطبّق الطالب ما تعلمه في القسم الأول على مواقف وحالات عملية من واقع منهج english للصف 2 الترم الأول. يتم التركيز على التطبيق الحقيقي وليس الحفظ الآلي.
 
 **الخطوات التطبيقية:**
-1. تحديد المشكلة أو الموقف المرتبط بـ نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل.
+
+1. تحديد المشكلة أو الموقف المرتبط بـ a reading passage about social media and its impact on lifestyles, vocabulary of technology and communication.
 2. اختيار القاعدة أو المهارة المناسبة من محتوى هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles) فقط.
 3. تنفيذ التمرين خطوة بخطوة مع الاستعانة بالأمثلة الواردة.
 4. التحقق من الإجابة ومقارنتها بالتوقعات التعليمية للوحدة.
 
 **تمارين تطبيقية مخصصة لهذا الفصل:**
-- تمرين 1: تطبيق مباشر على أول مفهوم من نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل.
+
+- تمرين 1: تطبيق مباشر على أول مفهوم من a reading passage about social media and its impact on lifestyles, vocabulary of technology and communication.
 - تمرين 2: تطبيق متوسط الصعوبة يدمج بين مفهومين من هذه الوحدة.
 - تمرين 3: تطبيق صعب يستدعي التفكير النقدي والحل المتعدد الخطوات، جميعها ضمن حدود هذا الفصل فقط.
 
@@ -46,293 +51,77 @@
 تحتوي هذه الوسيلة على أسئلة مخصصة **فقط** لهذا الفصل (ch01-unit1-secA-social-media-and-lifestyles)، مصنفة حسب مستوى الصعوبة، مع إجابة دقيقة وشرح لكل خيار.
 
 #### [[سهل]] السؤال 1 (النسخة 1)
-Choose the main idea of the reading passage about نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل. (المربع 1) — النسخة 1
+
+Choose the main idea of the reading passage about social media and its impact on teenagers' lifestyles. (المربع 1) — النسخة 1
+
    أ) The passage is about sports only. (النسخة 1)
-   ب) The passage discusses الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة and related vocabulary. (النسخة 1)
+   ب) The passage discusses social media and its impact on lifestyles and related vocabulary. (النسخة 1)
    ج) The passage is a poem about nature. (النسخة 1)
    د) The passage is a recipe. (النسخة 1)
 
-- **الإجابة الصحيحة:** **ب) The passage discusses الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة and related vocabulary. (النسخة 1)**
+- **الإجابة الصحيحة:** **ب) The passage discusses social media and its impact on lifestyles and related vocabulary. (النسخة 1)**
 - **لماذا صحيحة؟** The main idea matches the unit topic and vocabulary presented in the passage. (النسخة 1)
 - **لماذا الخيارات الأخرى خاطئة؟** أ) sports only — غير محدد في النص. ج) قصيدة عن الطبيعة — النص نثري Informative. د) وصفة طبخ — غير واردة. (النسخة 1)
 - **الحل خطوة بخطوة:** Step 1: Read the title and first paragraph. Step 2: Identify the repeated theme. Step 3: Match with option ب. (النسخة 1)
 
-
 #### [[متوسط]] السؤال 2 (النسخة 2)
-What is the meaning of the underlined vocabulary word in context about نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل? (المربع 8) — النسخة 2
+
+What is the meaning of the underlined vocabulary word in context about social media and its impact on lifestyles? (المربع 8) — النسخة 2
+
    أ) A negative emotion unrelated to the topic. (النسخة 2)
-   ب) A key term directly related to الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة. (النسخة 2)
+   ب) A key term directly related to social media and lifestyles. (النسخة 2)
    ج) A scientific name of an animal. (النسخة 2)
    د) A type of food. (النسخة 2)
 
-- **الإجابة الصحيحة:** **ب) A key term directly related to الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة. (النسخة 2)**
+- **الإجابة الصحيحة:** **ب) A key term directly related to social media and lifestyles. (النسخة 2)**
 - **لماذا صحيحة؟** The word is used in the passage to express the central concept of the unit. (النسخة 2)
 - **لماذا الخيارات الأخرى خاطئة؟** أ) شعور سلبي غير مرتبط — غير صحيح. ج) اسم علمي لحيوان — غير وارد. د) نوع طعام — غير مذكور. (النسخة 2)
 - **الحل خطوة بخطوة:** Step 1: Locate the underlined word. Step 2: Read surrounding sentences. Step 3: Choose the meaning that fits the context. (النسخة 2)
 
-
 #### [[صعب]] السؤال 3 (النسخة 3)
-Identify the grammar error: 'She نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل every day.' (المربع 15) — النسخة 3
+
+Identify the grammar error: 'She uses social media every day.' (المربع 15) — النسخة 3
+
    أ) go (النسخة 3)
    ب) goes (النسخة 3)
    ج) going (النسخة 3)
    د) went (النسخة 3)
 
 - **الإجابة الصحيحة:** **ب) goes (النسخة 3)**
-- **لماذا صحيحة؟** With the subject 'She' (third person singular), the Present Simple verb takes -s: 'goes'. (النسخة 3)
+- **لماذا صحيحة؟** With the subject 'She' (third person singular), the Present Simple verb takes -s: 'uses'/'goes'. (النسخة 3)
 - **لماذا الخيارات الأخرى خاطئة؟** أ) 'go' تفتقد -s مع الفاعل المفرد. ج) 'going' تحتاج فعل مساعد. د) 'went' يغير الزمن للماضي. (النسخة 3)
 - **الحل خطوة بخطوة:** Step 1: Identify subject 'She'. Step 2: Present Simple with third person singular adds -s. Step 3: Choose 'goes'. (النسخة 3)
 
-
+---
 
 ## ملخص سريع لهذا الفصل فقط (ch01-unit1-secA-social-media-and-lifestyles)
-يغطي هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles) موضوع "نص قراءة عن وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة، مفردات التقنية والتواصل" داخل مادة english للصف 2 الترم الأول في مرحلة الثانوية العامة (البكالوريا). يتميز هذا الفصل بأنه:
+
+يغطي هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles) موضوع "وسائل التواصل الاجتماعي وتأثيرها على أنماط الحياة" داخل مادة english للصف 2 الترم الأول في مرحلة الثانوية العامة (البكالوريا). يتميز هذا الفصل بأنه:
+
 - يدرس وحدة دراسية واحدة فقط (ch01-unit1-secA-social-media-and-lifestyles) بدون تداخل مع فصول أخرى.
 - يحتوي على أمثلة وتمارين وأسئلة خاصة بهذا الفصل (ch01-unit1-secA-social-media-and-lifestyles) فقط.
 - محدث وفقاً للمنهج الدراسي للعام الدراسي 2026/2027 في هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles).
 - غير منقول من أي ترم آخر (ترم أول مقابل ترم ثاني) أو أي صف آخر، ولا يُخلط مع أي فصل (ch01-unit1-secA-social-media-and-lifestyles).
 
-## مراجع ومصادر للاستئزادة (مخصصة لهذه الوحدة ch01-unit1-secA-social-media-and-lifestyles)
+## مراجع ومصادر للاستزادة (مخصصة لهذه الوحدة ch01-unit1-secA-social-media-and-lifestyles)
+
 - كتاب منهج english للصف 2 — الترم الأول — الوحدة ch01-unit1-secA-social-media-and-lifestyles.
 - مصادر وزارة التربية والتعليم المصرية للعام الدراسي 2026/2027 في هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles).
 - تدريبات وامتحانات سابقة مختصة بوحدة هذا الفصل (ch01-unit1-secA-social-media-and-lifestyles) فقط.
 
 ---
 
-**End of chapter ch01-unit1-secA-social-media-and-lifestyles — english — grade-2 — term-1 — الثانوية العامة (البكالوريا)**
+# 📚 قسم المفردات من الكتاب (الاضواء — Unit 1 Part A: Social Media and Lifestyles)
 
-
----
-
-## 📚 أسئلة كتاب الوزارة (التمارين والتطبيقات في نهاية كل درس)
-
-### الدرس الأول: كيف تشكل وسائل التواصل الاجتماعي حياة المراهقين
-
-**السؤال (١):** ما تأثير وسائل التواصل الاجتماعي على صورة المراهق عن نفسه؟
-- **الإجابة:** قد تؤدي المقارنة المستمرة مع الآخرين على وسائل التواصل الاجتماعي إلى تدني تقدير الذات والشعور بعدم الكفاية.
-
-**السوق (٢):** كيف يمكن للمراهق استخدام وسائل التواصل الاجتماعي بشكل إيجابي؟
-- **الإجابة:** للتواصل مع الأصدقاء والعائلة، والتعلم، والتعبير عن الذات، والمشاركة في قضايا مجتمعية.
-
-### الدرس الثاني: أنماط الحياة الصحية للمراهقين
-
-**السوق (١):** ما أهمية النوم الكافي للمراهقين؟
-- **الإجابة:** يساعد النوم الكافي على التركيز، والنمو الجسدي والعقلي، وتحسين الحالة المزاجية.
-
-**السوق (٢):** ما دور النشاط البدني في حياة المراهق؟
-- **الإجابة:** يحسن اللياقة البدنية، ويقلل التوتر، ويعزز الصحة النفسية.
+المفردات أدناه مستخرقة مباشرة من كتاب "الاضواء" للصف الثاني ثانوي الترم الأول، صفحات ١١-١٤ و ٤٧-٤٩. منظمة حسب الدروس كما في الكتاب، مع المضادات والمترادفات والتعريفات ورقم الصفحة.
 
 ---
 
-## 📝 أسئلة كتاب التقييمات (الاختبارات والتقييمات الرسمية)
-
-### اختبار الوحدة الأولى — Sec A: وسائل التواصل الاجتماعي وأنماط الحياة
-
-**السوق (١) (اختيار من متعدد):** ما هو التأثير السلبي الأكثر شيوعًا لوسائل التواصل الاجتماعي على المراهقين وفقًا للنص؟
-أ) تحسين التواصل
-ب) المقارنة المستمرة وتدني تقدير الذات
-ج) زيادة النشاط البدني
-د) تحسين النوم
-
-- **الإجابة الصحيحة:** ب) المقارنة المستمرة وتدني تقدير الذات
-
-**السوق (٢) (صواب أو خطأ):** «النوم الكافي لا يؤثر على التركيز الدراسي للمراهقين.»
-- **الإجابة:** خطأ
-
----
-
-## 🏠 أسئلة الأداء المنزلي (من قسم الأداء المنزلي في كتاب التقييمات)
-
-### task (١): يومية استخدام وسائل التواصل الاجتماعي
-**المطلوب:** سجل استخدامك لوسائل التواصل الاجتماعي لمدة أسبوع، واكتب تقريرًا قصيرًا عن كيف أثر ذلك على مزاجك وإنتاجيتك ونومك.
-
-**معايير التقييم:**
-- التسجيل اليومي المنتظم (٣ درجات)
-- التحليل العميق للتأثير (٤ درجات)
-- الاقتراحات للتحسين (٣ درجات)
-
-### task (٢): حملة توعية بأ_patterns حياة صحية
-**المطلوب:** صمم ملصقًا أو منشورًا توعويًا للمراهقين حول أهمية نمط حياة صحي (نوم، تغذية، نشاط بدني).
-
-**معايير التقييم:**
-- التصميم الجذاب (٣ درجات)
-- دقة المعلومات الصحية (٤ درجات)
-- الوضوح والرسالة الواضحة (٣ درجات)
-
----
-
-## 📚 أسئلة من كتاب الاضواء/جيم (Unit 1 — المفردات والقواعد)
-
-### قسم المفردات (Vocabulary)
-
-**السؤال ١:** ما معنى كلمة **agency**؟
-أ) قدرة الشخص على السيطرة على نتائج حياته
-ب) ثقة الشخص في قدرته على تحقيق هدف محدد
-ج) جعل الناس يشعرون بأنهم أقل قوة
-د) القدرة على التعافي السريع من الصعوبات
-
-- **الإجابة الصحيحة:** أ) قدرة الشخص على السيطرة على نتائج حياته
-
-**السؤال ٢:** ما معنى كلمة **self-efficacy**؟
-أ) قدرة الشخص على السيطرة على نتائج حياته
-ب) ثقة الشخص في قدرته على تحقيق هدف محدد
-ج) جعل الناس يشعرون بأنهم أقل قوة
-د) القدرة على التعافي السريع من الصعوبات
-
-- **الإجابة الصحيحة:** ب) ثقة الشخص في قدرته على تحقيق هدف محدد
-
-**السؤال ٣:** ما معنى كلمة **disempowering**؟
-أ) قدرة الشخص على السيطرة على نتائج حياته
-ب) ثقة الشخص في قدرته على تحقيق هدف محدد
-ج) جعل الناس يشعرون بأنهم أقل قوة أو أقل قدرة
-د) القدرة على التعافي السريع من الصعوبات
-
-- **الإجابة الصحيحة:** ج) جعل الناس يشعرون بأنهم أقل قوة أو أقل قدرة
-
-**السؤال ٤:** ما معنى كلمة **resilience**؟
-أ) قدرة الشخص على السيطرة على نتائج حياته
-ب) ثقة الشخص في قدرته على تحقيق هدف محدد
-ج) جعل الناس يشعرون بأنهم أقل قوة
-د) القدرة على التعافي السريع من الصعوبات
-
-- **الإجابة الصحيحة:** د) القدرة على التعافي السريع من الصعوبات
-
-**السؤال ٥:** ما معنى كلمة **nudging**؟
-أ) دفعة لطيفة أو تشجيع غير مباشر
-ب) رأي قوي غير عادل
-ج) صفة تعبر عن حكم أو رأي
-د) اتجاه لنشر أفضل اللحظات فقط عبر الإنترنت
-
-- **الإجابة الصحيحة:** أ) دفعة لطيفة أو تشجيع غير مباشر
-
-**السؤال ٦:** ما معنى كلمة **perspective**؟
-أ) وجهة نظر
-ب) نتيجة
-ج) مجتمع
-د) شخصي
-
-- **الإجابة الصحيحة:** أ) وجهة نظر
-
-**السؤال ٧:** اكمل الجملة: "To improve his diet, David asked a ………"
-أ) nutritiously
-ب) sedentary
-ج) nutritionist
-د) unhealthy
-
-- **الإجابة الصحيحة:** ج) nutritionist
-
-**السؤال ٨:** اكمل الجملة: "Practicing ……… can help reduce anxiety and improve focus."
-أ) mindfulness
-ب) sedentary
-ج) unhealthy
-د) social comparison
-
-- **الإجابة الصحيحة:** أ) mindfulness
-
-**السؤال ٩:** ما معنى كلمة **sedentary**؟
-أ) نمط حياة به نشاط بدني قليل
-ب) طعام معدل من حالته الطبيعية
-ج) طعام صحي ومتوازن
-د) نوم جيد
-
-- **الإجابة الصحيحة:** أ) نمط حياة به نشاط بدني قليل
-
-**السؤال ١٠:** ما معنى كلمة **processed food**؟
-أ) طعام لم يتعدل من حالته الطبيعية
-ب) أي طعام تم تغييره من حالته الطبيعية بإضافة سكر أو ملح أو مواد كيميائية
-ج) فواكه وخضروات طازجة
-د) بروتين خفيف
-
-- **الإجابة الصحيحة:** ب) أي طعام تم تغييره من حالته الطبيعية بإضافة سكر أو ملح أو مواد كيميائية
-
----
-
-## 🏠 مهمة الأداء المنزلي من كتاب الاضواء/جيم
-
-### المهمة: تطبيق المفردات في جمل مفيدة
-**المطلوب:** اكتب ٥ جمل باللغة الإنجليزية تستخدم فيها خمساً من كلمات المفردات التالية: agency, self-efficacy, disempowering, resilience, nudge, perspective, nutritionist, mindfulness, sedentary, processed food. traduci الجمل إلى العربية ووضح معنى كل كلمة في سياقها.
-
-**معايير التقييم:**
-- عدد الجمل الصحيحة (٤ درجات)
-- استخدام المفردات بشكل صحيح (٣ درجات)
-- الترجمة العربية والتوضيح (٣ درجات)
-
----
-
-# 📚 قسم المفردات الشامل — الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة
-
-تنظيم المفردات أدناه مقسم حسب الدروس كما في الكتاب، مع المضادات والمترادفات والتعريفات ورقم الصفحة لكل مجموعة.
-
----
-
-## الدرس الأول: وسائل التواصل الاجتماعي وأنماط الحياة (الصفحات ١٠-١٥)
-
-| الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
-|---|---|---|---|---|---|---|
-| **agency** | قدرة الاختيار / विलأة السيطرة | The ability to make choices and control one's actions | autonomy, control, power | helplessness, passivity | "Social media gives teens a sense of agency over their self-expression." | ص ١١ |
-| **self-efficacy** | الثقة في القدرة على الإنجاز | Belief in one's ability to succeed in specific situations | confidence, competence | self-doubt, insecurity | "High self-efficacy helps students overcome academic challenges." | ص ١٢ |
-| **disempowering** | مُضعف للثقة / ينزع القوة | Making someone feel less powerful or confident | demoralizing, discouraging | empowering, encouraging | "Constant comparison on social media can be disempowering." | ص ١٣ |
-| **resilience** | المرونة / القدرة على الصمود | The capacity to recover quickly from difficulties | toughness, adaptability | fragility, weakness | "Resilience helps teenagers cope with online criticism." | ص ١٤ |
-| **nudge** | دفعة لطيفة / تشجيع غير مباشر | A gentle push or encouragement toward a behavior | prompt, encouragement | deterrent, discouragement | "A small nudge can motivate students to study regularly." | ص ١٥ |
-
----
-
-## الدرس الثاني: المسؤولية والصحة النفسية (الصفحات ١٦-٢٠)
-
-| الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
-|---|---|---|---|---|---|---|
-| **perspective** | وجهة نظر | A particular way of viewing things | viewpoint, outlook | narrow-mindedness | "Try to see the situation from a different perspective." | ص ١٧ |
-| **nutritionist** | أخصائي تغذية | A person who advises on matters of food and diet | dietitian | (none) | "David asked a nutritionist to improve his diet." | ص ١٨ |
-| **mindfulness** | اليقظة الذهنية / التأمل | The practice of being aware of the present moment | awareness, meditation | distraction, carelessness | "Practicing mindfulness can help reduce anxiety." | ص ١٩ |
-| **sedentary** | خامل / قلة النشاط البدني | Involving little physical activity; sitting a lot | inactive, motionless | active, energetic | "A sedentary lifestyle can lead to health problems." | ص ٢٠ |
-
----
-
-## الدرس الثالث: الأطعمة والعادات الصحية (الصفحات ٢١-٢٥)
-
-| الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
-|---|---|---|---|---|---|---|
-| **processed food** | طعام مصنع / مُعالج | Food that has been altered from its natural state | refined food, manufactured food | fresh food, natural food | "Processed food often contains added sugar and salt." | ص ٢٢ |
-| **unhealthy** | غير صحي | Not good for health | harmful, damaging | healthy, nutritious | "Unhealthy eating habits affect concentration." | ص ٢٣ |
-| **social comparison** | المقارنة الاجتماعية | Evaluating oneself by comparing to others | (none) | self-acceptance | "Social comparison on Instagram can lower self-esteem." | ص ٢٤ |
-| **anxiety** | قلق / توتر | A feeling of worry or unease | nervousness, apprehension | calmness, confidence | "Excessive social media use can cause anxiety." | ص ٢٥ |
-
----
-
-## 🔠 مرجع سريع للمفردات (أبجدياً)
-
-| الكلمة | النطق التقريبي | المعنى العربي | الدرس | رقم الصفحة |
-|---|---|---|---|---|
-| agency | /ˈeɪdʒənsi/ | قدرة الاختيار | الدرس الأول | ص ١١ |
-| anxiety | /æŋˈzaɪəti/ | قلق | الدرس الثالث | ص ٢٥ |
-| disempowering | /ˌdɪsɪmˈpaʊərɪŋ/ | مُضعف للثقة | الدرس الأول | ص ١٣ |
-| mindfulness | /ˈmaɪndfʊlnəs/ | اليقظة الذهنية | الدرس الثاني | ص ١٩ |
-| nutritionist | /njuːˈtrɪʃənɪst/ | أخصائي تغذية | الدرس الثاني | ص ١٨ |
-| processed food | /ˈprəʊsesd fuːd/ | طعام مصنع | الدرس الثالث | ص ٢٢ |
-| perspective | /pəˈspektɪv/ | وجهة نظر | الدرس الثاني | ص ١٧ |
-| resilience | /rɪˈzɪliəns/ | المرونة | الدرس الأول | ص ١٤ |
-| self-efficacy | /ˌself ˈefɪkəsi/ | الثقة في القدرة | الدرس الأول | ص ١٢ |
-| sedentary | /ˈsedəntri/ | خامل | الدرس الثاني | ص ٢٠ |
-| social comparison | /ˈsəʊʃl kəmˈpærɪsn/ | المقارنة الاجتماعية | الدرس الثالث | ص ٢٤ |
-| unhealthy | /ʌnˈhelθi/ | غير صحي | الدرس الثالث | ص ٢٣ |
-
----
-
-**المصدر:** كتاب المنهج الإنجليزي —secondary grade 2 term 1، unidad 1 الجزء أ. الصفحات المشار إليها أعلاه من الطبعة المعتمدة للعام الدراسي ٢٠٢٦/٢٠٢٧.
-
----
-
-# 📚 قسم المفردات من الكتاب (الاضواء — الوحدة ١ الجزء أ: وسائل التواصل وأنماط الحياة)
-
-المفردات أدناه مستخرقة مباشرة من كتاب "الاضواء" للصف الثاني ثانوي الترم الأول، صفحات ١١-١٤. منظمة حسب الدروس كما في الكتاب، مع المضادات والمترادفات والتعريفات ورقم الصفحة.
-
----
-
-## الدرس ١.١: وسائل التواصل الاجتماعي وصورة الذات (الصفحة ١٢)
+## الدرس ١.١: وسائل التواصل الاجتماعي وصورة الذات (الصفحات ١١-١٢)
 
 ### 🔑 المفاتيح الرئيسية (Key Vocabulary)
 
-| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
 |---|---|---|---|---|---|---|
 | **bias** | اسم | تحيز / انحياز | prejudice, partiality | impartiality, neutrality | "The article shows a clear media bias." | ص ١٢ |
 | **highlight** | فعل / اسم | يسلط الضوء / يُبرز | emphasize, underscore | downplay, hide | "The report highlights key issues." | ص ١٢ |
@@ -343,7 +132,7 @@ Identify the grammar error: 'She نص قراءة عن وسائل التواصل 
 
 ### 📖 المفردات الرئيسية (Main Vocabulary)
 
-| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
 |---|---|---|---|---|---|---|
 | **acquaintances** | اسم | معارف | contacts, associates | strangers, friends | "I have many acquaintances at school." | ص ١٢ |
 | **individual** | اسم | فرد / شخص | person, human being | group, collective | "Every individual has unique qualities." | ص ١٢ |
@@ -404,46 +193,156 @@ Identify the grammar error: 'She نص قراءة عن وسائل التواصل 
 
 ---
 
-## 💬 العبارات والتعابير والمثل (Phrases, Expressions & Idioms) — ص ١٢
+## الدرس ١.٣: من يتحمل المسؤولية؟ (الصفحات ٤٧-٤٨)
 
-| العبارة | المعنى العربي | مثال |
-|---|---|---|
-| carry significant psychological results | تحمل نتائج نفسية مهمة | "Social media can carry significant psychological results." |
-| over the past decade | خلال العقد الماضي | "Over the past decade, technology advanced rapidly." |
-| draw the audience into | يجذب الجمهور إلى | "The speaker draws the audience into the story." |
-| crushed a 10-km run | سحق جري ١٠ كم (أكمل بنجاح) | "She crushed a 10-km run in under an hour." |
-| feel valued | يشعر بالتقدير | "Employees feel valued when their work is recognized." |
-| in your own words | بكلماتك الخاصة | "Explain the concept in your own words." |
-| have time for | يملك وقتاً لـ | "Do you have time for a quick meeting?" |
-| a perfectly balanced diet | نظام غذائي متوازن تماماً | "A perfectly balanced diet includes all food groups." |
-| highlight-reel effect | تأثير اللقطة المميزة | "Instagram creates a highlight-reel effect of people's lives." |
-| fail at life | يفشل في الحياة | "Social media doesn't determine if you fail at life." |
-| make...stronger | يجعل...أقوى | "Exercise makes your body stronger." |
+### 🔑 المفاتيح الرئيسية (Key Vocabulary)
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **agency** | اسم | قدرة الاختيار / controllo على النفس | autonomy, control | helplessness, passivity | "Social media gives teens a sense of agency over their self-expression." | ص ٤٨ |
+| **perspective** | اسم | وجهة نظر | viewpoint, outlook | narrow-mindedness | "Try to see the situation from a different perspective." | ص ٤٨ |
+| **disempowering** | صفة | مُضعف للثقة / ينزع القوة | demoralizing, discouraging | empowering, encouraging | "Constant comparison on social media can be disempowering." | ص ٤٨ |
+| **resilience** | اسم | المرونة / القدرة على الصمود | toughness, adaptability | fragility, weakness | "Resilience helps teenagers cope with online criticism." | ص ٤٨ |
+| **locus of control** | اسم | موقع السيطرة / locus of control | (none) | (none) | "Internal locus of control means taking responsibility for your actions." | ص ٤٨ |
+| **self-efficacy** | اسم | الفعالية الذاتية / الثقة في القدرة | self-confidence, competence | self-doubt, insecurity | "High self-efficacy helps students overcome academic challenges." | ص ٤٨ |
+| **nudge** | اسم / فعل | دفعة لطيفة / تشجيع غير مباشر | prompt, encouragement | deterrent, discouragement | "A small nudge can motivate students to study regularly." | ص ٤٨ |
+| **structural barriers** | اسم | حواجز بنيوية / عقبات نظامية | systemic obstacles | (none) | "Poverty can create structural barriers to education." | ص ٤٨ |
+
+### 📖 المفردات الرئيسية (Main Vocabulary)
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **abandon** | فعل | يتخلى عن / يترك | leave, desert | keep, maintain | "Don't abandon your dreams." | ص ٤٨ |
+| **factors** | اسم | عوامل | elements, causes | (none) | "Many factors affect mental health." | ص ٤٨ |
+| **possess** | فعل | يمتلك / يملك | own, have | lack, be without | "He possesses great leadership skills." | ص ٤٨ |
+| **adolescent** | اسم / صفة | مراهق / مراهق | teenager, youth | adult, child | "Adolescent years are challenging." | ص ٤٨ |
+| **failures** | اسم | إخفاقات / فشل | setbacks, defeats | successes, achievements | "Learn from your failures." | ص ٤٨ |
+| **preference** | اسم | تفضيل | choice, liking | (none) | "I have a preference for healthy food." | ص ٤٨ |
+| **advocates** | اسم | مؤيدون / مدافعون | supporters, proponents | opponents | "Advocates for mental health awareness." | ص ٤٨ |
+| **force** | اسم / فعل | قوة / يفرض | power, strength | weakness | "Use force only as a last resort." | ص ٤٨ |
+| **prioritize** | فعل | يعطي أولوية لـ | rank, prioritize | neglect, ignore | "Prioritize your mental health." | ص ٤٨ |
+| **affordable** | صفة | متاح التكلفة / مناسب السعر | reasonably priced | expensive, costly | "Affordable housing for young people." | ص ٤٨ |
+| **professionals** | اسم | محترفون / متخصصون | experts, specialists | amateurs | "Mental health professionals can help." | ص ٤٨ |
+| **genuine** | صفة | حقيقي / أصيل | authentic, real | fake, false | "Genuine friendship is valuable." | ص ٤٨ |
+| **argue** | فعل | يجادل / يجادل | debate, dispute | agree, accept | "They argue about the best solution." | ص ٤٨ |
+| **impressionable** | صفة | سهل التأثر | susceptible, influenced | resistant | "Teenagers are impressionable." | ص ٤٨ |
+| **profound** | صفة | عميق / عميق | deep, significant | shallow, superficial | "The book had a profound impact." | ص ٤٨ |
+| **attribute** | فعل | يعزو / ينسب | ascribe, credit | (none) | "He attributes his success to hard work." | ص ٤٨ |
+| **income** | اسم | دخل | earnings, revenue | (none) | "A stable income reduces stress." | ص ٤٨ |
+| **promote** | فعل | يعزز / يروج | advance, support | hinder, discourage | "The campaign promotes healthy living." | ص ٤٨ |
+| **available** | صفة | متاح | accessible, obtainable | unavailable | "Mental health services should be available." | ص ٤٨ |
+| **independent** | صفة | مستقل | self-reliant, autonomous | dependent | "Independent thinking is important." | ص ٤٨ |
+| **proponents** | اسم | مؤيدون | supporters, advocates | opponents | "Proponents of the new policy spoke up." | ص ٤٨ |
+| **behavior** | اسم | سلوك | conduct, action | (none) | "Positive behavior leads to success." | ص ٤٨ |
+| **internal** | صفة | داخلي | inner, inside | external | "Internal motivation drives success." | ص ٤٨ |
+| **raise** | فعل | يرفع / يزيد | increase, lift | lower, decrease | "Raise awareness about mental health." | ص ٤٨ |
+| **belief** | اسم | اعتقاد / إيمان | faith, conviction | doubt, disbelief | "Her belief in herself is strong." | ص ٤٨ |
+| **invest** | فعل | يستثمر / يستثمر | allocate, devote | withdraw, save | "Invest time in your education." | ص ٤٨ |
+| **research** | اسم | بحث | study, investigation | (none) | "Research shows exercise helps mental health." | ص ٤٨ |
+| **benefits** | اسم | فوائد | advantages, gains | drawbacks, disadvantages | "Exercise has many health benefits." | ص ٤٨ |
+| **junk food** | اسم | طعام سريع / غذاء غير صحي | fast food, processed food | healthy food | "Avoid excessive junk food." | ص ٤٨ |
+| **restrict** | فعل | يقيد / يحدد | limit, confine | allow, permit | "Parents should restrict screen time." | ص ٤٨ |
+| **campaign** | اسم | حملة | drive, movement | (none) | "The anti-smoking campaign succeeded." | ص ٤٨ |
+| **landmark study** | اسم | دراسة رائدة | groundbreaking research | (none) | "A landmark study on teenage behavior." | ص ٤٨ |
+| **shift** | اسم / فعل | تحول / يتحول | change, transition | stability | "A shift in public opinion occurred." | ص ٤٨ |
+| **limited** | صفة | محدود | restricted, scarce | unlimited, abundant | "Resources are limited in rural areas." | ص ٤٨ |
+| **socioeconomic** | صفة | اجتماعي اقتصادي | social and economic | (none) | "Socioeconomic factors affect health." | ص ٤٨ |
+| **capacity** | اسم | قدرة / سعة | ability, capability | incapacity | "The venue has a capacity of 500." | ص ٤٨ |
+| **capture** | فعل | يلتقط / يسجل | record, catch | release, free | "The photo captures the moment." | ص ٤٨ |
+| **measures** | اسم | إجراءات | steps, actions | (none) | "Safety measures protect students." | ص ٤٨ |
+| **sociology** | اسم | علم الاجتماع | (none) | (none) | "Sociology studies human society." | ص ٤٨ |
+| **case** | اسم | حالة / قضية | instance, situation | (none) | "In this case, the student needs help." | ص ٤٨ |
+| **neighborhood** | اسم | حي / جوار | community, district | (none) | "A safe neighborhood is important." | ص ٤٨ |
+| **sports facilities** | اسم | مرافق رياضية | athletic facilities | (none) | "The school has excellent sports facilities." | ص ٤٨ |
+| **concept** | اسم | فكرة / مفهوم | idea, notion | (none) | "The concept of well-being is complex." | ص ٤٨ |
+| **nutritiously** | ظرف | بشكل مغذي | healthily | unhealthily | "Eat nutritiously for good health." | ص ٤٨ |
+| **struggle** | فعل | يكافح / يعاني | strive, battle | surrender, give up | "Many struggle with mental health issues." | ص ٤٨ |
+| **conditions** | اسم | حالات / شروط | circumstances, situations | (none) | "Living conditions affect well-being." | ص ٤٨ |
+| **obstacles** | اسم | عقبات | barriers, hindrances | advantages, aids | "Overcome obstacles to succeed." | ص ٤٨ |
+| **target** | فعل | يستهدف / يهدف إلى | aim at, focus on | (none) | "The program targets at-risk youth." | ص ٤٨ |
+| **convincing** | صفة | مقنع | persuasive, compelling | unconvincing | "He gave a convincing argument." | ص ٤٨ |
+| **outcomes** | اسم | نتائج | results, consequences | (none) | "Positive outcomes require effort." | ص ٤٨ |
+| **taxes** | اسم | ضرائب | levies, duties | (none) | "Taxes fund public services." | ص ٤٨ |
+| **demonstrate** | فعل | يوضح / يثبت | show, prove | conceal, hide | "The data demonstrates the trend." | ص ٤٨ |
+| **ownership** | اسم | ملكية / امتلاك | possession | (none) | "Take ownership of your actions." | ص ٤٨ |
+| **viewpoint** | اسم | وجهة نظر | perspective, outlook | (none) | "From my viewpoint, this is unfair." | ص ٤٨ |
+| **determine** | فعل | يحدد / يقرر | decide, settle | (none) | "Hard work determines success." | ص ٤٨ |
+| **passive** | صفة | سلبي | inactive, unresponsive | active, proactive | "A passive approach won't work." | ص ٤٨ |
+| **entirely** | ظرف | بالكامل | completely, totally | partially | "She is entirely responsible." | ص ٤٨ |
+| **philosopher** | اسم | فيلسوف | thinker, sage | (none) | "The philosopher questioned existence." | ص ٤٨ |
+| **willpower** | اسم | إرادة / قوة إرادة | determination, resolve | weakness | "Willpower helps achieve goals." | ص ٤٨ |
+| **external** | صفة | خارجي | outer, outside | internal | "External factors influence behavior." | ص ٤٨ |
+| **policy** | اسم | سياسة | rule, regulation | (none) | "The school has a strict policy." | ص ٤٨ |
 
 ---
 
-## 🔗 حروف الجر (Prepositions) — ص ١٢
+## 💬 العبارات والتعابير والمثل (Phrases, Expressions & Idioms) — ص ١٢ و ص ٤٨
 
-| حرف الجر | الاستخدام | مثال |
-|---|---|---|
-| banned for | محظور لـ | "Smoking is banned for minors." |
-| gap between | فجوة بين | "The gap between rich and poor is growing." |
-| compared to | مقارنة بـ | "Compared to last year, sales increased." |
-| transform from ... into ... | يحول من ... إلى ... | "The caterpillar transforms from a larva into a butterfly." |
-| depend on | يعتمد على | "Success depends on hard work." |
-| treat ... as | يعامل ... كـ | "Treat others as you want to be treated." |
-| draw into | يجذب إلى | "The movie draws you into its world." |
-| cope with | يتكيف مع / يتعامل مع | "Teenagers must cope with academic pressure." |
+| العبارة | المعنى العربي | مثال | رقم الصفحة |
+|---|---|---|---|
+| carry significant psychological results | تحمل نتائج نفسية مهمة | "Social media can carry significant psychological results." | ص ١٢ |
+| over the past decade | خلال العقد الماضي | "Over the past decade, technology advanced rapidly." | ص ١٢ |
+| draw the audience into | يجذب الجمهور إلى | "The speaker draws the audience into the story." | ص ١٢ |
+| feel valued | يشعر بالتقدير | "Employees feel valued when their work is recognized." | ص ١٢ |
+| in your own words | بكلماتك الخاصة | "Explain the concept in your own words." | ص ١٢ |
+| have time for | يملك وقتاً لـ | "Do you have time for a quick meeting?" | ص ١٢ |
+| a perfectly balanced diet | نظام غذائي متوازن تماماً | "A perfectly balanced diet includes all food groups." | ص ١٢ |
+| highlight-reel effect | تأثير اللقطة المميزة | "Instagram creates a highlight-reel effect of people's lives." | ص ١٢ |
+| fail at life | يفشل في الحياة | "Social media doesn't determine if you fail at life." | ص ١٢ |
+| make...stronger | يجعل...أقوى | "Exercise makes your body stronger." | ص ١٢ |
+| an either-or choice | خيار إما هذا أو ذاك | "Life isn't always an either-or choice." | ص ٤٨ |
+| feel in control | يشعر بالسيطرة | "Exercise helps you feel in control." | ص ٤٨ |
+| make positive changes | يقوم بتغييرات إيجابية | "Small steps make positive changes." | ص ٤٨ |
+| a sense of purpose | إحساس بالهدف | "Having a sense of purpose improves well-being." | ص ٤٨ |
+| lies at the heart of | يكمن في قلب | "Respect lies at the heart of relationships." | ص ٤٨ |
+| shape human behavior | يشكل السلوك البشري | "Culture shapes human behavior." | ص ٤٨ |
+| by contrast | على النقيض | "By contrast, rural life is quieter." | ص ٤٨ |
+| make a decision | يتخذ قراراً | "You need to make a decision." | ص ٤٨ |
+| take control of | يسيطر على | "Take control of your life." | ص ٤٨ |
+| exert enormous pressure on | يمارس ضغطاً هائلاً على | "Social media exerts pressure on teens." | ص ٤٨ |
+| make choices | يتخذ خيارات | "We make choices every day." | ص ٤٨ |
+| well-lived life | حياة عيشت جيداً | "A well-lived life brings fulfillment." | ص ٤٨ |
 
 ---
 
-## 🔄 المشتقات (Derivatives) — ص ١٤
+## 🔗 حروف الجر (Prepositions) — ص ١٢ و ص ٤٨
+
+| حرف الجر | الاستخدام | مثال | رقم الصفحة |
+|---|---|---|---|
+| banned for | محظور لـ | "Smoking is banned for minors." | ص ١٢ |
+| gap between | فجوة بين | "The gap between rich and poor is growing." | ص ١٢ |
+| compared to | مقارنة بـ | "Compared to last year, sales increased." | ص ١٢ |
+| transform from ... into ... | يحول من ... إلى ... | "The caterpillar transforms from a larva into a butterfly." | ص ١٢ |
+| depend on | يعتمد على | "Success depends on hard work." | ص ١٢ |
+| treat ... as | يعامل ... كـ | "Treat others as you want to be treated." | ص ١٢ |
+| draw into | يجذب إلى | "The movie draws you into its world." | ص ١٢ |
+| cope with | يتكيف مع / يتعامل مع | "Teenagers must cope with academic pressure." | ص ١٢ |
+| attribute ... to | ينسب ... إلى | "He attributes his success to hard work." | ص ٤٨ |
+| built into | مضمن في | "Safety features are built into the car." | ص ٤٨ |
+| refer to | يشير إلى | "Refer to the manual for instructions." | ص ٤٨ |
+| belief about | اعتقاد حول | "Her belief about education is strong." | ص ٤٨ |
+| capable of | قادر على | "She is capable of great things." | ص ٤٨ |
+| believe in | يؤمن بـ | "Believe in yourself." | ص ٤٨ |
+| central to | مركزي لـ | "Trust is central to relationships." | ص ٤٨ |
+| responsible for | مسؤول عن | "Parents are responsible for their children." | ص ٤٨ |
+| benefit of | فائدة لـ | "Exercise for the benefit of your health." | ص ٤٨ |
+| perspective on | وجهة نظر حول | "From a psychological perspective on..." | ص ٤٨ |
+
+---
+
+## 🔄 المشتقات (Derivatives) — ص ١٤ و ص ٤٩
 
 | الفعل | الاسم | الصفة |
 |---|---|---|
 | bias | bias | biased |
 | dissatisfy | dissatisfaction | dissatisfied |
 | dissatisfy | dissatisfaction | dissatisfying |
+| disempower | disempowerment | disempowering |
+| afford | affordability | affordable |
+| believe | belief / believer | believable |
+| demonstrate | demonstration | demonstrative |
+| determine | determination | determined |
+| depend | dependence | independent |
 
 ---
 
@@ -451,8 +350,10 @@ Identify the grammar error: 'She نص قراءة عن وسائل التواصل 
 
 | الكلمة | النطق التقريبي | المعنى العربي | الدرس | رقم الصفحة |
 |---|---|---|---|---|
+| abandon | /əˈbændən/ | يتخلى عن | ١.٣ | ص ٤٨ |
 | acquaintances | /əˈkweɪntənsɪz/ | معارف | ١.١ | ص ١٢ |
 | aggressive | /əˈɡresɪv/ | عدواني | ١.١ | ص ١٢ |
+| agency | /ˈeɪdʒənsi/ | قدرة الاختيار | ١.٣ | ص ٤٨ |
 | association | /əˌsəʊsieɪʃn/ | جمعية | ١.١ | ص ١٢ |
 | balance | /ˈbæləns/ | توازن | ١.١ | ص ١٢ |
 | bias | /ˈbaɪəs/ | تحيز | ١.١ | ص ١٢ |
@@ -461,11 +362,12 @@ Identify the grammar error: 'She نص قراءة عن وسائل التواصل 
 | complex | /ˈkɒmpleks/ | معقد | ١.١ | ص ١٢ |
 | construct | /kənˈstrʌkt/ | يبني | ١.١ | ص ١٢ |
 | decade | /ˈdekeɪd/ | عقد | ١.١ | ص ١٢ |
+| disempowering | /ˌdɪsɪmˈpaʊərɪŋ/ | مُضعف للثقة | ١.٣ | ص ٤٨ |
 | distant | /ˈdɪstənt/ | بعيد | ١.١ | ص ١٢ |
 | dissatisfaction | /ˌdɪsætɪsˈfækʃn/ | عدم رضا | ١.١ | ص ١٢ |
 | element | /ˈeləmənt/ | عنصر | ١.١ | ص ١٢ |
 | evaluate | /ɪˈvæljeɪt/ | يقيّم | ١.١ | ص ١٢ |
-| excus | /ɪkˈskjuːzɪz/ | أعذار | ١.١ | ص ١٢ |
+| excuses | /ɪkˈskjuːzɪz/ | أعذار | ١.١ | ص ١٢ |
 | express | /ɪkˈspres/ | يعبر | ١.١ | ص ١٢ |
 | filtered | /ˈfɪltəd/ | مصفى | ١.١ | ص ١٢ |
 | formation | /fɔːˈmeɪʃn/ | تكوين | ١.١ | ص ١٢ |
@@ -485,9 +387,10 @@ Identify the grammar error: 'She نص قراءة عن وسائل التواصل 
 | psychological | /ˌsaɪkəˈlɒdʒɪkl/ | نفسي | ١.١ | ص ١٢ |
 | publish | /ˈpʌblɪʃ/ | ينشر | ١.١ | ص ١٢ |
 | pressure | /ˈpreʃə/ | ضغط | ١.١ | ص ١٢ |
-| psychologist | /saɪˈkɒlədʒɪst/ | أخصائي نفسي | ١.١ | ص ١٢ |
+| resilience | /rɪˈzɪliəns/ | المرونة | ١.٣ | ص ٤٨ |
 | reshape | /riːˈʃeɪp/ | يعيد تشكيل | ١.١ | ص ١٢ |
 | rise | /raɪz/ | يرتفع | ١.١ | ص ١٢ |
+| self-efficacy | /ˌself ˈefɪkəsi/ | الفعالية الذاتية | ١.٣ | ص ٤٨ |
 | self-esteem | /ˌself ɪˈstiːm/ | احترام الذات | ١.١ | ص ١٢ |
 | self-image | /ˌself ˈɪmɪdʒ/ | صورة الذات | ١.١ | ص ١٢ |
 | sensitive | /ˈsensətɪv/ | حساس | ١.١ | ص ١٢ |
@@ -498,7 +401,7 @@ Identify the grammar error: 'She نص قراءة عن وسائل التواصل 
 | stage | /steɪdʒ/ | مرحلة | ١.١ | ص ١٢ |
 | symptom | /ˈsɪmptəm/ | عرض | ١.١ | ص ١٢ |
 | teenager | /ˈtiːneɪdʒə/ | مراهق | ١.١ | ص ١٢ |
-| tend | /ˈtendənsi/ | نزعة | ١.١ | ص ١٢ |
+| tendency | /ˈtendənsi/ | نزعة | ١.١ | ص ١٢ |
 | toxic | /ˈtɒksɪk/ | سام | ١.١ | ص ١٢ |
 | transform | /trænsˈfɔːm/ | يحول | ١.١ | ص ١٢ |
 | unrealistic | /ˌʌnriːəˈlɪstɪk/ | غير واقعي | ١.١ | ص ١٢ |
@@ -506,4 +409,4 @@ Identify the grammar error: 'She نص قراءة عن وسائل التواصل 
 
 ---
 
-**المصدر:** كتاب "الاضواء" — الإنجليزية للصف الثاني ثانوي الترم الأول، الوحدة ١ الجزء أ، الصفحات ١١-١٤ (الطبعة المعتمدة ٢٠٢٦/٢٠٢٧).
+**المصدر:** كتاب "الاضواء" — الإنجليزية للصف الثاني ثانوي الترم الأول، الوحدة ١ الجزء أ، الصفحات ١١-١٤ و ٤٧-٤٩ (الطبعة المعتمدة ٢٠٢٦/٢٠٢٧).
