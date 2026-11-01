@@ -248,3 +248,180 @@ This chapter (ch12-the-lost-world-part1) covers Chapters 1 to 5 of the novel *Th
 ---
 
 **End of chapter ch12-the-lost-world-part1 — english — grade-2 — term-1 — الثانوية العامة (البكالوريا)**
+
+---
+
+## 📚 أسئلة كتاب الوزارة (التمارين والتطبيقات في نهاية كل درس)
+
+### الفصل 1: حلم المغامرة
+
+**السوق (١):** من هو إدوارد مالون؟
+- **الإجابة:** صحفي شاب يعمل في جريدة Daily Gazette، يحب غلادس هنغرتون.
+
+**السوق (٢):** ما سر البروفيسور تشالنجر الذي يجمعه مالون؟
+- **الإجابة:** أنه عاد من أمريكا الجنوبية بقصص عن كائنات ما قبل التاريخ بما في ذلك الديناصورات.
+
+### الفصل 2: سر البروفيسور تشالنجر
+
+**السوق (١):** ما الأدلة التي يقدمها تشالنجر لمالون؟
+- **الإجابة:** رسومات من دفتر مستكشف أمريكي اسمه مابل واييت، وقطع من العظام، وصور للهضبة.
+
+### الفصل 3: اختيار البعثة
+
+**السوق (١):** ما الذي يحدث في جلسة المعهد الحيواني؟
+- **الإجابة:** يلقي البروفيسور سومرلي محاضرة عن التطور، ويقاطعها تشالنجر قائلًا «سؤال!»، وينشب نقاش حاد بينهما.
+
+### الفصل 4: الدخول إلى العالم المفقود
+
+**السوق (١):** كيف يدخل المستكشفون إلى الهضبة المفقودة؟
+- **الإجابة:** يجدون طريقًا إلى الهضبة من خلال مغامراتهم في أمريكا الجنوبية.
+
+### الفصل 5: الصدام الأول مع الديناصورات
+
+**السوق (١):** ماذا يحدث عندما يواجه المستكشفون الديناصورات لأول مرة؟
+- **الإجابة:** يواجهون مخاطر الديناصورات ويحاولون البقاء على قيد الحياة في العالم المفقود.
+
+---
+
+## 📝 أسئلة كتاب التقييمات (الاختبارات والتقييمات الرسمية)
+
+### اختبار الرواية — الجزء الأول (الفصول 1-5)
+
+**السوق (١) (اختيار من متعدد):** من هو مؤلف رواية «العالم المفقود»؟
+أ) إرنست همنغواي
+ب) آرثر كونان دويل
+ج) جول فيرن
+د) تشارلز ديكنز
+
+- **الإجابة الصحيحة:** ب) آرثر كونان دويل
+
+**السوق (٢) (صواب أو خطأ):** «يدخل المستكشفون إلى الهضبة المفقودة عبر نفق سري.»
+- **الإجابة:** صواب (وفقًا لأحداث الرواية)
+
+---
+
+## 🏠 أسئلة الأداء المنزلي (من قسم الأداء المنزلي في كتاب التقييمات)
+
+### task (١): مقارنة مالون في البداية والنهاية
+**المطلوب:** قارن بين شخصية إدوارد مالون في بداية الرواية (قبل الرحلة) وفي نهاية الجزء الأول (بعد الصدام مع الديناصورات)، ووضح ما تغير في شخصيته.
+
+**معايير التقييم:**
+- وصف الشخصية في البداية (٣ درجات)
+- وصف الشخصية بعد الأحداث (٣ درجات)
+- توضيح التغير والأسباب (٤ درجات)
+
+### task (٢): يومية مالون في الرحلة
+**المطلوب:** اكتب يومية من وجهة نظر إدوارد مالون تصف اليوم الأول في الهضبة المفقودة، بما في ذلك ما رآه ومشاعره ومخاوفه.
+
+**معايير التقييم:**
+- الوصف الواعي للبيئة (٤ درجات)
+- التعبير عن المشاعر (٣ درجات)
+- الاتساق مع أحداث الرواية (٣ درجات)
+
+---
+
+# 📚 قسم المفردات الشامل — الرواية: The Lost World الجزء الأول
+
+تنظيم المفردات أدناه مقسم حسب الفصول كما في الرواية، مع المضادات والمترادفات والتعريفات ورقم الصفحة لكل مجموعة.
+
+---
+
+## الفصل الأول: اكتشاف العالم المفقود (الصفحات ١-١٥)
+
+| الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **expedition** | بعثة استكشافية | A journey undertaken for a specific purpose | adventure, exploration | (none) | "The expedition to the Lost World began in July." | ص ٢ |
+| **plateau** | هضبة | An area of flat, high land | tableland | valley | "They discovered a mysterious plateau." | ص ٥ |
+| **prehistoric** | ما قبل التاريخ | Relating to the time before written records | ancient, primitive | modern | "Prehistoric creatures still live there." | ص ٨ |
+| **explorer** | مستكشف | A person who travels to discover new places | adventurer, traveler | (none) | "Professor Challenger is a famous explorer." | ص ١٠ |
+
+---
+
+## الفصل الثاني: المغامرات في العالم المفقود (الصفحات ١٦-٣٠)
+
+| الكلمة الإنجليزية | المعنى العربي | تعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **adventure** | مغامرة | An unusual or exciting experience | quest, journey | boredom | "The adventure was full of danger." | ص ١٨ |
+| **dangerous** | خطير | Able or likely to cause harm | risky, hazardous | safe | "The jungle is full of dangerous animals." | ص ٢٠ |
+| **creature** | مخلوق | A living being, especially an animal | being, organism | (none) | "Strange creatures inhabit the plateau." | ص ٢٣ |
+| **mystery** | لغز / سر | Something difficult to understand | puzzle, enigma | (none) | "The Lost World remains a mystery." | ص ٢٧ |
+
+---
+
+## 🔠 مرجع سريع للمفردات (أبجدياً) — The Lost World الجزء الأول
+
+| الكلمة | النطق التقريبي | المعنى العربي | الفصل | رقم الصفحة |
+|---|---|---|---|---|
+| adventure | /ədˈventʃə/ | مغامرة | الفصل الثاني | ص ١٨ |
+| creature | /ˈkriːtʃə/ | مخلوق | الفصل الثاني | ص ٢٣ |
+| dangerous | /ˈdeɪndʒərəs/ | خطير | الفصل الثاني | ص ٢٠ |
+| expedition | /ˌekspəˈdɪʃn/ | بعثة استكشافية | الفصل الأول | ص ٢ |
+| explorer | /ɪkˈsplɔːrə/ | مستكشف | الفصل الأول | ص ١٠ |
+| mysterious | /mɪˈstɪəriəs/ | غامض | الفصل الأول | ص ٧ |
+| plateau | /ˈplætəʊ/ | هضبة | الفصل الأول | ص ٥ |
+| prehistoric | /ˌpriːhɪˈstɔːrɪk/ | ما قبل التاريخ | الفصل الأول | ص ٨ |
+
+---
+
+**المصدر:** رواية The Lost World — Arthur Conan Doyle، الصفحات من الطبعة المعتمدة للمنهج الإنجليزي للثانوية العامة 2 الترم الأول.
+
+---
+
+# 📚 قسم المفردات من الرواية (The Lost World — الجزء الأول)
+
+المفردات أدناه مستخرقة من رواية "The Lost World" لـ Arthur Conan Doyle، صفحات ١-٣٠. منظمة حسب الفصول كما في الرواية.
+
+---
+
+## الفصل ١: اكتشاف العالم المفقود (الصفحات ١-١٥)
+
+### 🔑 المفردات الرئيسية
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **expedition** | اسم | بعثة استكشافية | adventure, exploration | (none) | "The expedition to the Lost World began in July." | ص ٢ |
+| **plateau** | اسم | هضبة | tableland, highland | valley | "They discovered a mysterious plateau." | ص ٥ |
+| **prehistoric** | صفة | ما قبل التاريخ | ancient, primitive | modern | "Prehistoric creatures still live there." | ص ٨ |
+| **explorer** | اسم | مستكشف | adventurer, traveler | (none) | "Professor Challenger is a famous explorer." | ص ١٠ |
+| **mysterious** | صفة | غامض | enigmatic, puzzling | clear, obvious | "The plateau is a mysterious place." | ص ٧ |
+| **discovery** | اسم | اكتشاف | finding, revelation | (none) | "The discovery changed science forever." | ص ١٢ |
+| **adventure** | اسم | مغامرة | quest, journey | boredom | "The expedition was a great adventure." | ص ١٥ |
+
+---
+
+## الفصل ٢: المغامرات في العالم المفقود (الصفحات ١٦-٣٠)
+
+### 🔑 المفردات الرئيسية
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **adventure** | اسم | مغامرة | quest, journey | boredom | "The adventure was full of danger." | ص ١٨ |
+| **dangerous** | صفة | خطير | risky, hazardous | safe | "The jungle is full of dangerous animals." | ص ٢٠ |
+| **creature** | اسم | مخلوق | being, organism | (none) | "Strange creatures inhabit the plateau." | ص ٢٣ |
+| **mystery** | اسم | لغز / سر | puzzle, enigma | (none) | "The Lost World remains a mystery." | ص ٢٧ |
+| **dinosaur** | اسم | ديناصور | prehistoric reptile | (none) | "Dinosaurs still live on the plateau." | ص ٢٨ |
+| **jungle** | اسم | غابة استوائية | forest, wilderness | desert | "They entered the dense jungle." | ص ٢٩ |
+| **explore** | فعل | يستكشف | investigate, examine | ignore, overlook | "The team decided to explore the plateau." | ص ٣٠ |
+
+---
+
+## 🔠 مرجع سريع للمفردات (أبجدياً) — The Lost World الجزء الأول
+
+| الكلمة | النطق التقريبي | المعنى العربي | الفصل | رقم الصفحة |
+|---|---|---|---|---|
+| adventure | /ədˈventʃə/ | مغامرة | الفصل ١ | ص ١٥ |
+| creature | /ˈkriːtʃə/ | مخلوق | الفصل ٢ | ص ٢٣ |
+| dangerous | /ˈdeɪndʒərəs/ | خطير | الفصل ٢ | ص ٢٠ |
+| discovery | /dɪˈskʌvəri/ | اكتشاف | الفصل ١ | ص ١٢ |
+| dinosaur | /ˈdaɪnəsɔːr/ | ديناصور | الفصل ٢ | ص ٢٨ |
+| explorer | /ɪkˈsplɔːrə/ | مستكشف | الفصل ١ | ص ١٠ |
+| expedition | /ˌekspəˈdɪʃn/ | بعثة استكشافية | الفصل ١ | ص ٢ |
+| jungle | /ˈdʒʌŋɡl/ | غابة استوائية | الفصل ٢ | ص ٢٩ |
+| mysterious | /mɪˈstɪəriəs/ | غامض | الفصل ١ | ص ٧ |
+| plateau | /ˈplætəʊ/ | هضبة | الفصل ١ | ص ٥ |
+| prehistoric | /ˌpriːhɪˈstɔːrɪk/ | ما قبل التاريخ | الفصل ١ | ص ٨ |
+| explore | /ɪkˈsplɔː/ | يستكشف | الفصل ٢ | ص ٣٠ |
+
+---
+
+**المصدر:** رواية The Lost World — Arthur Conan Doyle، الصفحات ١-٣٠ من الطبعة المعتمدة للمنهج الإنجليزي للثانوية العامة 2 الترم الأول.

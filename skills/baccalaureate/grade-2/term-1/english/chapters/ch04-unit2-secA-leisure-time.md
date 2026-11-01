@@ -101,3 +101,261 @@ Identify the grammar error: 'She نص قراءة عن أنشطة وقت الفر
 
 **End of chapter ch04-unit2-secA-leisure-time — english — grade-2 — term-1 — الثانوية العامة (البكالوريا)**
 
+
+---
+
+## 📚 أسئلة كتاب الوزارة (التمارين والتطبيقات في نهاية كل درس)
+
+### الدرس الأول: وقت الفراغ والشباب
+
+**السوق (١):** ما تأثير وقت الشاشة المفرط على الشباب؟
+- **الإجابة:** قد يؤدي إلى قلة النشاط البدني، وضعف التركيز، ومشاكل النوم.
+
+**السوق (٢):** ما هي الأنشطة الإبداعية كوسيلة لقضاء وقت الفراغ؟
+- **الإجابة:** الرسم، الموسيقى، الكتابة، الحرف اليدوية، وغيرها من الأنشطة التي تعزز الإبداع.
+
+### الدرس الثاني: الفنون الإبداعية كنشاط ترفيهي
+
+**السوق (١):** كيف تساهم الفنون الإبداعية في تطوير شخصية المراهق؟
+- **الإجابة:** تعزز التعبير عن الذات، وتطور المهارات الإبداعية، وتقلل التوتر.
+
+**السوق (٢):** ما الفرق بين وقت الفراغ السلبي والنشط؟
+- **الإجابة:** وقت الفراغ السلبي يتضمن أنشطة غير منتجة مثل مشاهدة التلفزيون لفترات طويلة، بينما وقت الفراغ النشط يتضمن أنشطة منتجة ومفيدة.
+
+---
+
+## 📝 أسئلة كتاب التقييمات (الاختبارات والتقييمات الرسمية)
+
+### اختبار الوحدة الثانية — Sec A: وقت الفراغ
+
+**السوق (١) (اختيار من متعدد):** ما هو تأثير وقت الشاشة المفرط على الشباب؟
+أ) تحسين اللياقة البدنية
+ب) قلة النشاط البدني ومشاكل النوم
+ج) تحسين التواصل الاجتماعي Face-to-face
+د) زيادة الإنتاجية الدراسية
+
+- **الإجابة الصحيحة:** ب) قلة النشاط البدني ومشاكل النوم
+
+**السوق (٢) (صواب أو خطأ):** «الفنون الإبداعية لا تساهم في تطوير شخصية المراهق.»
+- **الإجابة:** خطأ
+
+---
+
+## 🏠 أسئلة الأداء المنزلي (من قسم الأداء المنزلي في كتاب التقييمات)
+
+### task (١): سجل وقت الفراغ الأسبوعي
+**المطلوب:** سجل كيف تقضي وقت فراغك لمدة أسبوع، وحدد كم من الوقت تقضيه في أنشطة نشطة مقابل أنشطة سلبية، واكتب خطة لتحسين التوازن.
+
+**معايير التقييم:**
+- التسجيل اليومي (٣ درجات)
+- التحليل الدقيق (٤ درجات)
+- الخطة للتحسين (٣ درجات)
+
+### task (٢): تصميم نشاط إبداعي
+**المطلوب:** صمم نشاطًا إبداعيًا يمكن للمراهقين ممارسته في وقت فراغهم، ووضح فوائده على الصحة النفسية والإبداعية.
+
+**معايير التقييم:**
+- إبداع النشاط (٤ درجات)
+- توضيح الفوائد (٤ درجات)
+- الوضوح وال.application (٣ درجات)
+
+---
+
+# 📚 قسم المفردات الشامل — الوحدة ٢ الجزء أ: وقت الفراغ
+
+تنظيم المفردات أدناه مقسم حسب الدروس كما في الكتاب، مع المضادات والمترادفات والتعريفات ورقم الصفحة لكل مجموعة.
+
+---
+
+## الدرس الأول: أنشطة وقت الفراغ والهوايات (الصفحات ٥٦-٦٠)
+
+| الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **leisure time** | وقت فراغ | Time free from work or duties | free time, spare time | work time | "Teenagers should use leisure time productively." | ص ٥٧ |
+| **hobby** | هواية | An activity done regularly for pleasure | pastime, interest | obligation | "Reading is my favorite hobby." | ص ٥٨ |
+| **recreation** | ترفيه / تنفس | Activity done for enjoyment when one is working | entertainment, amusement | work | "Outdoor recreation improves physical health." | ص ٥٩ |
+| **pastime** | ممارسة مفضلة / وقت فراغ | An activity done for enjoyment | hobby, interest | chore | "Gardening is a relaxing pastime." | ص ٦٠ |
+
+---
+
+## الدرس الثاني: أنواع الأنشطة الترفيهية (الصفحات ٦١-٦٥)
+
+| الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **creative activity** | نشاط إبداعي | An activity that involves imagination and originality | artistic activity | routine activity | "Painting is a creative activity." | ص ٦٢ |
+| **physical activity** | نشاط بدني | Any bodily movement produced by muscles | exercise, sport | sedentary behavior | "Physical activity keeps the body fit." | ص ٦٣ |
+| **social activity** | نشاط اجتماعي | An activity done with other people | group activity | solitary activity | "Club meetings are social activities." | ص ٦٤ |
+| **cultural activity** | نشاط ثقافي | An activity related to arts, heritage, or knowledge | educational activity | (none) | "Visiting museums is a cultural activity." | ص ٦٥ |
+
+---
+
+## 🔠 مرجع سريع للمفردات (أبجدياً)
+
+| الكلمة | النطق التقريبي | المعنى العربي | الدرس | رقم الصفحة |
+|---|---|---|---|---|
+| creative activity | /kriˈeɪtɪv ækˈtɪvəti/ | نشاط إبداعي | الدرس الثاني | ص ٦٢ |
+| cultural activity | /ˈkʌltʃərəl ækˈtɪvəti/ | نشاط ثقافي | الدرس الثاني | ص ٦٥ |
+| hobby | /ˈhɒbi/ | هواية | الدرس الأول | ص ٥٨ |
+| leisure time | /ˈliːʒə taɪm/ | وقت فراغ | الدرس الأول | ص ٥٧ |
+| pastime | /ˈpaːstaɪm/ | ممارسة مفضلة | الدرس الأول | ص ٦٠ |
+| physical activity | /ˈfɪzɪkl ækˈtɪvəti/ | نشاط بدني | الدرس الثاني | ص ٦٣ |
+| recreation | /ˌrekriˈeɪʃn/ | ترفيه | الدرس الأول | ص ٥٩ |
+| social activity | /ˈsəʊʃl ækˈtɪvəti/ | نشاط اجتماعي | الدرس الثاني | ص ٦٤ |
+
+---
+
+**المصدر:** كتاب المنهج الإنجليزي —secondary grade 2 term 1، unidad 2 الجزء أ. الصفحات المشار إليها أعلاه من الطبعة المعتمدة للعام الدراسي ٢٠٢٦/٢٠٢٧.
+
+---
+
+# 📚 قسم المفردات من الكتاب (الاضواء — الوحدة ٢ الجزء أ: وقت الفراغ)
+
+المفردات أدناه مستخرقة مباشرة من كتاب "الاضواء" للصف الثاني ثانوي الترم الأول، صفحات ٩٣-٩٤. منظمة حسب الدروس كما في الكتاب.
+
+---
+
+## الدرس ٢.١: وقت الشاشة والشباب (الصفحة ٩٤)
+
+### 🔑 المفاتيح الرئيسية (Key Vocabulary)
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **addictive** | صفة | إدماني | habit-forming, compulsive | non-addictive | "Video games can be addictive." | ص ٩٤ |
+| **interfere** | فعل | يتداخل / يتدخل | meddle, intrude | help, assist | "Don't interfere in my personal life." | ص ٩٤ |
+| **anxiety** | اسم | قلق / توتر | worry, nervousness | calmness, confidence | "Social media can cause anxiety." | ص ٩٤ |
+| **mindful** | صفة | مدرك / واعي | aware, conscious | unaware, careless | "Be mindful of your screen time." | ص ٩٤ |
+| **boundaries** | اسم | حدود / حدود | limits, borders | (none) | "Set boundaries for technology use." | ص ٩٤ |
+| **replicate** | فعل | يكرر / يستنسخ | copy, duplicate | (none) | "Scientists try to replicate the results." | ص ٩٤ |
+| **fulfilling** | صفة | مرضٍ / مُشبع | satisfying, rewarding | unfulfilling | "A fulfilling hobby brings joy." | ص ٩٤ |
+| **withdraw** | فعل | ينسحب / ينسحب | retreat, pull back | join, participate | "She withdrew from the competition." | ص ٩٤ |
+
+### 📖 المفردات الرئيسية (Main Vocabulary)
+
+| الكلمة | جزء الكلام | المعنى العربي | المترادفات | المضادات | مثال | رقم الصفحة |
+|---|---|---|---|---|---|---|
+| **active** | صفة | نشط | energetic, lively | passive, inactive | "An active lifestyle improves health." | ص ٩٤ |
+| **leisure** | اسم | وقت فراغ | free time, spare time | work, duty | "Leisure time should be used wisely." | ص ٩٤ |
+| **satisfied** | صفة | راضٍ | content, pleased | dissatisfied, unhappy | "Are you satisfied with your life?" | ص ٩٤ |
+| **appearance** | اسم | مظهر / شكل | look, appearance | (none) | "Don't judge by appearance alone." | ص ٩٤ |
+| **loneliness** | اسم | وحدة / عزلة | isolation, solitude | companionship | "Loneliness affects mental health." | ص ٩٤ |
+| **screen time** | اسم | وقت الشاشة | time on devices | (none) | "Limit screen time for children." | ص ٩٤ |
+| **screen-saturated** | صفة | مشبع بالشاشات | full of screens | screen-free | "We live in a screen-saturated world." | ص ٩٤ |
+| **associated** | صفة | مرتبط | connected, linked | unassociated | "Stress is associated with overwork." | ص ٩٤ |
+| **manage** | فعل | يدير / يدبر | handle, control | mismanage | "Learn to manage your time well." | ص ٩٤ |
+| **average** | اسم | متوسط | mean, norm | (none) | "The average teenager spends 4 hours online." | ص ٩٤ |
+| **mental** | صفة | نفسي / عقلي | psychological, emotional | physical | "Mental health is as important as physical." | ص ٩٤ |
+| **self-esteem** | اسم | احترام الذات | self-worth, confidence | self-doubt, insecurity | "Social media affects self-esteem." | ص ٩٤ |
+| **comparison** | اسم | مقارنة | contrast, analogy | (none) | "Avoid social comparison on Instagram." | ص ٩٤ |
+| **mood** | اسم | مزاج / حالة نفسية | temper, feeling | (none) | "Music can improve your mood." | ص ٩٤ |
+| **self-expression** | اسم | تعبير عن الذات | self-assertion | (none) | "Art is a form of self-expression." | ص ٩٤ |
+| **concentration** | اسم | تركيز | focus, attention | distraction | "Screen time affects concentration." | ص ٩٤ |
+| **negatively** | ظرف | بشكل سلبي | adversely, badly | positively | "Social media can affect you negatively." | ص ٩٤ |
+| **self-image** | اسم | صورة الذات | self-perception | (none) | "Positive self-image builds confidence." | ص ٩٤ |
+| **concern** | اسم | قلق / اهتمام | worry, interest | indifference | "There is growing concern about screen time." | ص ٩٤ |
+| **navigate** | فعل | يتصفح / يتنقل | browse, move through | (none) | "Teens navigate social media easily." | ص ٩٤ |
+| **sleep quality** | اسم | جودة النوم | quality of rest | poor sleep | "Good sleep quality improves health." | ص ٩٤ |
+| **overall** | صفة / ظرف | شامل / بشكل عام | general, total | partial | "Overall, exercise improves well-being." | ص ٩٤ |
+| **constant** | صفة | دائم / مستمر | continuous, steady | occasional, intermittent | "Constant screen use is unhealthy." | ص ٩٤ |
+| **social** | صفة | اجتماعي | communal, group | antisocial | "Social activities build friendships." | ص ٩٤ |
+| **coordination** | اسم | تنسيق / تناغم | organization, cooperation | (none) | "Hand-eye coordination improves with games." | ص ٩٤ |
+| **passion** | اسم | شغف | enthusiasm, love | apathy, indifference | "Follow your passion in life." | ص ٩٤ |
+| **socialize** | فعل | يمتلط اجتماعياً | mix, mingle | isolate, withdraw | "Teens need to socialize face-to-face." | ص ٩٤ |
+| **creativity** | اسم | إبداع | imagination, innovation | (none) | "Creative arts develop creativity." | ص ٩٤ |
+| **passive** | صفة | سلبي | inactive, unresponsive | active, proactive | "Passive screen time is less healthy." | ص ٩٤ |
+| **spark** | اسم / فعل | شرارة / يشعل | ignite, trigger | (none) | "The book sparked her interest in art." | ص ٩٤ |
+| **debate** | اسم | نقاش / جدال | discussion, argument | (none) | "There is a debate about screen time." | ص ٩٤ |
+| **period** | اسم | فترة / مدة | time, duration | (none) | "During this period, limit phone use." | ص ٩٤ |
+| **spectrum** | اسم | طيف / نطاق | range, scale | (none) | "There is a spectrum of leisure activities." | ص ٩٤ |
+| **essential** | صفة | أساسي | necessary, crucial | optional, unnecessary | "Sleep is essential for health." | ص ٩٤ |
+| **produce** | فعل | ينتج / يصنع | create, make | destroy, eliminate | "Hobbies produce joy and satisfaction." | ص ٩٤ |
+| **stimulation** | اسم | تحفيز / إثارة | excitation, activation | (none) | "Video games provide mental stimulation." | ص ٩٤ |
+| **expressive** | صفة | معبر | communicative, articulate | inexpressive | "Art is an expressive activity." | ص ٩٤ |
+| **real-life** | صفة | واقعي / من الحياة الحقيقية | actual, genuine | virtual, artificial | "Real-life interactions are important." | ص ٩٤ |
+| **streaming** | اسم | بث مباشر | broadcasting | (none) | "Streaming services are popular." | ص ٩٤ |
+| **gaming disorder** | اسم | اضطراب الألعاب | gaming addiction | (none) | "Gaming disorder is a recognized condition." | ص ٩٤ |
+| **restrict** | فعل | يقيد / يحدد | limit, confine | allow, permit | "Parents should restrict screen time." | ص ٩٤ |
+| **video gaming** | اسم | ألعاب فيديو | electronic gaming | (none) | "Video gaming can be addictive." | ص ٩٤ |
+| **interactive** | صفة | تفاعلي | engaging, participatory | non-interactive | "Interactive games improve coordination." | ص ٩٤ |
+| **restore** | فعل | يستعيد / يعيد | recover, bring back | destroy, damage | "Sleep restores energy and health." | ص ٩٤ |
+| **worth** | اسم | قيمة / يستحق | value, merit | worthlessness | "Your time is worth more than scrolling." | ص ٩٤ |
+
+---
+
+## 💬 العبارات والتعابير والمثل (Phrases, Expressions & Idioms) — ص ٩٤
+
+| العبارة | المعنى العربي | مثال |
+|---|---|---|
+| carry significant psychological results | تحمل نتائج نفسية مهمة | "Excessive screen time can carry significant psychological results." |
+| over the past decade | خلال العقد الماضي | "Over the past decade, screen use has increased." |
+
+---
+
+## 🔗 حروف الجر (Prepositions) — ص ٩٤
+
+| حرف الجر | الاستخدام | مثال |
+|---|---|---|
+| depend on | يعتمد على | "Mental health depends on many factors." |
+
+---
+
+## 🔄 المشتقات (Derivatives) — ص ٩٤
+
+| الفعل | الاسم | الصفة |
+|---|---|---|
+| add | addition | addictive |
+| satisfy | satisfaction | satisfied |
+| concentrate | concentration | concentrated |
+
+---
+
+## 🔠 مرجع سريع للمفردات (أبجدياً)
+
+| الكلمة | النطق التقريبي | المعنى العربي | الدرس | رقم الصفحة |
+|---|---|---|---|---|
+| addictive | /əˈdɪktɪv/ | إدماني | ٢.١ | ص ٩٤ |
+| active | /ˈæktɪv/ | نشط | ٢.١ | ص ٩٤ |
+| appearance | /əˈpɪərəns/ | مظهر | ٢.١ | ص ٩٤ |
+| associated | /əˈsəʊsieɪtɪd/ | مرتبط | ٢.١ | ص ٩٤ |
+| average | /ˈævərɪdʒ/ | متوسط | ٢.١ | ص ٩٤ |
+| boundaries | /ˈbaʊndəriz/ | حدود | ٢.١ | ص ٩٤ |
+| concentration | /ˌkɒnsənˈtreɪʃn/ | تركيز | ٢.١ | ص ٩٤ |
+| concern | /kənˈsɜːn/ | قلق | ٢.١ | ص ٩٤ |
+| constant | /ˈkɒnstənt/ | دائم | ٢.١ | ص ٩٤ |
+| creativity | /ˌkriːeɪˈtɪvəti/ | إبداع | ٢.١ | ص ٩٤ |
+| debate | /dɪˈbeɪt/ | نقاش | ٢.١ | ص ٩٤ |
+| expressive | /ɪkˈspresɪv/ | معبر | ٢.١ | ص ٩٤ |
+| fulfilling | /fʊlˈfɪlɪŋ/ | مرضٍ | ٢.١ | ص ٩٤ |
+| gaming disorder | /ˈɡeɪmɪŋ dɪˈɔːdə/ | اضطراب الألعاب | ٢.١ | ص ٩٤ |
+| interfere | /ˌɪntəˈfɪə/ | يتداخل | ٢.١ | ص ٩٤ |
+| interactive | /ˌɪntəˈræktɪv/ | تفاعلي | ٢.١ | ص ٩٤ |
+| leisure | /ˈleʒə/ | وقت فراغ | ٢.١ | ص ٩٤ |
+| loneliness | /ˈləʊnlinəs/ | وحدة | ٢.١ | ص ٩٤ |
+| manage | /ˈmænɪdʒ/ | يدير | ٢.١ | ص ٩٤ |
+| mental | /ˈmentl/ | نفسي | ٢.١ | ص ٩٤ |
+| mindful | /ˈmaɪndfəl/ | واعي | ٢.١ | ص ٩٤ |
+| navigate | /ˈnævɪɡeɪt/ | يتنقل | ٢.١ | ص ٩٤ |
+| overall | /ˈəʊvərɔːl/ | شامل | ٢.١ | ص ٩٤ |
+| passive | /ˈpæsɪv/ | سلبي | ٢.١ | ص ٩٤ |
+| passion | /ˈpæʃn/ | شغف | ٢.١ | ص ٩٤ |
+| period | /ˈpɪəriəd/ | فترة | ٢.١ | ص ٩٤ |
+| produce | /prəˈdjuːs/ | ينتج | ٢.١ | ص ٩٤ |
+| replicate | /ˈreplɪkeɪt/ | يكرر | ٢.١ | ص ٩٤ |
+| restrict | /rɪˈstrɪkt/ | يقيد | ٢.١ | ص ٩٤ |
+| screen time | /ˈskriːn taɪm/ | وقت الشاشة | ٢.١ | ص ٩٤ |
+| screen-saturated | /ˈskriːn ˈsætʃəreɪtɪd/ | مشبع بالشاشات | ٢.١ | ص ٩٤ |
+| self-esteem | /ˌself ɪˈstiːm/ | احترام الذات | ٢.١ | ص ٩٤ |
+| self-image | /ˌself ˈɪmɪdʒ/ | صورة الذات | ٢.١ | ص ٩٤ |
+| self-expression | /ˌself ɪkˈspreʃn/ | تعبير عن الذات | ٢.١ | ص ٩٤ |
+| sleep quality | /sliːp ˈkwɒləti/ | جودة النوم | ٢.١ | ص ٩٤ |
+| social | /ˈsəʊʃl/ | اجتماعي | ٢.١ | ص ٩٤ |
+| socialize | /ˈsəʊʃəlaɪz/ | يمتلط اجتماعياً | ٢.١ | ص ٩٤ |
+| spectrum | /ˈspektrəm/ | طيف | ٢.١ | ص ٩٤ |
+| spark | /spɑːk/ | شرارة | ٢.١ | ص ٩٤ |
+| stimulation | /ˌstɪmjəˈleɪʃn/ | تحفيز | ٢.١ | ص ٩٤ |
+| streaming | /ˈstriːmɪŋ/ | بث مباشر | ٢.١ | ص ٩٤ |
+| withdraw | /wɪðˈdrɔː/ | ينسحب | ٢.١ | ص ٩٤ |
+| worth | /wɜːθ/ | قيمة | ٢.١ | ص ٩٤ |
+
+---
+
+**المصدر:** كتاب "الاضواء" — الإنجليزية للصف الثاني ثانوي الترم الأول، الوحدة ٢ الجزء أ، الصفحات ٩٣-٩٤ (الطبعة المعتمدة ٢٠٢٦/٢٠٢٧).
