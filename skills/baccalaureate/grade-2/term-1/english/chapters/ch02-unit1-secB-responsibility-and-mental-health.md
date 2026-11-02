@@ -269,10 +269,10 @@ Identify the grammar error: 'She a reading passage about personal responsibility
 
 | الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
 |---|---|---|---|---|---|---|
-| **responsibility** | مسؤولية | The state of being accountable for something | duty, obligation | irresponsibility | "Taking responsibility for your actions builds trust." | ص ٢٧ |
-| **accountable** | مسؤول / محاسب | Required to explain one's actions | answerable, liable | unaccountable | "Students must be accountable for their homework." | ص ٢٨ |
-| **commitment** | التزام / تفاني | Dedication to a cause or activity | dedication, loyalty | neglect, indifference | "Commitment to studies leads to better grades." | ص ٢٩ |
-| **obligation** | التزام قانوني / أخلاقي | A moral or legal duty | responsibility, duty | option, choice | "Voting is a civic obligation." | ص ٣٠ |
+| **responsibility** | مسؤولية | The state of being accountable for something | duty, obligation | irresponsibility | "Taking responsibility for your actions builds trust." | ص ٤٨ |
+| **accountable** | مسؤول / محاسب | Required to explain one's actions | answerable, liable | unaccountable | "Students must be accountable for their homework." | ص ٤٨ |
+| **commitment** | التزام / تفاني | Dedication to a cause or activity | dedication, loyalty | neglect, indifference | "Commitment to studies leads to better grades." | ص ٤٨ |
+| **obligation** | التزام قانوني / أخلاقي | A moral or legal duty | responsibility, duty | option, choice | "Voting is a civic obligation." | ص ٤٨ |
 
 ---
 
@@ -280,10 +280,10 @@ Identify the grammar error: 'She a reading passage about personal responsibility
 
 | الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
 |---|---|---|---|---|---|---|
-| **mental health** | الصحة النفسية | A person's condition with regard to psychological well-being | emotional well-being | mental illness | "Good mental health is essential for academic success." | ص ٣٢ |
-| **well-being** | الرفاهية / العافية | The state of being comfortable, healthy, or happy | wellness, welfare | distress, misery | "Exercise improves overall well-being." | ص ٣٣ |
-| **stress** | ضغط نفسي | A state of mental or emotional strain | pressure, tension | relaxation, calm | "Exam stress affects many students." | ص ٣٤ |
-| **coping strategy** | استراتيجية التكيف | A method for dealing with stress or difficulty | adaptation mechanism | avoidance | "Deep breathing is a useful coping strategy." | ص ٣٥ |
+| **mental health** | الصحة النفسية | A person's condition with regard to psychological well-being | emotional well-being | mental illness | "Good mental health is essential for academic success." | ص ٤٧ |
+| **well-being** | الرفاهية / العافية | The state of being comfortable, healthy, or happy | wellness, welfare | distress, misery | "Exercise improves overall well-being." | ص ٤٨ |
+| **stress** | ضغط نفسي | A state of mental or emotional strain | pressure, tension | relaxation, calm | "Exam stress affects many students." | ص ٤٨ |
+| **coping strategy** | استراتيجية التكيف | A method for dealing with stress or difficulty | adaptation mechanism | avoidance | "Deep breathing is a useful coping strategy." | ص ٤٨ |
 
 ---
 
@@ -291,10 +291,10 @@ Identify the grammar error: 'She a reading passage about personal responsibility
 
 | الكلمة الإنجليزية | المعنى العربي | التعريف الإنجليزي | المترادفات (Synonyms) | المضادات (Antonyms) | مثال | رقم الصفحة |
 |---|---|---|---|---|---|---|
-| **nutrition** | تغذية | The process of providing or obtaining food necessary for health | nourishment, diet | malnutrition | "Proper nutrition supports brain function." | ص ٣٧ |
-| **sleep** | نوم | A natural state of rest for the body and mind | slumber, rest | insomnia, wakefulness | "Eight hours of sleep improves concentration." | ص ٣٨ |
-| **exercise** | تمرين / رياضة | Physical activity done to maintain health | workout, physical activity | inactivity | "Regular exercise boosts mood and energy." | ص ٣٩ |
-| **balanced diet** | نظام غذائي متوازن | A diet containing proper proportions of nutrients | healthy eating | junk food diet | "A balanced diet includes fruits, vegetables, and proteins." | ص ٤٠ |
+| **nutrition** | تغذية | The process of providing or obtaining food necessary for health | nourishment, diet | malnutrition | "Proper nutrition supports brain function." | ص ٤٨ |
+| **sleep** | نوم | A natural state of rest for the body and mind | slumber, rest | insomnia, wakefulness | "Eight hours of sleep improves concentration." | ص ٤٨ |
+| **exercise** | تمرين / رياضة | Physical activity done to maintain health | workout, physical activity | inactivity | "Regular exercise boosts mood and energy." | ص ٤٨ |
+| **balanced diet** | نظام غذائي متوازن | A diet containing proper proportions of nutrients | healthy eating | junk food diet | "A balanced diet includes fruits, vegetables, and proteins." | ص ٤٨ |
 
 ---
 
@@ -302,18 +302,18 @@ Identify the grammar error: 'She a reading passage about personal responsibility
 
 | الكلمة | النطق التقريبي | المعنى العربي | الدرس | رقم الصفحة |
 |---|---|---|---|---|
-| accountability | /əˌkaʊntəˈbɪləti/ | المساءلة | الدرس الأول | ص ٢٨ |
-| balanced diet | /ˈbælənst daɪət/ | نظام غذائي متوازن | الدرس الثالث | ص ٤٠ |
-| commitment | /kəˈmɪtmənt/ | التزام | الدرس الأول | ص ٢٩ |
-| coping strategy | /ˈkəʊpɪŋ ˈstrætədʒi/ | استراتيجية التكيف | الدرس الثاني | ص ٣٥ |
-| exercise | /ˈeksəsaɪz/ | تمرين | الدرس الثالث | ص ٣٩ |
-| mental health | /ˈmentl helθ/ | الصحة النفسية | الدرس الثاني | ص ٣٢ |
-| nutrition | /njuːˈtrɪʃn/ | تغذية | الدرس الثالث | ص ٣٧ |
-| obligation | /ˌɒblɪˈɡeɪʃn/ | التزام | الدرس الأول | ص ٣٠ |
-| responsibility | /ˌrɪspənsəˈbɪləti/ | مسؤولية | الدرس الأول | ص ٢٧ |
-| sleep | /sliːp/ | نوم | الدرس الثالث | ص ٣٨ |
-| stress | /stres/ | ضغط نفسي | الدرس الثاني | ص ٣٤ |
-| well-being | /ˈwel biːɪŋ/ | الرفاهية | الدرس الثاني | ص ٣٣ |
+| accountability | /əˌkaʊntəˈbɪləti/ | المساءلة | الدرس الأول | ص ٤٨ |
+| balanced diet | /ˈbælənst daɪət/ | نظام غذائي متوازن | الدرس الثالث | ص ٤٨ |
+| commitment | /kəˈmɪtmənt/ | التزام | الدرس الأول | ص ٤٨ |
+| coping strategy | /ˈkəʊpɪŋ ˈstrætədʒi/ | استراتيجية التكيف | الدرس الثاني | ص ٤٨ |
+| exercise | /ˈeksəsaɪz/ | تمرين | الدرس الثالث | ص ٤٨ |
+| mental health | /ˈmentl helθ/ | الصحة النفسية | الدرس الثاني | ص ٤٧ |
+| nutrition | /njuːˈtrɪʃn/ | تغذية | الدرس الثالث | ص ٤٨ |
+| obligation | /ˌɒblɪˈɡeɪʃn/ | التزام | الدرس الأول | ص ٤٨ |
+| responsibility | /ˌrɪspənsəˈbɪləti/ | مسؤولية | الدرس الأول | ص ٤٨ |
+| sleep | /sliːp/ | نوم | الدرس الثالث | ص ٤٨ |
+| stress | /stres/ | ضغط نفسي | الدرس الثاني | ص ٤٨ |
+| well-being | /ˈwel biːɪŋ/ | الرفاهية | الدرس الثاني | ص ٤٨ |
 
 ---
 
