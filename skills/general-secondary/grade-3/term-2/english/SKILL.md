@@ -17,7 +17,10 @@ description: "Egyptian General Secondary Grade 3 Part 2 english complete multi-c
 | **أنماط الأسئلة** | الأنماط الامتحانية المتكررة ومفاتيح الحل | [patterns.md](patterns.md) |
 | **الملخص السريع** | مراجعة ليلة الامتحان والقوانين والقواعد الذهبية | [cheatsheet.md](cheatsheet.md) |
 | **ch00** | نظرة عامة وخريطة المنهج | [chapters/ch00-overview.md](chapters/ch00-overview.md) |
-| **ch01** | Units 7 & 8: Reach for the Stars (Adjectives/Adverbs & Present Perfect) & Work Experience (Passive Voice) | [chapters/ch01-units7-and-8-reach-for-the-stars-and-work-experience.md](chapters/ch01-units7-and-8-reach-for-the-stars-and-work-experience.md) |
-| **ch02** | Units 9 & 10: Starting Again (Quantifiers) & Places of Cultural Interest (Modals of Deduction) | [chapters/ch02-units9-and-10-starting-again-and-places-of-cultural-interest.md](chapters/ch02-units9-and-10-starting-again-and-places-of-cultural-interest.md) |
-| **ch03** | Units 11 & 12: Finding Your Culture (Relative Clauses & Compound Adjectives) & Myths and Fables (Reported Speech) | [chapters/ch03-units11-and-12-finding-your-culture-and-myths-and-fables.md](chapters/ch03-units11-and-12-finding-your-culture-and-myths-and-fables.md) |
-| **ch04** | Charles Dickens's Great Expectations — Chapters 7 to 12 (Provis's Return, Orlick, Compeyson & Pip's Moral Redemption) | [chapters/ch04-great-expectations-chapters-7-to-12.md](chapters/ch04-great-expectations-chapters-7-to-12.md) |
+| **ch01** | الوحدة ١: فهم المقروء المتقدم | [chapters/ch01-unit1-advanced-reading-comprehension.md](chapters/ch01-unit1-advanced-reading-comprehension.md) |
+| **ch02** | الوحدة ٢: القواعد المتقدمة والكتابة | [chapters/ch02-unit2-advanced-grammar-and-writing.md](chapters/ch02-unit2-advanced-grammar-and-writing.md) |
+| **ch03** | الوحدة ٣: التحليل الأدبي والتذوق | [chapters/ch03-unit3-literary-analysis-and-appreciation.md](chapters/ch03-unit3-literary-analysis-and-appreciation.md) |
+| **ch04** | الوحدة ٤: مهارات البحث والعرض | [chapters/ch04-unit4-research-and-presentation-skills.md](chapters/ch04-unit4-research-and-presentation-skills.md) |
+| **ch05** | الوحدة ٥: دراسات وسائل الإعلام والتواصل | [chapters/ch05-unit5-media-and-communication-studies.md](chapters/ch05-unit5-media-and-communication-studies.md) |
+| **ch06** | الوحدة ٦: القضايا العالمية والمواطنة | [chapters/ch06-unit6-global-issues-and-citizenship.md](chapters/ch06-unit6-global-issues-and-citizenship.md) |
+| **ch07** | الوحدة ٧: الاستعداد للامتحان النهائي | [chapters/ch07-unit7-final-exam-preparation.md](chapters/ch07-unit7-final-exam-preparation.md) |
